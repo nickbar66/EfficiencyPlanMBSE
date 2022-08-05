@@ -1,0 +1,19 @@
+I-Logix-RPY-Archive version 8.15.0 * 202006101734
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 0;
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 1;
+	- value = "GUID 8099fbfb-c3a4-4485-8dd1-1bb799079bc7" "GUID 1eadfbe3-8a95-4d33-ac58-ab1e90497ee1"
+	
+}
+- size = 1;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\TestSimulazioni_rpy\\MySimulation.cmpx";
+	- _name = "MySimulation\\Cygwin";
+	- _id = GUID 9af70c89-2cca-48d8-9c84-debc989f36d9;
+}
+- genTime = 8.5.2022::13:1:43;
+

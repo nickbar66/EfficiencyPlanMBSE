@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202006101734</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IProject type="e">
+			<_id type="a">GUID 1eadfbe3-8a95-4d33-ac58-ab1e90497ee1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">TestSimulazioni</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">SysML</_hsubsystem>
+							<_hname type="a">SysML</_hname>
+							<_hid type="a">GUID 052b8171-a32b-4f45-a829-5585f79f9deb</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">8.5.2022::13:1:23</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.5.2022::13:1:23</_modifiedTime>
+			<_lastID type="a">4</_lastID>
+			<_UserColors type="w">
+				<IRPYRawContainer type="e">
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+					<value>16777215</value>
+				</IRPYRawContainer>
+			</_UserColors>
+			<_defaultSubsystem type="r">
+				<ISubsystemHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hname type="a">SimulazioneStateWithPAnel</_hname>
+					<_hid type="a">GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</_hid>
+				</ISubsystemHandle>
+			</_defaultSubsystem>
+			<_component type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IComponent</_hm2Class>
+					<_hname type="a">MySimulation</_hname>
+					<_hid type="a">GUID 8099fbfb-c3a4-4485-8dd1-1bb799079bc7</_hid>
+				</IHandle>
+			</_component>
+			<Multiplicities type="c">
+				<IRPYRawContainer type="e">
+					<IMultiplicityItem type="e">
+						<_name type="a">1</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">*</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">0,1</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+					<IMultiplicityItem type="e">
+						<_name type="a">1..*</_name>
+						<_count type="a">-1</_count>
+					</IMultiplicityItem>
+					
+				</IRPYRawContainer>
+			</Multiplicities>
+			<_isImportedFromDM type="a">0</_isImportedFromDM>
+			<Diagrams type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Diagrams>
+			<mapOslcAddedCollections type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</mapOslcAddedCollections>
+			<mapAssociationsToRemove type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</mapAssociationsToRemove>
+			<AggregatesList type="e">
+				<value>GUID d9689b73-885e-44c4-896b-de43defa0a33</value>
+				<value>GUID ab285915-0966-4322-a029-ffac3e6ef3df</value>
+				<value>GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</value>
+				<value>GUID 35083822-040d-4785-a2bb-96f84bdef1ea</value>
+				<value>GUID 75b62d79-7b98-46ab-8d11-8a73518cee80</value>
+				<value>GUID 8099fbfb-c3a4-4485-8dd1-1bb799079bc7</value>
+			</AggregatesList>
+		</IProject>
+		<IProfile type="e">
+			<fileName type="a">SysML</fileName>
+			<_persistAs type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy</_persistAs>
+			<_id type="a">GUID d9689b73-885e-44c4-896b-de43defa0a33</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</IProfile>
+		<IProfile type="e">
+			<fileName type="a">SysMLPerspectives</fileName>
+			<_persistAs type="a">$OMROOT\Settings\SysMLPerspectives</_persistAs>
+			<_id type="a">GUID ab285915-0966-4322-a029-ffac3e6ef3df</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</IProfile>
+		<ISubsystem type="e">
+			<fileName type="a">SimulazioneStateWithPAnel</fileName>
+			<_id type="a">GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">SimulazioneActivityCalculator</fileName>
+			<_id type="a">GUID 35083822-040d-4785-a2bb-96f84bdef1ea</_id>
+		</ISubsystem>
+		<IComponent type="e">
+			<fileName type="a">DefaultComponent</fileName>
+			<_id type="a">GUID 75b62d79-7b98-46ab-8d11-8a73518cee80</_id>
+		</IComponent>
+		<IComponent type="e">
+			<fileName type="a">MySimulation</fileName>
+			<_id type="a">GUID 8099fbfb-c3a4-4485-8dd1-1bb799079bc7</_id>
+		</IComponent>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

@@ -1,0 +1,40 @@
+I-Logix-RPY-Archive version 8.15.0 * 202006101734
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 4;
+	- value = "MySimulation/StateChartSim_Simulation/SimulazioneStateWithPAnel.cpp" 8.5.2022::12:59:11
+	"MySimulation/StateChartSim_Simulation/SimulazioneStateWithPAnel.h" 8.5.2022::12:59:11
+	"MySimulation/StateChartSim_Simulation/StateChartSim.cpp" 8.5.2022::12:59:11
+	"MySimulation/StateChartSim_Simulation/StateChartSim.h" 8.5.2022::12:59:11
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 8099fbfb-c3a4-4485-8dd1-1bb799079bc7" "GUID 1eadfbe3-8a95-4d33-ac58-ab1e90497ee1"
+	"GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296" "GUID 1eadfbe3-8a95-4d33-ac58-ab1e90497ee1"
+	
+}
+- size = 3;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\TestSimulazioni_rpy\\SimulazioneStateWithPAnel.sbsx";
+	- _name = "SimulazioneStateWithPAnel";
+	- _id = GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296;
+}
+- genTime = 8.5.2022::13:2:0;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\TestSimulazioni_rpy\\SimulazioneStateWithPAnel.sbsx";
+	- _subsystem = "SimulazioneStateWithPAnel";
+	- _name = "StateChartSim";
+	- _id = GUID 689c861d-e56f-41fb-b0b8-aa63e5fa15ef;
+}
+- genTime = 8.5.2022::13:2:0;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\TestSimulazioni_rpy\\MySimulation.cmpx";
+	- _name = "MySimulation\\StateChartSim_Simulation";
+	- _id = GUID e13e9b4f-4f33-4d7e-b674-0642631cdef1;
+}
+- genTime = 8.5.2022::13:2:0;
+

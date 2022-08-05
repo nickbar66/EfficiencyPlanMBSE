@@ -1,0 +1,7 @@
+2022-08-05 13:53:18.490+02:00 SXPMIPNW4555.sas.itn CRRHP0010I Rhapsody has found parsing errors as a result of your changes.
+These errors can be viewed in the Output window.
+Would you like Rhapsody to integrate your code changes into the model anyway?
+
+If you select Yes, it may result in unintentional changes to the model.
+In any case, elements will not be deleted from the model based on the code changes.
+If you select No, the code changes you have made will not be reflected in your model.

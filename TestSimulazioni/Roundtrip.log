@@ -1,0 +1,69 @@
+File: C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h, Line: 8 invalid character in input
+File: C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h, Line: 8 invalid character in input
+
+Parsing Summary:
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 2 *** syntax error on input ":"
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 27 *** parsing resumes at '{'
+dont-care-loc *** no function  was declared in this context
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 77 *** no function rootState_IN was declared in this context
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 77 *** There is no declaration for >>StateChartSim<< that is visible here.
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 18 *** no function StateChartSim was declared in this context
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 18 *** There is no declaration for >>StateChartSim<< that is visible here.
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 26 *** no function startBehavior was declared in this context
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 26 *** There is no declaration for >>StateChartSim<< that is visible here.
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 32 *** no function initStatechart was declared in this context
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 32 *** There is no declaration for >>StateChartSim<< that is visible here.
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 37 *** no function rootState_entDef was declared in this context
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 37 *** There is no declaration for >>StateChartSim<< that is visible here.
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 40 *** no function rootState_processEvent was declared in this context
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.cpp":LINE 40 *** There is no declaration for >>StateChartSim<< that is visible here.
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+"C:\Temp\PRJ-Rhapsody\TestSimulazioni\DefaultComponent\DefaultConfig\StateChartSim.h":LINE 8: invalid character in input
+
+Reverse Engineering Done (57).
+
+Source Artifacts have been added to the model to ensure that the generated code reflects details from the original code, such as global comments, preprocessor directives, and the order of elements. See the log file for more details.
+To view the Source Artifacts in the Rhapsody browser, open the View menu and select Browser Display Options > Show Source Artifacts.
+Source Artifacts were added for the following files:
+Adding File 'StateChartSim:spec' to Package 'Simulations'.
+
