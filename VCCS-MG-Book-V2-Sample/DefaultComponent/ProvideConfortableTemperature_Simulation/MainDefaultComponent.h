@@ -4,7 +4,7 @@
 	Component	: DefaultComponent 
 	Configuration 	: ProvideConfortableTemperature_Simulation
 	Model Element	: ProvideConfortableTemperature_Simulation
-//!	Generated Date	: Fri, 5, Aug 2022  
+//!	Generated Date	: Fri, 12, Aug 2022  
 	File Path	: DefaultComponent/ProvideConfortableTemperature_Simulation/MainDefaultComponent.h
 *********************************************************************/
 

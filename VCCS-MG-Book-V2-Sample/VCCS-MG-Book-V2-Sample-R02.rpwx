@@ -77,49 +77,16 @@
 								<_hid type="a">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-25 210 </_UpLeft>
-						<_DownRight type="a">1177 930 </_DownRight>
+						<_UpLeft type="a">-25 -59 </_UpLeft>
+						<_DownRight type="a">2853 1512 </_DownRight>
 						<_instanceName type="a">ProvideConfortableTemperature[0]</_instanceName>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">2</m_nFlags>
-								<m_showCmd type="a">3</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">-88</m_nLeft>
-								<m_nTop type="a">202</m_nTop>
-								<m_nRight type="a">897</m_nRight>
-								<m_nBottom type="a">717</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IActivityDiagram</_hm2Class>
-								<_hsubsystem type="a">TestSimulazioni</_hsubsystem>
-								<_hclass type="a">Calculator</_hclass>
-								<_hname type="a">ActivityDiagram</_hname>
-								<_hid type="a">GUID 2a3365b1-d817-4b12-b2c2-93d951a41a99</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">1202 709 </_DownRight>
-						<_instanceName type="a">Calculator[0]</_instanceName>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Temp\PRJ-Rhapsody\VCCS-MG-Book-V2-Sample\VCCS-MG-Book-V2-Sample-R02</_fullName>
+			<_fullName type="a">C:\Temp\EfficiencyPlanMBSE\VCCS-MG-Book-V2-Sample\VCCS-MG-Book-V2-Sample-R02</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">

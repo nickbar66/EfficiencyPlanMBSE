@@ -9,16 +9,17 @@
 	
 	<RHAPSODY-MODEL>
 	<IComponent type="e">
-			<_id type="a">GUID 75b62d79-7b98-46ab-8d11-8a73518cee80</_id>
+			<_id type="a">GUID 35284dde-847b-4df6-859a-b787e0dafc53</_id>
 			<_myState type="a">139264</_myState>
 			<_name type="a">DefaultComponent</_name>
-			<_modifiedTimeWeak type="a">8.5.2022::10:59:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.5.2022::10:59:9</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.12.2022::14:46:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.12.2022::15:11:10</_modifiedTime>
+			<_lastID type="a">1</_lastID>
 			<m_buildType type="a">Executable</m_buildType>
 			<m_configActive type="r">
 				<ICodeGenConfigInfoHandle type="e">
 					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
-					<_hid type="a">GUID d0e46170-9a85-48f6-840c-02e170870fcb</_hid>
+					<_hid type="a">GUID 06fddc7b-b5f1-4c0e-b311-1028f05da89f</_hid>
 				</ICodeGenConfigInfoHandle>
 			</m_configActive>
 			<HandlesInMe type="c">
@@ -42,9 +43,17 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">ISubsystem</_hm2Class>
-							<_hfilename type="a">.\Simulations.sbsx</_hfilename>
-							<_hname type="a">Simulations</_hname>
+							<_hfilename type="a">.\SimulazioneStateWithPAnel\SimulazioneStateWithPAnel.sbsx</_hfilename>
+							<_hname type="a">SimulazioneStateWithPAnel</_hname>
 							<_hid type="a">GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\SimulazioneActivityCalculator\SimulazioneActivityCalculator.sbsx</_hfilename>
+							<_hname type="a">SimulazioneActivityCalculator</_hname>
+							<_hid type="a">GUID 35083822-040d-4785-a2bb-96f84bdef1ea</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
@@ -57,19 +66,19 @@
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
 			</SelectedVariants>
-			<weakCGTime type="a">8.5.2022::10:59:9</weakCGTime>
+			<weakCGTime type="a">8.12.2022::14:46:14</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<AggregatesList type="e">
-				<value>GUID 69b77836-e4b7-41c5-b51c-c64203656a25</value>
-				<value>GUID d0e46170-9a85-48f6-840c-02e170870fcb</value>
+				<value>GUID 78fc95cb-9c8a-48ed-9022-02e3b03cf400</value>
+				<value>GUID 06fddc7b-b5f1-4c0e-b311-1028f05da89f</value>
 			</AggregatesList>
 		</IComponent>
 		<IFolder type="e">
-			<_id type="a">GUID 69b77836-e4b7-41c5-b51c-c64203656a25</_id>
+			<_id type="a">GUID 78fc95cb-9c8a-48ed-9022-02e3b03cf400</_id>
 			<_myState type="a">73728</_myState>
 			<_name type="a">Files</_name>
-			<_modifiedTimeWeak type="a">8.5.2022::10:38:28</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.5.2022::10:38:28</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.12.2022::14:13:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.12.2022::14:13:39</_modifiedTime>
 			<Elements type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -80,11 +89,41 @@
 			</Files>
 		</IFolder>
 		<ICodeGenConfigInfo type="e">
-			<_id type="a">GUID d0e46170-9a85-48f6-840c-02e170870fcb</_id>
+			<_id type="a">GUID 06fddc7b-b5f1-4c0e-b311-1028f05da89f</_id>
 			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Configuration</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Environment</_Name>
+													<_Value type="a">Cygwin</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">MinGW,MSVC,MSVCDLL,MSVCStandardLibrary,VxWorks_DKM,VxWorks_RTP,WorkbenchManaged_DKM,WorkbenchManaged_RTP,WorkbenchManaged653,Cygwin,Linux,QNXNeutrinoGCC, QNXNeutrinoMomentics</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<_name type="a">DefaultConfig</_name>
-			<_modifiedTimeWeak type="a">8.5.2022::10:59:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.5.2022::10:59:9</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.12.2022::15:7:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.12.2022::15:7:51</_modifiedTime>
 			<_scopeType type="a">Explicit</_scopeType>
 			<_instrumentation type="a">None</_instrumentation>
 			<_timeModel type="a">RealTime</_timeModel>
@@ -101,16 +140,25 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IClass</_hm2Class>
-							<_hfilename type="a">.\Simulations.sbsx</_hfilename>
-							<_hsubsystem type="a">Simulations</_hsubsystem>
+							<_hfilename type="a">.\SimulazioneActivityCalculator\SimulazioneActivityCalculator.sbsx</_hfilename>
+							<_hsubsystem type="a">SimulazioneActivityCalculator</_hsubsystem>
+							<_hname type="a">Calculator</_hname>
+							<_hid type="a">GUID 940469a3-98c8-41b4-82ff-65d18523d0be</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\SimulazioneStateWithPAnel\SimulazioneStateWithPAnel.sbsx</_hfilename>
+							<_hsubsystem type="a">SimulazioneStateWithPAnel</_hsubsystem>
 							<_hname type="a">StateChartSim</_hname>
 							<_hid type="a">GUID 689c861d-e56f-41fb-b0b8-aa63e5fa15ef</_hid>
 						</IHandle>
 					
 				</IRPYRawContainer>
 			</InitialInstances>
-			<weakCGTime type="a">8.5.2022::10:59:9</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<weakCGTime type="a">8.12.2022::15:7:51</weakCGTime>
+			<strongCGTime type="a">8.12.2022::15:7:51</strongCGTime>
 			<AnimScopeElements type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -118,15 +166,15 @@
 			<m_allInAnimScope type="a">1</m_allInAnimScope>
 			<m_generateUsecases type="a">0</m_generateUsecases>
 			<AggregatesList type="e">
-				<value>GUID 0c7e4018-2d7a-4d65-b0ce-2643908dab7e</value>
-				<value>GUID ea9d6a81-01ee-49fc-881f-ef656ad2619b</value>
-				<value>GUID 0d320f76-5242-445a-876a-b742cf72a63f</value>
+				<value>GUID daeb8100-fb47-4988-b657-2556ada694a9</value>
+				<value>GUID b2799b90-486f-418f-89f4-819bc37f1a82</value>
+				<value>GUID 33584efc-b1cb-47bc-8025-049b89145395</value>
 			</AggregatesList>
 		</ICodeGenConfigInfo>
 		<IMHyperLink type="e">
-			<_id type="a">GUID 0c7e4018-2d7a-4d65-b0ce-2643908dab7e</_id>
+			<_id type="a">GUID daeb8100-fb47-4988-b657-2556ada694a9</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.5.2022::10:43:7</_modifiedTime>
+			<_modifiedTime type="a">8.12.2022::15:3:23</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 				</INObjectHandle>
@@ -137,9 +185,9 @@
 			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
 		</IMHyperLink>
 		<IMHyperLink type="e">
-			<_id type="a">GUID ea9d6a81-01ee-49fc-881f-ef656ad2619b</_id>
+			<_id type="a">GUID b2799b90-486f-418f-89f4-819bc37f1a82</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.5.2022::10:43:7</_modifiedTime>
+			<_modifiedTime type="a">8.12.2022::15:3:23</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 				</INObjectHandle>
@@ -150,11 +198,11 @@
 			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
 		</IMHyperLink>
 		<IFolder type="e">
-			<_id type="a">GUID 0d320f76-5242-445a-876a-b742cf72a63f</_id>
+			<_id type="a">GUID 33584efc-b1cb-47bc-8025-049b89145395</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DefaultConfig</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.5.2022::10:38:28</_modifiedTime>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
 			<Elements type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>

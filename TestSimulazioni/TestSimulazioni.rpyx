@@ -24,8 +24,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.5.2022::13:1:23</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.5.2022::13:1:23</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.12.2022::14:13:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.12.2022::14:46:10</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -57,8 +57,8 @@
 			<_component type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IComponent</_hm2Class>
-					<_hname type="a">MySimulation</_hname>
-					<_hid type="a">GUID 8099fbfb-c3a4-4485-8dd1-1bb799079bc7</_hid>
+					<_hname type="a">DefaultComponent</_hname>
+					<_hid type="a">GUID 35284dde-847b-4df6-859a-b787e0dafc53</_hid>
 				</IHandle>
 			</_component>
 			<Multiplicities type="c">
@@ -103,8 +103,7 @@
 				<value>GUID ab285915-0966-4322-a029-ffac3e6ef3df</value>
 				<value>GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</value>
 				<value>GUID 35083822-040d-4785-a2bb-96f84bdef1ea</value>
-				<value>GUID 75b62d79-7b98-46ab-8d11-8a73518cee80</value>
-				<value>GUID 8099fbfb-c3a4-4485-8dd1-1bb799079bc7</value>
+				<value>GUID 35284dde-847b-4df6-859a-b787e0dafc53</value>
 			</AggregatesList>
 		</IProject>
 		<IProfile type="e">
@@ -121,19 +120,17 @@
 		</IProfile>
 		<ISubsystem type="e">
 			<fileName type="a">SimulazioneStateWithPAnel</fileName>
+			<_persistAs type="a">SimulazioneStateWithPAnel</_persistAs>
 			<_id type="a">GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</_id>
 		</ISubsystem>
 		<ISubsystem type="e">
 			<fileName type="a">SimulazioneActivityCalculator</fileName>
+			<_persistAs type="a">SimulazioneActivityCalculator</_persistAs>
 			<_id type="a">GUID 35083822-040d-4785-a2bb-96f84bdef1ea</_id>
 		</ISubsystem>
 		<IComponent type="e">
 			<fileName type="a">DefaultComponent</fileName>
-			<_id type="a">GUID 75b62d79-7b98-46ab-8d11-8a73518cee80</_id>
-		</IComponent>
-		<IComponent type="e">
-			<fileName type="a">MySimulation</fileName>
-			<_id type="a">GUID 8099fbfb-c3a4-4485-8dd1-1bb799079bc7</_id>
+			<_id type="a">GUID 35284dde-847b-4df6-859a-b787e0dafc53</_id>
 		</IComponent>
 		
 	</RHAPSODY-MODEL>

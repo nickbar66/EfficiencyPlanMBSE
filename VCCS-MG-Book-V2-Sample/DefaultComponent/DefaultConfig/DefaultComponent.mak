@@ -60,17 +60,7 @@ INCLUDE_PATH= \
 
 ADDITIONAL_OBJS=
 
-OBJS= \
-  VehicleInUse.o \
-  VehicleInMaintenance.o \
-  VCCU.o \
-  TemperatureSensor.o \
-  Cabin.o \
-  VehicleOccupant.o \
-  Calculator.o \
-  P_3_Use_Cases.o \
-  P_2_System_Context.o \
-  TestSimulazioni.o
+OBJS=
 
 
 
@@ -122,76 +112,6 @@ endif
 
 
 
-VehicleInUse.o : VehicleInUse.cpp VehicleInUse.h    P_2_System_Context.h VCCU.h Cabin.h TemperatureSensor.h VehicleOccupant.h 
-	@echo Compiling VehicleInUse.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o VehicleInUse.o VehicleInUse.cpp
-
-
-
-
-VehicleInMaintenance.o : VehicleInMaintenance.cpp VehicleInMaintenance.h    P_2_System_Context.h 
-	@echo Compiling VehicleInMaintenance.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o VehicleInMaintenance.o VehicleInMaintenance.cpp
-
-
-
-
-VCCU.o : VCCU.cpp VCCU.h    P_2_System_Context.h 
-	@echo Compiling VCCU.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o VCCU.o VCCU.cpp
-
-
-
-
-TemperatureSensor.o : TemperatureSensor.cpp TemperatureSensor.h    P_2_System_Context.h 
-	@echo Compiling TemperatureSensor.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o TemperatureSensor.o TemperatureSensor.cpp
-
-
-
-
-Cabin.o : Cabin.cpp Cabin.h    P_2_System_Context.h 
-	@echo Compiling Cabin.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o Cabin.o Cabin.cpp
-
-
-
-
-VehicleOccupant.o : VehicleOccupant.cpp VehicleOccupant.h    P_2_System_Context.h 
-	@echo Compiling VehicleOccupant.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o VehicleOccupant.o VehicleOccupant.cpp
-
-
-
-
-Calculator.o : Calculator.cpp Calculator.h    TestSimulazioni.h 
-	@echo Compiling Calculator.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o Calculator.o Calculator.cpp
-
-
-
-
-P_3_Use_Cases.o : P_3_Use_Cases.cpp P_3_Use_Cases.h    
-	@echo Compiling P_3_Use_Cases.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o P_3_Use_Cases.o P_3_Use_Cases.cpp
-
-
-
-
-P_2_System_Context.o : P_2_System_Context.cpp P_2_System_Context.h    VehicleInUse.h VehicleInMaintenance.h VCCU.h TemperatureSensor.h Cabin.h VehicleOccupant.h 
-	@echo Compiling P_2_System_Context.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o P_2_System_Context.o P_2_System_Context.cpp
-
-
-
-
-TestSimulazioni.o : TestSimulazioni.cpp TestSimulazioni.h    Calculator.h 
-	@echo Compiling TestSimulazioni.cpp
-	@$(CC) $(ConfigurationCPPCompileSwitches)  -o TestSimulazioni.o TestSimulazioni.cpp
-
-
-
-
 
 
 
@@ -220,16 +140,7 @@ $(TARGET_NAME)$(LIB_EXT) : $(OBJS) $(ADDITIONAL_OBJS) DefaultComponent.mak
 
 clean:
 	@echo Cleanup
-	$(RM) VehicleInUse.o
-	$(RM) VehicleInMaintenance.o
-	$(RM) VCCU.o
-	$(RM) TemperatureSensor.o
-	$(RM) Cabin.o
-	$(RM) VehicleOccupant.o
-	$(RM) Calculator.o
-	$(RM) P_3_Use_Cases.o
-	$(RM) P_2_System_Context.o
-	$(RM) TestSimulazioni.o
+	
 	$(RM) $(TARGET_MAIN)$(OBJ_EXT) $(ADDITIONAL_OBJS)
 	$(RM) $(TARGET_NAME)$(LIB_EXT)
 	$(RM) $(TARGET_NAME)$(EXE_EXT)
