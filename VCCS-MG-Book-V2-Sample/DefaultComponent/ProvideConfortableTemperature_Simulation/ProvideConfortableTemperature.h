@@ -4,7 +4,7 @@
 	Component	: DefaultComponent 
 	Configuration 	: ProvideConfortableTemperature_Simulation
 	Model Element	: ProvideConfortableTemperature
-//!	Generated Date	: Fri, 12, Aug 2022  
+//!	Generated Date	: Sat, 13, Aug 2022  
 	File Path	: DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.h
 *********************************************************************/
 
@@ -287,12 +287,12 @@ public :
             ProvideConfortableTemperature* mContext;
         };
         
-        class ControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMDecisionNode {
+        class ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMDecisionNode {
             ////    Constructors and destructors    ////
             
         public :
         
-            ControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context);
+            ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context);
             
             virtual OMList<OMString> filterPassableFlows();
             
@@ -335,12 +335,12 @@ public :
             ProvideConfortableTemperature* mContext;
         };
         
-        class ControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMDecisionNode {
+        class ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMDecisionNode {
             ////    Constructors and destructors    ////
             
         public :
         
-            ControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context);
+            ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context);
             
             virtual OMList<OMString> filterPassableFlows();
             
@@ -462,8 +462,8 @@ public :
     //## activity_action ProvideConfortableTemperature:ROOT.TurnOffClimateControl
     void delegatedInvokeContextMethodFromActionTurnOffClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
     
-    //## activity_control ProvideConfortableTemperature:ROOT.decisionnode_15
-    OMList<OMString> delegatedFilterPassableFlowsFromControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+    //## activity_control ProvideConfortableTemperature:ROOT.CheckSystemState
+    OMList<OMString> delegatedFilterPassableFlowsFromControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
     
     //## activity_control ProvideConfortableTemperature:ROOT.mergenode_20
     OMList<OMString> delegatedFilterPassableFlowsFromControlMergenode_20InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
@@ -471,22 +471,10 @@ public :
     //## activity_control ProvideConfortableTemperature:ROOT.mergenode_31
     OMList<OMString> delegatedFilterPassableFlowsFromControlMergenode_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
     
-    //## activity_control ProvideConfortableTemperature:ROOT.decisionnode_45
-    OMList<OMString> delegatedFilterPassableFlowsFromControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+    //## activity_control ProvideConfortableTemperature:ROOT.EvalTemp
+    OMList<OMString> delegatedFilterPassableFlowsFromControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
     
     ////    Additional operations    ////
-    
-    //## auto_generated
-    bool getConfortable() const;
-    
-    //## auto_generated
-    void setConfortable(bool p_Confortable);
-    
-    //## auto_generated
-    RhpString getOK() const;
-    
-    //## auto_generated
-    void setOK(RhpString p_OK);
     
     //## auto_generated
     VehicleOccupant* getItsVehicleOccupant() const;
@@ -501,12 +489,6 @@ protected :
 
     //## auto_generated
     void cleanUpRelations();
-    
-    ////    Attributes    ////
-    
-    bool Confortable;		//## attribute Confortable
-    
-    RhpString OK;		//## attribute OK
     
     ////    Relations and components    ////
     
@@ -533,8 +515,6 @@ class OMAnimatedProvideConfortableTemperature : virtual public AOMInstance {
     
 public :
 
-    virtual void serializeAttributes(AOMSAttributes* aomsAttributes) const;
-    
     virtual void serializeRelations(AOMSRelations* aomsRelations) const;
 
     DECLARE_ACTIVITY_META(ProvideConfortableTemperature, OMAnimatedProvideConfortableTemperature)

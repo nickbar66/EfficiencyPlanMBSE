@@ -4,7 +4,7 @@
 	Component	: DefaultComponent 
 	Configuration 	: ProvideConfortableTemperature_Simulation
 	Model Element	: ProvideConfortableTemperature
-//!	Generated Date	: Fri, 12, Aug 2022  
+//!	Generated Date	: Sat, 13, Aug 2022  
 	File Path	: DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.cpp
 *********************************************************************/
 
@@ -174,11 +174,11 @@ void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfor
     mContext->delegatedInvokeContextMethodFromActionTurnOffClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
 }
 
-ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::ControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context) : OMDecisionNode(id, activity), mContext(&context) {
+ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context) : OMDecisionNode(id, activity), mContext(&context) {
 }
 
-OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::filterPassableFlows() {
-    return mContext->delegatedFilterPassableFlowsFromControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::filterPassableFlows() {
+    return mContext->delegatedFilterPassableFlowsFromControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
 }
 
 ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlMergenode_20InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::ControlMergenode_20InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context) : OMMergeNode(id, activity), mContext(&context) {
@@ -195,11 +195,11 @@ OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfP
     return mContext->delegatedFilterPassableFlowsFromControlMergenode_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
 }
 
-ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::ControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context) : OMDecisionNode(id, activity), mContext(&context) {
+ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context) : OMDecisionNode(id, activity), mContext(&context) {
 }
 
-OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::filterPassableFlows() {
-    return mContext->delegatedFilterPassableFlowsFromControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::filterPassableFlows() {
+    return mContext->delegatedFilterPassableFlowsFromControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
 }
 
 ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature(ProvideConfortableTemperature& context) : OMActivity(&context), mContext(&context) {
@@ -218,37 +218,37 @@ ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortable
     ActionGetConfortableAirInActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varGetConfortableAir = new ActionGetConfortableAirInActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.GetConfortableAir", *this, *mContext);
     ActionEnjoyTemperatureeInActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varEnjoyTemperaturee = new ActionEnjoyTemperatureeInActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.EnjoyTemperaturee", *this, *mContext);
     ActionTurnOffClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varTurnOffClimateControl = new ActionTurnOffClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.TurnOffClimateControl", *this, *mContext);
-    ControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varDecisionnode_15 = new ControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.decisionnode_15", *this, *mContext);
+    ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varCheckSystemState = new ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.CheckSystemState", *this, *mContext);
     ControlMergenode_20InActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varMergenode_20 = new ControlMergenode_20InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.mergenode_20", *this, *mContext);
     ControlMergenode_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varMergenode_31 = new ControlMergenode_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.mergenode_31", *this, *mContext);
-    ControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varDecisionnode_45 = new ControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.decisionnode_45", *this, *mContext);
+    ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varEvalTemp = new ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.EvalTemp", *this, *mContext);
     OMInitialAction* varInitialNode0 = new OMInitialAction("ProvideConfortableTemperature:0", *this);
     
     // Setup flows
     new OMControlFlow("ProvideConfortableTemperature:0", *this, *varInitialNode0, *varTurnOnClimateControl);
     new OMControlFlow("ProvideConfortableTemperature:1", *this, *varTurnOnClimateControl, *varCheckSystem);
-    new OMControlFlow("ProvideConfortableTemperature:2", *this, *varCheckSystem, *varDecisionnode_15);
-    new OMControlFlow("ProvideConfortableTemperature:3", *this, *varDecisionnode_15, *varStartClimateControl);
-    new OMControlFlow("ProvideConfortableTemperature:4", *this, *varDecisionnode_15, *varMergenode_20);
+    new OMControlFlow("ProvideConfortableTemperature:2", *this, *varCheckSystem, *varCheckSystemState);
+    new OMControlFlow("ProvideConfortableTemperature:3", *this, *varCheckSystemState, *varStartClimateControl);
+    new OMControlFlow("ProvideConfortableTemperature:4", *this, *varCheckSystemState, *varMergenode_20);
     new OMControlFlow("ProvideConfortableTemperature:5", *this, *varStopClimateControl, *varMergenode_20);
     new OMControlFlow("ProvideConfortableTemperature:6", *this, *varMergenode_20, *varActivityfinal_9);
     new OMControlFlow("ProvideConfortableTemperature:7", *this, *varStartClimateControl, *varMergenode_31);
     new OMControlFlow("ProvideConfortableTemperature:8", *this, *varMergenode_31, *varMeasureTemperature);
     new OMControlFlow("ProvideConfortableTemperature:9", *this, *varDisplayTemperature, *varEvaluateControl);
     new OMControlFlow("ProvideConfortableTemperature:10", *this, *varMeasureTemperature, *varDisplayTemperature);
-    new OMControlFlow("ProvideConfortableTemperature:11", *this, *varEvaluateControl, *varDecisionnode_45);
-    new OMControlFlow("ProvideConfortableTemperature:12", *this, *varDecisionnode_45, *varSetTemperature);
+    new OMControlFlow("ProvideConfortableTemperature:11", *this, *varEvaluateControl, *varEvalTemp);
+    new OMControlFlow("ProvideConfortableTemperature:12", *this, *varEvalTemp, *varSetTemperature);
     new OMControlFlow("ProvideConfortableTemperature:13", *this, *varSetTemperature, *varProvideAir);
     new OMControlFlow("ProvideConfortableTemperature:14", *this, *varProvideAir, *varReachDesiredTemperature);
     new OMControlFlow("ProvideConfortableTemperature:15", *this, *varReachDesiredTemperature, *varGetConfortableAir);
     new OMControlFlow("ProvideConfortableTemperature:16", *this, *varGetConfortableAir, *varMergenode_31);
-    new OMControlFlow("ProvideConfortableTemperature:17", *this, *varDecisionnode_45, *varEnjoyTemperaturee);
+    new OMControlFlow("ProvideConfortableTemperature:17", *this, *varEvalTemp, *varEnjoyTemperaturee);
     new OMControlFlow("ProvideConfortableTemperature:18", *this, *varEnjoyTemperaturee, *varTurnOffClimateControl);
     new OMControlFlow("ProvideConfortableTemperature:19", *this, *varTurnOffClimateControl, *varStopClimateControl);
 }
 //#]
 
-ProvideConfortableTemperature::ProvideConfortableTemperature() : Confortable(true), OK("OK") {
+ProvideConfortableTemperature::ProvideConfortableTemperature() {
     NOTIFY_ACTIVITY_CONSTRUCTOR(ProvideConfortableTemperature, ProvideConfortableTemperature(), 0, Model_P_1_Problem_Domain_P_1_Black_Box_P_3_Use_Cases_ProvideConfortableTemperature_ProvideConfortableTemperature_SERIALIZE);
     itsVehicleOccupant = NULL;
 }
@@ -284,7 +284,7 @@ void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionTurnOn
 OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
     //#[ activity_action ProvideConfortableTemperature:ROOT.CheckSystem
     OMList<OMString> ans;
-    ans.add("ProvideConfortableTemperature:2");
+    if ("NOT OK") { ans.add("ProvideConfortableTemperature:2"); }
     return ans;
     //#]
 }
@@ -444,10 +444,10 @@ void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionTurnOf
     //#]
 }
 
-OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromControlDecisionnode_15InActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
-    //#[ activity_control ProvideConfortableTemperature:ROOT.decisionnode_15
+OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
+    //#[ activity_control ProvideConfortableTemperature:ROOT.CheckSystemState
     OMList<OMString> ans;
-    if (OK) { ans.add("ProvideConfortableTemperature:3"); }
+    if ("OK") { ans.add("ProvideConfortableTemperature:3"); }
     else { ans.add("ProvideConfortableTemperature:4"); }
     return ans;
     //#]
@@ -469,29 +469,13 @@ OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFrom
     //#]
 }
 
-OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromControlDecisionnode_45InActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
-    //#[ activity_control ProvideConfortableTemperature:ROOT.decisionnode_45
+OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
+    //#[ activity_control ProvideConfortableTemperature:ROOT.EvalTemp
     OMList<OMString> ans;
-    if (Confortable) { ans.add("ProvideConfortableTemperature:17"); }
+    if ("OK") { ans.add("ProvideConfortableTemperature:17"); }
     else { ans.add("ProvideConfortableTemperature:12"); }
     return ans;
     //#]
-}
-
-bool ProvideConfortableTemperature::getConfortable() const {
-    return Confortable;
-}
-
-void ProvideConfortableTemperature::setConfortable(bool p_Confortable) {
-    Confortable = p_Confortable;
-}
-
-RhpString ProvideConfortableTemperature::getOK() const {
-    return OK;
-}
-
-void ProvideConfortableTemperature::setOK(RhpString p_OK) {
-    OK = p_OK;
 }
 
 VehicleOccupant* ProvideConfortableTemperature::getItsVehicleOccupant() const {
@@ -552,11 +536,6 @@ void ProvideConfortableTemperature::_clearItsVehicleOccupant() {
 
 #ifdef _OMINSTRUMENT
 //#[ ignore
-void OMAnimatedProvideConfortableTemperature::serializeAttributes(AOMSAttributes* aomsAttributes) const {
-    aomsAttributes->addAttribute("OK", x2String(myReal->OK));
-    aomsAttributes->addAttribute("Confortable", x2String(myReal->Confortable));
-}
-
 void OMAnimatedProvideConfortableTemperature::serializeRelations(AOMSRelations* aomsRelations) const {
     aomsRelations->addRelation("itsVehicleOccupant", false, true);
     if(myReal->itsVehicleOccupant)
