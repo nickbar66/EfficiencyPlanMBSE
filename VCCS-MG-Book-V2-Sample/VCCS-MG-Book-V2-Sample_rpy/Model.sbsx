@@ -42,10 +42,10 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Model</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::10:51:19</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::11:58:42</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:40:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:50:13</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">8.14.2022::10:51:19</weakCGTime>
+			<weakCGTime type="a">8.14.2022::15:40:24</weakCGTime>
 			<strongCGTime type="a">7.20.2022::12:19:41</strongCGTime>
 			<_defaultComposite type="s">GUID 590222c8-c55c-48b7-ba57-688eaa06ff0c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -96,10 +96,10 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">P_1_Problem_Domain</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::10:51:19</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::10:51:19</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:40:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:27:43</_modifiedTime>
 			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">8.14.2022::10:51:19</weakCGTime>
+			<weakCGTime type="a">8.14.2022::15:40:24</weakCGTime>
 			<strongCGTime type="a">6.24.2022::14:46:58</strongCGTime>
 			<_defaultComposite type="s">GUID 534f60ee-456f-4623-ad15-91ca88b35dc8</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -193,10 +193,10 @@ Please do not remove.</_text>
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">P_1_Black_Box</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::10:51:19</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::10:51:19</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:40:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:27:43</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">8.14.2022::10:51:19</weakCGTime>
+			<weakCGTime type="a">8.14.2022::15:40:24</weakCGTime>
 			<strongCGTime type="a">6.24.2022::14:46:58</strongCGTime>
 			<_defaultComposite type="s">GUID d30c2b91-bbd9-4530-8b03-60e5fdc30fff</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -290,10 +290,10 @@ Please do not remove.</_text>
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">P_3_Use_Cases</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::10:51:19</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::10:51:19</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:40:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:27:43</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">8.14.2022::10:51:19</weakCGTime>
+			<weakCGTime type="a">8.14.2022::15:40:24</weakCGTime>
 			<strongCGTime type="a">6.24.2022::14:46:58</strongCGTime>
 			<_defaultComposite type="s">GUID f7106303-6b95-4e97-a68c-e6068a102bab</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -1246,10 +1246,10 @@ Please do not remove.</_text>
 			<_id type="a">GUID 25d379f7-4eab-4977-a729-7ddff7452cb9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ProvideConfortableTemperature</_name>
-			<_modifiedTimeWeak type="a">8.13.2022::16:42:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::11:43:50</_modifiedTime>
-			<_lastID type="a">10</_lastID>
-			<weakCGTime type="a">8.14.2022::12:6:35</weakCGTime>
+			<_modifiedTimeWeak type="a">8.14.2022::12:6:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:38:54</_modifiedTime>
+			<_lastID type="a">12</_lastID>
+			<weakCGTime type="a">8.14.2022::15:42:26</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1265,6 +1265,8 @@ Please do not remove.</_text>
 			<AggregatesList type="e">
 				<value>GUID 30995d47-1013-49c4-8e29-13efb39b1708</value>
 				<value>GUID bafc0c73-3daf-4ee6-8d03-5098d0a81f97</value>
+				<value>GUID f55d4170-b58a-4e56-82ca-1be9a1c1f247</value>
+				<value>GUID e7821882-f088-467b-8b35-b9baa2af0630</value>
 				<value>GUID 3c50ce20-2dd2-48c0-81c5-6994d3cb0443</value>
 				<value>GUID 92da366c-a18a-43ef-9508-c7c8be38212d</value>
 			</AggregatesList>
@@ -1286,8 +1288,8 @@ Please do not remove.</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.14.2022::11:43:43</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::11:43:43</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:27:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:27:43</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -1301,16 +1303,7 @@ Please do not remove.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
-			<AggregatesList type="e">
-				<value>GUID 2bfca041-de49-4250-961b-a3bbc5c8217d</value>
-			</AggregatesList>
 		</IAttribute>
-		<ILiteralSpecification type="e">
-			<_id type="a">GUID 2bfca041-de49-4250-961b-a3bbc5c8217d</_id>
-			<_modifiedTimeWeak type="a">8.14.2022::11:43:43</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::11:43:43</_modifiedTime>
-			<_value type="a">0</_value>
-		</ILiteralSpecification>
 		<IAttribute type="e">
 			<_id type="a">GUID bafc0c73-3daf-4ee6-8d03-5098d0a81f97</_id>
 			<_myState type="a">8192</_myState>
@@ -1328,8 +1321,8 @@ Please do not remove.</_text>
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.14.2022::11:43:50</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::11:43:50</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:27:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:27:54</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -1343,24 +1336,81 @@ Please do not remove.</_text>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
-			<AggregatesList type="e">
-				<value>GUID e51c75c0-c968-4e02-b2a1-f03e3245693a</value>
-			</AggregatesList>
 		</IAttribute>
-		<ILiteralSpecification type="e">
-			<_id type="a">GUID e51c75c0-c968-4e02-b2a1-f03e3245693a</_id>
-			<_modifiedTimeWeak type="a">8.14.2022::11:43:50</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::11:43:50</_modifiedTime>
-			<_value type="a">0</_value>
-		</ILiteralSpecification>
+		<IAttribute type="e">
+			<_id type="a">GUID f55d4170-b58a-4e56-82ca-1be9a1c1f247</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">bufOK</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueProperty</_hname>
+							<_hid type="a">GUID 04164f8c-01a3-4eab-b4a4-c37aae7a46e9</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">8.14.2022::15:35:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:35:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
+		<IAttribute type="e">
+			<_id type="a">GUID e7821882-f088-467b-8b35-b9baa2af0630</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">bufConfortable</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
+							<_hsubsystem type="a">SysML::Blocks</_hsubsystem>
+							<_hname type="a">ValueProperty</_hname>
+							<_hid type="a">GUID 04164f8c-01a3-4eab-b4a4-c37aae7a46e9</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">8.14.2022::15:38:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:38:54</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
+					<_hname type="a">int</_hname>
+					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<_protection type="a">iPublic</_protection>
+			<_static type="a">0</_static>
+			<_isReferenceAttr type="a">0</_isReferenceAttr>
+			<_isConstant type="a">0</_isConstant>
+		</IAttribute>
 		<IActivityGraph type="e">
 			<_id type="a">GUID 3c50ce20-2dd2-48c0-81c5-6994d3cb0443</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ProvideConfortableTemperature</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::12:6:35</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::12:6:35</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:42:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:42:26</_modifiedTime>
 			<_lastID type="a">70</_lastID>
-			<weakCGTime type="a">8.14.2022::12:6:35</weakCGTime>
+			<weakCGTime type="a">8.14.2022::15:42:26</weakCGTime>
 			<strongCGTime type="a">7.26.2022::14:15:25</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1368,7 +1418,7 @@ Please do not remove.</_text>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">19</_defNumber>
-			<_version type="a">8.14.2022::14:6:45</_version>
+			<_version type="a">8.14.2022::17:42:26</_version>
 			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_diagram>
 			<_AnalysisMode type="a">1</_AnalysisMode>
@@ -2063,7 +2113,7 @@ Please do not remove.</_text>
 		<ILabel type="e">
 			<_id type="a">GUID aa3cd4c2-9445-44bd-aedf-48ece4af769c</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2096,7 +2146,7 @@ Please do not remove.</_text>
 		<ILabel type="e">
 			<_id type="a">GUID 9a1d5882-3300-45f7-8d35-3350d621d03b</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2191,18 +2241,23 @@ Please do not remove.</_text>
 		<IState type="e">
 			<_id type="a">GUID 285aabc9-3af9-48e0-8d51-d9c7780b5aea</_id>
 			<_name type="a">TurnOnClimateControl</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::12:2:23</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::12:2:23</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:42:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:42:26</_modifiedTime>
 			<_parent type="s">GUID 17fb49d6-3e1d-4f6a-a919-3fc8fa45be35</_parent>
 			<_stateType type="a">Action</_stateType>
 			<_defaultTrans type="s"></_defaultTrans>
 			<_entryAction type="p"><IAction type="e">
 				<_id type="a">GUID 34234836-8cd0-4921-b967-5acc9addb08f</_id>
 				<_myState type="a">4096</_myState>
-				<_modifiedTimeWeak type="a">8.14.2022::12:2:23</_modifiedTimeWeak>
-				<_modifiedTime type="a">8.14.2022::12:2:23</_modifiedTime>
+				<_modifiedTimeWeak type="a">8.14.2022::15:42:26</_modifiedTimeWeak>
+				<_modifiedTime type="a">8.14.2022::15:42:26</_modifiedTime>
 				<_body type="a">OK=1;%0D
-Confortable=0;</_body>
+Confortable=0;%0D
+bufOK=2;%0D
+bufOK=getOK();%0D
+bufConfortable=getConfortable();%0D
+%0D
+</_body>
 			</IAction>
 			</_entryAction>
 			<_swimlane type="r">
@@ -2267,7 +2322,7 @@ Confortable=0;</_body>
 				<_id type="a">GUID 462508f3-0449-4bbe-8f07-b67f7c29d74b</_id>
 				<_myState type="a">4096</_myState>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">OK=1;</_body>
 			</IAction>
 			</_entryAction>
@@ -2833,7 +2888,7 @@ Confortable=0;</_body>
 				<_id type="a">GUID 790ddd02-f1db-4223-959c-3e835e55e700</_id>
 				<_myState type="a">4096</_myState>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">Confortable=1;</_body>
 			</IAction>
 			</_entryAction>
@@ -3510,9 +3565,9 @@ Confortable=0;</_body>
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">activitydiagram_0</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::12:6:25</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">8.14.2022::15:40:24</_modifiedTimeWeak>
 			<_modifiedTime type="a">8.14.2022::12:6:29</_modifiedTime>
-			<_lastModifiedTime type="a">8.14.2022::12:6:45</_lastModifiedTime>
+			<_lastModifiedTime type="a">8.14.2022::15:42:26</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -4001,12 +4056,12 @@ Confortable=0;</_body>
 					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 86 62  77 62  </m_arrow>
+			<m_arrow type="a">2 86 62  89 62  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
 			<m_SourcePort type="a">66 87 </m_SourcePort>
-			<m_TargetPort type="a">567 -24 </m_TargetPort>
+			<m_TargetPort type="a">568 -21 </m_TargetPort>
 			<m_pInheritsFrom type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -4019,6 +4074,34 @@ Confortable=0;</_body>
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Action</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Font.FontColor</_Name>
+													<_Value type="a">0,0,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Underline</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
 						<IPropertySubject type="e">
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
@@ -4083,7 +4166,7 @@ Confortable=0;</_body>
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">0.0532886 0 0 0.0317453 31.1261 108.061 </m_transform>
+			<m_transform type="a">0.0640398 0 0 0.0700552 31.1065 108.765 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -4252,11 +4335,11 @@ Confortable=0;</_body>
 					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 201 114  201 77  </m_arrow>
+			<m_arrow type="a">2 201 152  201 77  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
-			<m_SourcePort type="a">1095 497 </m_SourcePort>
+			<m_SourcePort type="a">1096 495 </m_SourcePort>
 			<m_TargetPort type="a">0 490 </m_TargetPort>
 			<m_pInheritsFrom type="r">
 				<IHandle type="e">
@@ -7197,10 +7280,10 @@ Please do not remove.</_text>
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">P_1_Stakeholder_Needs</_name>
-			<_modifiedTimeWeak type="a">8.5.2022::8:33:47</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">8.14.2022::15:40:13</_modifiedTimeWeak>
 			<_modifiedTime type="a">8.4.2022::8:17:7</_modifiedTime>
 			<_lastID type="a">20</_lastID>
-			<weakCGTime type="a">8.5.2022::8:33:47</weakCGTime>
+			<weakCGTime type="a">8.14.2022::15:40:13</weakCGTime>
 			<strongCGTime type="a">8.4.2022::8:15:56</strongCGTime>
 			<_defaultComposite type="s">GUID 3403feab-c63c-479c-8c2b-ab9bdf00cfe2</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
