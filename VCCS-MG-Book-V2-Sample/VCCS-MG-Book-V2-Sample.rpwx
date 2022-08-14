@@ -11,7 +11,6 @@
 	<CGEMdiWorkspace type="e">
 			<stubList type="c">
 				<IRPYRawContainer type="e">
-					<value>GUID 35083822-040d-4785-a2bb-96f84bdef1ea</value>
 				</IRPYRawContainer>
 			</stubList>
 			<isLoadOnDemand type="a">0</isLoadOnDemand>
@@ -22,7 +21,39 @@
 							<CCommon_WINDOWPLACEMENT type="e">
 								<m_nLength type="a">44</m_nLength>
 								<m_nFlags type="a">2</m_nFlags>
-								<m_showCmd type="a">2</m_showCmd>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">156</m_nLeft>
+								<m_nTop type="a">156</m_nTop>
+								<m_nRight type="a">1120</m_nRight>
+								<m_nBottom type="a">543</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\VCCS-MG-Book-V2-Sample_rpy\Model.sbsx</_hfilename>
+								<_hsubsystem type="a">Model::P_1_Problem_Domain::P_1_Black_Box::P_1_Stakeholder_Needs</_hsubsystem>
+								<_hname type="a">StakeholderNeeds</_hname>
+								<_hid type="a">GUID fffa81a3-0bb7-4927-8472-32e131a84ba9</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">1099 553 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
 								<m_ptMinPositionX type="a">0</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">515</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
@@ -33,19 +64,19 @@
 								<m_nBottom type="a">735</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IActivityDiagram</_hm2Class>
-								<_hfilename type="a">.\VCCS-MG-Book-V2-Sample-R02_rpy\Model.sbsx</_hfilename>
+								<_hfilename type="a">.\VCCS-MG-Book-V2-Sample_rpy\Model.sbsx</_hfilename>
 								<_hsubsystem type="a">Model::P_1_Problem_Domain::P_1_Black_Box::P_3_Use_Cases</_hsubsystem>
 								<_hclass type="a">ProvideConfortableTemperature</_hclass>
 								<_hname type="a">ActivityDiagram</_hname>
 								<_hid type="a">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-25 -59 </_UpLeft>
-						<_DownRight type="a">854 343 </_DownRight>
+						<_UpLeft type="a">-25 13 </_UpLeft>
+						<_DownRight type="a">1021 520 </_DownRight>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -70,17 +101,17 @@
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IActivityDiagram</_hm2Class>
-								<_hfilename type="a">.\VCCS-MG-Book-V2-Sample-R02_rpy\Model.sbsx</_hfilename>
+								<_hfilename type="a">.\VCCS-MG-Book-V2-Sample_rpy\Model.sbsx</_hfilename>
 								<_hsubsystem type="a">Model::P_1_Problem_Domain::P_1_Black_Box::P_3_Use_Cases</_hsubsystem>
 								<_hclass type="a">ProvideConfortableTemperature</_hclass>
 								<_hname type="a">ActivityDiagram</_hname>
 								<_hid type="a">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-25 358 </_UpLeft>
-						<_DownRight type="a">1074 860 </_DownRight>
+						<_UpLeft type="a">-25 356 </_UpLeft>
+						<_DownRight type="a">1074 858 </_DownRight>
 						<_instanceName type="a">ProvideConfortableTemperature[0]</_instanceName>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -88,8 +119,8 @@
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
 								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
@@ -100,25 +131,25 @@
 								<m_nBottom type="a">428</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
 						<_theDiagram type="r">
 							<IHandle type="e">
 								<_hm2Class type="a">IUCDiagram</_hm2Class>
-								<_hfilename type="a">.\VCCS-MG-Book-V2-Sample-R02_rpy\Model.sbsx</_hfilename>
+								<_hfilename type="a">.\VCCS-MG-Book-V2-Sample_rpy\Model.sbsx</_hfilename>
 								<_hsubsystem type="a">Model::P_1_Problem_Domain::P_1_Black_Box::P_3_Use_Cases</_hsubsystem>
 								<_hname type="a">UC-VehicleInUse</_hname>
 								<_hid type="a">GUID cf70e1a4-e9db-4c9f-8a59-072aff14792d</_hid>
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">521 316 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<_DownRight type="a">1099 553 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Temp\EfficiencyPlanMBSE\VCCS-MG-Book-V2-Sample\VCCS-MG-Book-V2-Sample-R02</_fullName>
+			<_fullName type="a">C:\Temp\EfficiencyPlanMBSE\VCCS-MG-Book-V2-Sample\VCCS-MG-Book-V2-Sample</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">

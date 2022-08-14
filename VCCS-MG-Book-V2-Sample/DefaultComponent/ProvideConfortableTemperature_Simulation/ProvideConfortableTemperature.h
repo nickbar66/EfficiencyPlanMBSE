@@ -4,7 +4,7 @@
 	Component	: DefaultComponent 
 	Configuration 	: ProvideConfortableTemperature_Simulation
 	Model Element	: ProvideConfortableTemperature
-//!	Generated Date	: Sat, 13, Aug 2022  
+//!	Generated Date	: Sun, 14, Aug 2022  
 	File Path	: DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.h
 *********************************************************************/
 
@@ -477,6 +477,18 @@ public :
     ////    Additional operations    ////
     
     //## auto_generated
+    int getConfortable() const;
+    
+    //## auto_generated
+    void setConfortable(int p_Confortable);
+    
+    //## auto_generated
+    int getOK() const;
+    
+    //## auto_generated
+    void setOK(int p_OK);
+    
+    //## auto_generated
     VehicleOccupant* getItsVehicleOccupant() const;
     
     //## auto_generated
@@ -489,6 +501,12 @@ protected :
 
     //## auto_generated
     void cleanUpRelations();
+    
+    ////    Attributes    ////
+    
+    int Confortable;		//## attribute Confortable
+    
+    int OK;		//## attribute OK
     
     ////    Relations and components    ////
     
@@ -515,6 +533,8 @@ class OMAnimatedProvideConfortableTemperature : virtual public AOMInstance {
     
 public :
 
+    virtual void serializeAttributes(AOMSAttributes* aomsAttributes) const;
+    
     virtual void serializeRelations(AOMSRelations* aomsRelations) const;
 
     DECLARE_ACTIVITY_META(ProvideConfortableTemperature, OMAnimatedProvideConfortableTemperature)

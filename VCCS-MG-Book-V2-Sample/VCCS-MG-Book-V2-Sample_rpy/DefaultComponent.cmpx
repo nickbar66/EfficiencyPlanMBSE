@@ -11,60 +11,17 @@
 	<IComponent type="e">
 			<_id type="a">GUID c2894c11-bf3c-423f-b55d-a5e6a6c795f9</_id>
 			<_myState type="a">139264</_myState>
-			<_name type="a">Simulation</_name>
-			<_modifiedTimeWeak type="a">8.1.2022::17:35:50</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.1.2022::17:35:50</_modifiedTime>
+			<_name type="a">DefaultComponent</_name>
+			<_modifiedTimeWeak type="a">8.14.2022::11:58:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::11:58:42</_modifiedTime>
+			<_lastID type="a">1</_lastID>
 			<m_buildType type="a">Executable</m_buildType>
 			<m_configActive type="r">
 				<ICodeGenConfigInfoHandle type="e">
 					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
-					<_hid type="a">GUID 4063031d-651a-4727-ba3d-67a67d017e13</_hid>
+					<_hid type="a">GUID 69bfd87b-de9d-4db4-8c99-83ff5baed668</_hid>
 				</ICodeGenConfigInfoHandle>
 			</m_configActive>
-			<HandlesInMe type="c">
-				<IRPYRawContainer type="e">
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IProfile</_hm2Class>
-							<_hfilename type="a">$OMROOT\Settings\UMLPerspectives\UMLPerspectives.sbs</_hfilename>
-							<_hname type="a">UMLPerspectives</_hname>
-							<_hid type="a">GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</_hid>
-						</IHandle>
-					
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IProfile</_hm2Class>
-							<_hfilename type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy\SysML.sbs</_hfilename>
-							<_hname type="a">SysML</_hname>
-							<_hid type="a">GUID d9689b73-885e-44c4-896b-de43defa0a33</_hid>
-						</IHandle>
-					
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IProfile</_hm2Class>
-							<_hfilename type="a">$OMROOT\Profiles\HarmonySE\HarmonySE.sbs</_hfilename>
-							<_hname type="a">HarmonySE</_hname>
-							<_hid type="a">GUID 29d4fccc-40d9-4cb3-af8a-d7464f198819</_hid>
-						</IHandle>
-					
-					
-						<IHandle type="e">
-							<_hm2Class type="a">ISubsystem</_hm2Class>
-							<_hfilename type="a">.\Default.sbsx</_hfilename>
-							<_hname type="a">Default</_hname>
-							<_hid type="a">GUID 005e5985-f519-4e59-b9b9-77c0eba43869</_hid>
-						</IHandle>
-					
-					
-						<IHandle type="e">
-							<_hm2Class type="a">ISubsystem</_hm2Class>
-							<_hfilename type="a">.\Model.sbsx</_hfilename>
-							<_hname type="a">Model</_hname>
-							<_hid type="a">GUID 9e195709-e32b-49eb-9e4b-c52eccc50582</_hid>
-						</IHandle>
-					
-				</IRPYRawContainer>
-			</HandlesInMe>
 			<VariationPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -73,11 +30,11 @@
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
 			</SelectedVariants>
-			<weakCGTime type="a">8.1.2022::17:35:50</weakCGTime>
-			<strongCGTime type="a">8.1.2022::17:35:50</strongCGTime>
+			<weakCGTime type="a">8.14.2022::11:58:14</weakCGTime>
+			<strongCGTime type="a">8.4.2022::15:5:10</strongCGTime>
 			<AggregatesList type="e">
 				<value>GUID 4ad1e394-f671-48b9-9005-4a6f4c02354f</value>
-				<value>GUID 4063031d-651a-4727-ba3d-67a67d017e13</value>
+				<value>GUID 69bfd87b-de9d-4db4-8c99-83ff5baed668</value>
 			</AggregatesList>
 		</IComponent>
 		<IFolder type="e">
@@ -96,12 +53,12 @@
 			</Files>
 		</IFolder>
 		<ICodeGenConfigInfo type="e">
-			<_id type="a">GUID 4063031d-651a-4727-ba3d-67a67d017e13</_id>
+			<_id type="a">GUID 69bfd87b-de9d-4db4-8c99-83ff5baed668</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DefaultConfig</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.24.2022::14:17:36</_modifiedTime>
-			<_scopeType type="a">Explicit</_scopeType>
+			<_modifiedTimeWeak type="a">8.14.2022::12:7:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::12:7:8</_modifiedTime>
+			<_scopeType type="a">Derived</_scopeType>
 			<_instrumentation type="a">Animation</_instrumentation>
 			<_timeModel type="a">RealTime</_timeModel>
 			<m_generateActors type="a">1</m_generateActors>
@@ -116,8 +73,8 @@
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
 			</InitialInstances>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<weakCGTime type="a">8.14.2022::12:7:8</weakCGTime>
+			<strongCGTime type="a">8.14.2022::12:7:8</strongCGTime>
 			<AnimScopeElements type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -125,43 +82,43 @@
 			<m_allInAnimScope type="a">1</m_allInAnimScope>
 			<m_generateUsecases type="a">0</m_generateUsecases>
 			<AggregatesList type="e">
-				<value>GUID 21b57e82-daff-4139-be2a-2152099da196</value>
-				<value>GUID dbf8f7c0-6e9b-43c9-8a71-62b6cffe5370</value>
-				<value>GUID d5f3c5b1-845b-43e6-b567-c8049f614b5c</value>
+				<value>GUID d22bcef0-669f-40db-b019-b4aa7dc65bb1</value>
+				<value>GUID 800c3b80-86af-4700-8d75-1434af1d4565</value>
+				<value>GUID c15d1032-1db5-4103-8164-35af4c60c90d</value>
 			</AggregatesList>
 		</ICodeGenConfigInfo>
 		<IMHyperLink type="e">
-			<_id type="a">GUID 21b57e82-daff-4139-be2a-2152099da196</_id>
+			<_id type="a">GUID d22bcef0-669f-40db-b019-b4aa7dc65bb1</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.1.2022::17:27:18</_modifiedTime>
+			<_modifiedTime type="a">8.5.2022::11:5:7</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 				</INObjectHandle>
 			</_dependsOn>
 			<_linkDispName type="a">Edit Makefile</_linkDispName>
 			<_linkType type="a">FREE</_linkType>
-			<_linkTarget type="a">Simulation.mak</_linkTarget>
+			<_linkTarget type="a">DefaultComponent.mak</_linkTarget>
 			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
 		</IMHyperLink>
 		<IMHyperLink type="e">
-			<_id type="a">GUID dbf8f7c0-6e9b-43c9-8a71-62b6cffe5370</_id>
+			<_id type="a">GUID 800c3b80-86af-4700-8d75-1434af1d4565</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.1.2022::17:27:18</_modifiedTime>
+			<_modifiedTime type="a">8.5.2022::11:5:7</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 				</INObjectHandle>
 			</_dependsOn>
 			<_linkDispName type="a">Edit Main File</_linkDispName>
 			<_linkType type="a">FREE</_linkType>
-			<_linkTarget type="a">MainSimulation</_linkTarget>
+			<_linkTarget type="a">MainDefaultComponent</_linkTarget>
 			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
 		</IMHyperLink>
 		<IFolder type="e">
-			<_id type="a">GUID d5f3c5b1-845b-43e6-b567-c8049f614b5c</_id>
+			<_id type="a">GUID c15d1032-1db5-4103-8164-35af4c60c90d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">DefaultConfig</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.24.2022::14:17:36</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<Elements type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
