@@ -489,6 +489,18 @@ public :
     void setOK(int p_OK);
     
     //## auto_generated
+    int getBufConfortable() const;
+    
+    //## auto_generated
+    void setBufConfortable(int p_bufConfortable);
+    
+    //## auto_generated
+    int getBufOK() const;
+    
+    //## auto_generated
+    void setBufOK(int p_bufOK);
+    
+    //## auto_generated
     VehicleOccupant* getItsVehicleOccupant() const;
     
     //## auto_generated
@@ -507,6 +519,10 @@ protected :
     int Confortable;		//## attribute Confortable
     
     int OK;		//## attribute OK
+    
+    int bufConfortable;		//## attribute bufConfortable
+    
+    int bufOK;		//## attribute bufOK
     
     ////    Relations and components    ////
     

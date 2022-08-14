@@ -15,6 +15,29 @@
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
 						<IPropertySubject type="e">
+							<_Name type="a">Animation</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">General</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AutoOpenBehavioralDiagrams</_Name>
+													<_Value type="a">Always</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">Never,WhileStepping,OnBreak,Always</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
 							<_Name type="a">CG</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
@@ -189,8 +212,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.14.2022::10:50:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::11:58:42</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::15:31:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::15:31:46</_modifiedTime>
 			<_lastID type="a">19</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">

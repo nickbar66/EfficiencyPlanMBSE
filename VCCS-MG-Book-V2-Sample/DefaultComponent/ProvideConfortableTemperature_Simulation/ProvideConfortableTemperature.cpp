@@ -248,7 +248,7 @@ ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortable
 }
 //#]
 
-ProvideConfortableTemperature::ProvideConfortableTemperature() : Confortable(0), OK(0) {
+ProvideConfortableTemperature::ProvideConfortableTemperature() {
     NOTIFY_ACTIVITY_CONSTRUCTOR(ProvideConfortableTemperature, ProvideConfortableTemperature(), 0, Model_P_1_Problem_Domain_P_1_Black_Box_P_3_Use_Cases_ProvideConfortableTemperature_ProvideConfortableTemperature_SERIALIZE);
     itsVehicleOccupant = NULL;
 }
@@ -280,6 +280,11 @@ void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionTurnOn
     //#[ activity_action ProvideConfortableTemperature:ROOT.TurnOnClimateControl
     OK=1;
     Confortable=0;
+    bufOK=2;
+    bufOK=getOK();
+    bufConfortable=getConfortable();
+    
+    
     //#]
 }
 
@@ -379,7 +384,6 @@ OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFrom
 
 void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionSetTemperatureInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
     //#[ activity_action ProvideConfortableTemperature:ROOT.SetTemperature
-    Confortable=1;
     //#]
 }
 
@@ -406,6 +410,7 @@ OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFrom
 
 void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionReachDesiredTemperatureInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
     //#[ activity_action ProvideConfortableTemperature:ROOT.ReachDesiredTemperature
+    Confortable=1;
     //#]
 }
 
@@ -498,6 +503,22 @@ void ProvideConfortableTemperature::setOK(int p_OK) {
     OK = p_OK;
 }
 
+int ProvideConfortableTemperature::getBufConfortable() const {
+    return bufConfortable;
+}
+
+void ProvideConfortableTemperature::setBufConfortable(int p_bufConfortable) {
+    bufConfortable = p_bufConfortable;
+}
+
+int ProvideConfortableTemperature::getBufOK() const {
+    return bufOK;
+}
+
+void ProvideConfortableTemperature::setBufOK(int p_bufOK) {
+    bufOK = p_bufOK;
+}
+
 VehicleOccupant* ProvideConfortableTemperature::getItsVehicleOccupant() const {
     return itsVehicleOccupant;
 }
@@ -559,6 +580,8 @@ void ProvideConfortableTemperature::_clearItsVehicleOccupant() {
 void OMAnimatedProvideConfortableTemperature::serializeAttributes(AOMSAttributes* aomsAttributes) const {
     aomsAttributes->addAttribute("Confortable", x2String(myReal->Confortable));
     aomsAttributes->addAttribute("OK", x2String(myReal->OK));
+    aomsAttributes->addAttribute("bufOK", x2String(myReal->bufOK));
+    aomsAttributes->addAttribute("bufConfortable", x2String(myReal->bufConfortable));
 }
 
 void OMAnimatedProvideConfortableTemperature::serializeRelations(AOMSRelations* aomsRelations) const {
