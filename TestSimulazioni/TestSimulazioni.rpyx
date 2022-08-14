@@ -11,6 +11,36 @@
 	<IProject type="e">
 			<_id type="a">GUID 1eadfbe3-8a95-4d33-ac58-ab1e90497ee1</_id>
 			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Animation</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">General</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AutoOpenBehavioralDiagrams</_Name>
+													<_Value type="a">Always</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">Never,WhileStepping,OnBreak,Always</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<_name type="a">TestSimulazioni</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
@@ -24,9 +54,9 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.12.2022::14:13:39</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.12.2022::14:46:10</_modifiedTime>
-			<_lastID type="a">4</_lastID>
+			<_modifiedTimeWeak type="a">8.14.2022::18:9:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::18:9:55</_modifiedTime>
+			<_lastID type="a">5</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<value>16777215</value>
@@ -103,6 +133,7 @@
 				<value>GUID ab285915-0966-4322-a029-ffac3e6ef3df</value>
 				<value>GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</value>
 				<value>GUID 35083822-040d-4785-a2bb-96f84bdef1ea</value>
+				<value>GUID 21c149da-3acc-40cd-8949-a0301882bc80</value>
 				<value>GUID 35284dde-847b-4df6-859a-b787e0dafc53</value>
 			</AggregatesList>
 		</IProject>
@@ -127,6 +158,11 @@
 			<fileName type="a">SimulazioneActivityCalculator</fileName>
 			<_persistAs type="a">SimulazioneActivityCalculator</_persistAs>
 			<_id type="a">GUID 35083822-040d-4785-a2bb-96f84bdef1ea</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">CoSimulazioneStateActivity</fileName>
+			<_persistAs type="a">CoSimulazioneStateActivity</_persistAs>
+			<_id type="a">GUID 21c149da-3acc-40cd-8949-a0301882bc80</_id>
 		</ISubsystem>
 		<IComponent type="e">
 			<fileName type="a">DefaultComponent</fileName>

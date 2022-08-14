@@ -1,3 +1,5 @@
 [Op Calls]
 [Events]
+Counter[0]->GEN(evStartCounting())`Counter
+Counter[0]->GEN(evStopCounting())`Counter
 [Breakpoints]
