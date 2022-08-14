@@ -12,10 +12,10 @@
 			<_id type="a">GUID 21c149da-3acc-40cd-8949-a0301882bc80</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CoSimulazioneStateActivity</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::18:9:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::18:9:55</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::18:15:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::18:15:45</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">8.14.2022::18:9:55</weakCGTime>
+			<weakCGTime type="a">8.14.2022::18:15:45</weakCGTime>
 			<strongCGTime type="a">8.14.2022::15:55:44</strongCGTime>
 			<_defaultComposite type="s">GUID c2164b93-cc71-4c08-a5a6-1e30aac6e7ed</_defaultComposite>
 			<_eventsBaseID type="a">1201</_eventsBaseID>
@@ -510,16 +510,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.14.2022::18:5:37</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">8.14.2022::18:15:45</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID ee113ad5-6b60-4758-9d91-ee9d513fef1c</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">8.14.2022::17:17:51</_modifiedTime>
+			<_modifiedTime type="a">8.14.2022::18:15:45</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">8.14.2022::18:5:37</weakCGTime>
+			<weakCGTime type="a">8.14.2022::18:15:45</weakCGTime>
 			<strongCGTime type="a">8.14.2022::16:19:7</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -2320,10 +2320,10 @@ setCount(newCount);%0D
 			<_id type="a">GUID 3463b993-7088-4f13-b987-d03d76e2eba7</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">statechart_6</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::18:5:37</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::18:5:37</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::18:15:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::18:16:55</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">8.14.2022::18:5:37</weakCGTime>
+			<weakCGTime type="a">8.14.2022::18:15:45</weakCGTime>
 			<strongCGTime type="a">8.14.2022::16:19:7</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -2331,7 +2331,7 @@ setCount(newCount);%0D
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">5</_defNumber>
-			<_version type="a">8.14.2022::20:5:37</_version>
+			<_version type="a">8.14.2022::20:16:55</_version>
 			<_baseVersion type="a">1.1.1970::1:0:0</_baseVersion>
 			<_diagram type="s">GUID 16975163-069d-4172-b72f-023d18d15cc0</_diagram>
 			<AggregatesList type="e">
@@ -2675,6 +2675,44 @@ setCount(newCount);%0D
 									</IPropertyMetaclass>
 									
 									<IPropertyMetaclass type="e">
+										<_Name type="a">PushButton</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,100,50</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">0,0,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.Transparent</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
 										<_Name type="a">State</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
@@ -2733,9 +2771,9 @@ setCount(newCount);%0D
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">statechartdiagram_0</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::16:22:50</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::16:41:32</_modifiedTime>
-			<_lastModifiedTime type="a">8.14.2022::18:5:37</_lastModifiedTime>
+			<_modifiedTimeWeak type="a">8.14.2022::18:15:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.14.2022::18:16:55</_modifiedTime>
+			<_lastModifiedTime type="a">8.14.2022::18:16:55</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2772,7 +2810,7 @@ setCount(newCount);%0D
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<elementList type="a">11</elementList>
+			<elementList type="a">13</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -2800,6 +2838,8 @@ setCount(newCount);%0D
 				<value>GUID 68d4f4b0-5e30-47f6-9371-146911d1ea24</value>
 				<value>GUID db0db645-dad0-4724-bec1-e601eaa9b3d1</value>
 				<value>GUID 64d2ae25-ade8-406b-b659-0cc2954816d8</value>
+				<value>GUID e4944067-761d-414f-89b6-9b7e62d4b28e</value>
+				<value>GUID 266ef7dc-67a5-4144-8150-e62be588b6f8</value>
 			</AggregatesList>
 		</CGIStateChart>
 		<CGIState type="e">
@@ -3703,6 +3743,204 @@ setCount(newCount);%0D
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
+		<CGIMFCCtrl type="e">
+			<_id type="a">GUID e4944067-761d-414f-89b6-9b7e62d4b28e</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">PanelDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">PushButton</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ShowName</_Name>
+													<_Value type="a">BoundElement</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">BoundElement</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">StatechartDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">PushButton</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ButtonFont</_Name>
+													<_Value type="a">Arial 10 NoBold NoItalic</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">227</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IReception</_hm2Class>
+					<_hid type="a">GUID 07c1cfa6-c7bd-4039-84f3-58ed5a821523</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID db0db645-dad0-4724-bec1-e601eaa9b3d1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">evStartCounting</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2048</m_drawBehavior>
+			<m_transform type="a">0.00160284 0 0 0.000743809 37.9639 487.303 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csModelObjPath type="a">CoSimulazioneStateActivity.Counter[0].evStartCounting</m_csModelObjPath>
+			<m_csName type="a">pushbutton_0</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hid type="a">GUID 186a7907-0d91-485a-ab5b-d0be42e9a201</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</m_PartsArray>
+			<m_csButtonCaption type="a">StartCounting</m_csButtonCaption>
+		</CGIMFCCtrl>
+		<CGIMFCCtrl type="e">
+			<_id type="a">GUID 266ef7dc-67a5-4144-8150-e62be588b6f8</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">PanelDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">PushButton</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ShowName</_Name>
+													<_Value type="a">BoundElement</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">BoundElement</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+						<IPropertySubject type="e">
+							<_Name type="a">StatechartDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">PushButton</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ButtonFont</_Name>
+													<_Value type="a">Arial 10 NoBold NoItalic</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">227</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IReception</_hm2Class>
+					<_hid type="a">GUID b1431555-96c7-448e-8cd8-1b4c7cf94fc5</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID db0db645-dad0-4724-bec1-e601eaa9b3d1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">evStopCounting</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">2048</m_drawBehavior>
+			<m_transform type="a">0.00160284 0 0 0.000743809 889.675 572.649 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csModelObjPath type="a">CoSimulazioneStateActivity.Counter[0].evStopCounting</m_csModelObjPath>
+			<m_csName type="a">pushbutton_0</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hid type="a">GUID 186a7907-0d91-485a-ab5b-d0be42e9a201</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</m_PartsArray>
+			<m_csButtonCaption type="a">StopCounting</m_csButtonCaption>
+		</CGIMFCCtrl>
 		<IEvent type="e">
 			<_id type="a">GUID ea76eae1-26d6-42af-8c72-33f7d843d9db</_id>
 			<_myState type="a">8192</_myState>
