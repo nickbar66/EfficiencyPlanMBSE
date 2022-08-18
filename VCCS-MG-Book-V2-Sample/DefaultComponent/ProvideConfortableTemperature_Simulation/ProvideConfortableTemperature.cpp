@@ -41,7 +41,7 @@ void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfor
 
 void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
     tokens.setCount(2);
-    tokens.addAttribute("eCommand", x2String(eCommand));
+    tokens.addAttribute("eCommand", eCommandVT2String(eCommand));
     tokens.addAttribute("Status", x2String(Status));
 }
 
@@ -205,7 +205,7 @@ int ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfort
 
 void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
     tokens.setCount(2);
-    tokens.addAttribute("eCommand", x2String(eCommand));
+    tokens.addAttribute("eCommand", eCommandVT2String(eCommand));
     tokens.addAttribute("Status", x2String(Status));
 }
 
@@ -260,7 +260,7 @@ void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfor
     	{
     		char idx[10];
     		OMitoa(i, idx, 10);
-    		tokens.addAttribute(idx, x2String(mTokens.getAt(i)));
+    		tokens.addAttribute(idx, eCommandVT2String(mTokens.getAt(i)));
     	}
     }
 }
@@ -679,7 +679,7 @@ void ProvideConfortableTemperature::_clearItsVehicleOccupant() {
 #ifdef _OMINSTRUMENT
 //#[ ignore
 void OMAnimatedProvideConfortableTemperature::serializeAttributes(AOMSAttributes* aomsAttributes) const {
-    aomsAttributes->addAttribute("eConfortable", x2String((int)myReal->eConfortable));
+    aomsAttributes->addAttribute("eConfortable", eCommandVT2String(myReal->eConfortable));
     aomsAttributes->addAttribute("OK", x2String(myReal->OK));
     aomsAttributes->addAttribute("UserCommand", UNKNOWN2STRING(myReal->UserCommand));
     aomsAttributes->addAttribute("Status", x2String(myReal->Status));

@@ -1,4 +1,4 @@
 [Op Calls]
 [Events]
-ProvideConfortableTemperature[0]->GEN(evUserCommand(0,0))`ProvideConfortableTemperature
+ProvideConfortableTemperature[0]->GEN(evUserCommand(OFF,1))`ProvideConfortableTemperature
 [Breakpoints]
