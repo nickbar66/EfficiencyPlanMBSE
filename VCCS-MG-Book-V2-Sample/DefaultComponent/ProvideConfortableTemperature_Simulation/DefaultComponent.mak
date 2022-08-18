@@ -64,7 +64,8 @@ OBJS= \
   ProvideConfortableTemperature.o \
   VehicleOccupant.o \
   P_3_Use_Cases.o \
-  P_2_System_Context.o
+  P_2_System_Context.o \
+  P_3_Exchange_Items.o
 
 
 
@@ -116,7 +117,7 @@ endif
 
 
 
-ProvideConfortableTemperature.o : ProvideConfortableTemperature.cpp ProvideConfortableTemperature.h    P_3_Use_Cases.h VehicleOccupant.h 
+ProvideConfortableTemperature.o : ProvideConfortableTemperature.cpp ProvideConfortableTemperature.h    P_3_Use_Cases.h VehicleOccupant.h P_3_Exchange_Items.h 
 	@echo Compiling ProvideConfortableTemperature.cpp
 	@$(CC) $(ConfigurationCPPCompileSwitches)  -o ProvideConfortableTemperature.o ProvideConfortableTemperature.cpp
 
@@ -140,6 +141,13 @@ P_3_Use_Cases.o : P_3_Use_Cases.cpp P_3_Use_Cases.h
 P_2_System_Context.o : P_2_System_Context.cpp P_2_System_Context.h    VehicleOccupant.h 
 	@echo Compiling P_2_System_Context.cpp
 	@$(CC) $(ConfigurationCPPCompileSwitches)  -o P_2_System_Context.o P_2_System_Context.cpp
+
+
+
+
+P_3_Exchange_Items.o : P_3_Exchange_Items.cpp P_3_Exchange_Items.h    
+	@echo Compiling P_3_Exchange_Items.cpp
+	@$(CC) $(ConfigurationCPPCompileSwitches)  -o P_3_Exchange_Items.o P_3_Exchange_Items.cpp
 
 
 
@@ -176,6 +184,7 @@ clean:
 	$(RM) VehicleOccupant.o
 	$(RM) P_3_Use_Cases.o
 	$(RM) P_2_System_Context.o
+	$(RM) P_3_Exchange_Items.o
 	$(RM) $(TARGET_MAIN)$(OBJ_EXT) $(ADDITIONAL_OBJS)
 	$(RM) $(TARGET_NAME)$(LIB_EXT)
 	$(RM) $(TARGET_NAME)$(EXE_EXT)

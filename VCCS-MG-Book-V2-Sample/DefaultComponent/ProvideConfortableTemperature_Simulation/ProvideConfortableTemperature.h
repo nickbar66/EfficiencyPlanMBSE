@@ -4,7 +4,7 @@
 	Component	: DefaultComponent 
 	Configuration 	: ProvideConfortableTemperature_Simulation
 	Model Element	: ProvideConfortableTemperature
-//!	Generated Date	: Sun, 14, Aug 2022  
+//!	Generated Date	: Thu, 18, Aug 2022  
 	File Path	: DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.h
 *********************************************************************/
 
@@ -21,6 +21,8 @@
 #include <simulation/OMActivityContext.h>
 //## auto_generated
 #include "P_3_Use_Cases.h"
+//## attribute UserCommand
+#include "P_3_Exchange_Items.h"
 //## link itsVehicleOccupant
 class VehicleOccupant;
 
@@ -46,6 +48,12 @@ public :
             
             virtual OMList<OMString> filterPassableFlows();
             
+            virtual void setECommand(eCommandVT value);
+            
+            virtual void setStatus(int value);
+            
+            void serializeTokens(AOMSAttributes& tokens);
+            
             virtual void invokeContextMethod();
             
             ////    Framework operations    ////
@@ -53,6 +61,10 @@ public :
             ////    Framework    ////
             
             ProvideConfortableTemperature* mContext;
+            
+            eCommandVT eCommand;
+            
+            int Status;
         };
         
         class ActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMContextualAction {
@@ -101,22 +113,6 @@ public :
             virtual OMList<OMString> filterPassableFlows();
             
             virtual void invokeContextMethod();
-            
-            ////    Framework operations    ////
-            
-            ////    Framework    ////
-            
-            ProvideConfortableTemperature* mContext;
-        };
-        
-        class ActionActivityfinal_9InActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMActivityFinalNode {
-            ////    Constructors and destructors    ////
-            
-        public :
-        
-            ActionActivityfinal_9InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context);
-            
-            virtual OMList<OMString> filterPassableFlows();
             
             ////    Framework operations    ////
             
@@ -287,6 +283,50 @@ public :
             ProvideConfortableTemperature* mContext;
         };
         
+        class ActionActivityfinal_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMActivityFinalNode {
+            ////    Constructors and destructors    ////
+            
+        public :
+        
+            ActionActivityfinal_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context);
+            
+            virtual OMList<OMString> filterPassableFlows();
+            
+            ////    Framework operations    ////
+            
+            ////    Framework    ////
+            
+            ProvideConfortableTemperature* mContext;
+        };
+        
+        class ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMAcceptEventAction {
+            ////    Constructors and destructors    ////
+            
+        public :
+        
+            ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, IOxfEvent::ID eventId, ProvideConfortableTemperature& context);
+            
+            virtual OMList<OMString> filterPassableFlows();
+            
+            virtual eCommandVT getECommand();
+            
+            virtual int getStatus();
+            
+            void serializeTokens(AOMSAttributes& tokens);
+            
+            virtual void acceptEventData();
+            
+            ////    Framework operations    ////
+            
+            ////    Framework    ////
+            
+            ProvideConfortableTemperature* mContext;
+            
+            eCommandVT eCommand;
+            
+            int Status;
+        };
+        
         class ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMDecisionNode {
             ////    Constructors and destructors    ////
             
@@ -351,6 +391,50 @@ public :
             ProvideConfortableTemperature* mContext;
         };
         
+        class DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMDataFlow<eCommandVT> {
+            ////    Constructors and destructors    ////
+            
+        public :
+        
+            DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& context, ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature& sourceAction, ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature& targetAction);
+            
+            virtual void giveToken();
+            
+            virtual void takeToken();
+            
+            void serializeTokens(AOMSAttributes& tokens);
+            
+            ////    Framework operations    ////
+            
+            ////    Framework    ////
+            
+            ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature* dataSource;
+            
+            ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature* dataTarget;
+        };
+        
+        class DataFlow19InActivityProvideConfortableTemperatureOfProvideConfortableTemperature : virtual public OMDataFlow<int> {
+            ////    Constructors and destructors    ////
+            
+        public :
+        
+            DataFlow19InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& context, ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature& sourceAction, ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature& targetAction);
+            
+            virtual void giveToken();
+            
+            virtual void takeToken();
+            
+            void serializeTokens(AOMSAttributes& tokens);
+            
+            ////    Framework operations    ////
+            
+            ////    Framework    ////
+            
+            ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature* dataSource;
+            
+            ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature* dataTarget;
+        };
+        
         ////    Constructors and destructors    ////
         
         ProvideConfortableTemperatureOfProvideConfortableTemperature(ProvideConfortableTemperature& context);
@@ -382,10 +466,10 @@ public :
 //#]
 
     //## activity_action ProvideConfortableTemperature:ROOT.TurnOnClimateControl
-    OMList<OMString> delegatedFilterPassableFlowsFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+    OMList<OMString> delegatedFilterPassableFlowsFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT eCommand, int Status);
     
     //## activity_action ProvideConfortableTemperature:ROOT.TurnOnClimateControl
-    void delegatedInvokeContextMethodFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+    void delegatedInvokeContextMethodFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT eCommand, int Status);
     
     //## activity_action ProvideConfortableTemperature:ROOT.CheckSystem
     OMList<OMString> delegatedFilterPassableFlowsFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
@@ -404,9 +488,6 @@ public :
     
     //## activity_action ProvideConfortableTemperature:ROOT.StopClimateControl
     void delegatedInvokeContextMethodFromActionStopClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
-    
-    //## activity_action ProvideConfortableTemperature:ROOT.activityfinal_9
-    OMList<OMString> delegatedFilterPassableFlowsFromActionActivityfinal_9InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
     
     //## activity_action ProvideConfortableTemperature:ROOT.MeasureTemperature
     OMList<OMString> delegatedFilterPassableFlowsFromActionMeasureTemperatureInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
@@ -462,6 +543,15 @@ public :
     //## activity_action ProvideConfortableTemperature:ROOT.TurnOffClimateControl
     void delegatedInvokeContextMethodFromActionTurnOffClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
     
+    //## activity_action ProvideConfortableTemperature:ROOT.activityfinal_31
+    OMList<OMString> delegatedFilterPassableFlowsFromActionActivityfinal_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+    
+    //## activity_action ProvideConfortableTemperature:ROOT.accepteventaction_34
+    OMList<OMString> delegatedFilterPassableFlowsFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT& eCommand, int& Status);
+    
+    //## activity_action ProvideConfortableTemperature:ROOT.accepteventaction_34
+    void delegatedAcceptEventDataFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT& eCommand, int& Status);
+    
     //## activity_control ProvideConfortableTemperature:ROOT.CheckSystemState
     OMList<OMString> delegatedFilterPassableFlowsFromControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
     
@@ -477,28 +567,25 @@ public :
     ////    Additional operations    ////
     
     //## auto_generated
-    int getConfortable() const;
-    
-    //## auto_generated
-    void setConfortable(int p_Confortable);
-    
-    //## auto_generated
     int getOK() const;
     
     //## auto_generated
     void setOK(int p_OK);
     
     //## auto_generated
-    int getBufConfortable() const;
+    int getStatus() const;
     
     //## auto_generated
-    void setBufConfortable(int p_bufConfortable);
+    void setStatus(int p_Status);
     
     //## auto_generated
-    int getBufOK() const;
+    evUserCommand* getUserCommand() const;
     
     //## auto_generated
-    void setBufOK(int p_bufOK);
+    eCommandVT getEConfortable() const;
+    
+    //## auto_generated
+    void setEConfortable(eCommandVT p_eConfortable);
     
     //## auto_generated
     VehicleOccupant* getItsVehicleOccupant() const;
@@ -516,13 +603,13 @@ protected :
     
     ////    Attributes    ////
     
-    int Confortable;		//## attribute Confortable
-    
     int OK;		//## attribute OK
     
-    int bufConfortable;		//## attribute bufConfortable
+    int Status;		//## attribute Status
     
-    int bufOK;		//## attribute bufOK
+    evUserCommand UserCommand;		//## attribute UserCommand
+    
+    eCommandVT eConfortable;		//## attribute eConfortable
     
     ////    Relations and components    ////
     

@@ -54,9 +54,9 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.14.2022::18:9:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::18:9:55</_modifiedTime>
-			<_lastID type="a">5</_lastID>
+			<_modifiedTimeWeak type="a">8.16.2022::22:0:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.16.2022::22:39:36</_modifiedTime>
+			<_lastID type="a">6</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<value>16777215</value>
@@ -134,6 +134,7 @@
 				<value>GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</value>
 				<value>GUID 35083822-040d-4785-a2bb-96f84bdef1ea</value>
 				<value>GUID 21c149da-3acc-40cd-8949-a0301882bc80</value>
+				<value>GUID 643660df-a9d3-40cc-957e-a3f3bbcd401c</value>
 				<value>GUID 35284dde-847b-4df6-859a-b787e0dafc53</value>
 			</AggregatesList>
 		</IProject>
@@ -163,6 +164,11 @@
 			<fileName type="a">CoSimulazioneStateActivity</fileName>
 			<_persistAs type="a">CoSimulazioneStateActivity</_persistAs>
 			<_id type="a">GUID 21c149da-3acc-40cd-8949-a0301882bc80</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">SimulateActivityWithEventSignals</fileName>
+			<_persistAs type="a">SimulateActivityWithEventSignals</_persistAs>
+			<_id type="a">GUID 643660df-a9d3-40cc-957e-a3f3bbcd401c</_id>
 		</ISubsystem>
 		<IComponent type="e">
 			<fileName type="a">DefaultComponent</fileName>

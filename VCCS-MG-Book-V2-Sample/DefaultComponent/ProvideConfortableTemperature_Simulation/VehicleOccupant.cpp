@@ -4,7 +4,7 @@
 	Component	: DefaultComponent 
 	Configuration 	: ProvideConfortableTemperature_Simulation
 	Model Element	: VehicleOccupant
-//!	Generated Date	: Fri, 12, Aug 2022  
+//!	Generated Date	: Mon, 15, Aug 2022  
 	File Path	: DefaultComponent/ProvideConfortableTemperature_Simulation/VehicleOccupant.cpp
 *********************************************************************/
 
@@ -26,6 +26,8 @@
 VehicleOccupant::VehicleOccupant() {
     NOTIFY_CONSTRUCTOR(VehicleOccupant, VehicleOccupant(), 0, Model_P_1_Problem_Domain_P_1_Black_Box_P_2_System_Context_VehicleOccupant_VehicleOccupant_SERIALIZE);
     itsProvideConfortableTemperature = NULL;
+    itsVehicleOccupant = NULL;
+    itsVehicleOccupant_1 = NULL;
 }
 
 VehicleOccupant::~VehicleOccupant() {
@@ -45,6 +47,30 @@ void VehicleOccupant::setItsProvideConfortableTemperature(ProvideConfortableTemp
     _setItsProvideConfortableTemperature(p_ProvideConfortableTemperature);
 }
 
+VehicleOccupant* VehicleOccupant::getItsVehicleOccupant() const {
+    return itsVehicleOccupant;
+}
+
+void VehicleOccupant::setItsVehicleOccupant(VehicleOccupant* p_VehicleOccupant) {
+    if(p_VehicleOccupant != NULL)
+        {
+            p_VehicleOccupant->_setItsVehicleOccupant_1(this);
+        }
+    _setItsVehicleOccupant(p_VehicleOccupant);
+}
+
+VehicleOccupant* VehicleOccupant::getItsVehicleOccupant_1() const {
+    return itsVehicleOccupant_1;
+}
+
+void VehicleOccupant::setItsVehicleOccupant_1(VehicleOccupant* p_VehicleOccupant) {
+    if(p_VehicleOccupant != NULL)
+        {
+            p_VehicleOccupant->_setItsVehicleOccupant(this);
+        }
+    _setItsVehicleOccupant_1(p_VehicleOccupant);
+}
+
 void VehicleOccupant::cleanUpRelations() {
     if(itsProvideConfortableTemperature != NULL)
         {
@@ -55,6 +81,26 @@ void VehicleOccupant::cleanUpRelations() {
                     itsProvideConfortableTemperature->__setItsVehicleOccupant(NULL);
                 }
             itsProvideConfortableTemperature = NULL;
+        }
+    if(itsVehicleOccupant != NULL)
+        {
+            NOTIFY_RELATION_CLEARED("itsVehicleOccupant");
+            VehicleOccupant* p_VehicleOccupant = itsVehicleOccupant->getItsVehicleOccupant_1();
+            if(p_VehicleOccupant != NULL)
+                {
+                    itsVehicleOccupant->__setItsVehicleOccupant_1(NULL);
+                }
+            itsVehicleOccupant = NULL;
+        }
+    if(itsVehicleOccupant_1 != NULL)
+        {
+            NOTIFY_RELATION_CLEARED("itsVehicleOccupant_1");
+            VehicleOccupant* p_VehicleOccupant = itsVehicleOccupant_1->getItsVehicleOccupant();
+            if(p_VehicleOccupant != NULL)
+                {
+                    itsVehicleOccupant_1->__setItsVehicleOccupant(NULL);
+                }
+            itsVehicleOccupant_1 = NULL;
         }
 }
 
@@ -83,6 +129,56 @@ void VehicleOccupant::_clearItsProvideConfortableTemperature() {
     itsProvideConfortableTemperature = NULL;
 }
 
+void VehicleOccupant::__setItsVehicleOccupant(VehicleOccupant* p_VehicleOccupant) {
+    itsVehicleOccupant = p_VehicleOccupant;
+    if(p_VehicleOccupant != NULL)
+        {
+            NOTIFY_RELATION_ITEM_ADDED("itsVehicleOccupant", p_VehicleOccupant, false, true);
+        }
+    else
+        {
+            NOTIFY_RELATION_CLEARED("itsVehicleOccupant");
+        }
+}
+
+void VehicleOccupant::_setItsVehicleOccupant(VehicleOccupant* p_VehicleOccupant) {
+    if(itsVehicleOccupant != NULL)
+        {
+            itsVehicleOccupant->__setItsVehicleOccupant_1(NULL);
+        }
+    __setItsVehicleOccupant(p_VehicleOccupant);
+}
+
+void VehicleOccupant::_clearItsVehicleOccupant() {
+    NOTIFY_RELATION_CLEARED("itsVehicleOccupant");
+    itsVehicleOccupant = NULL;
+}
+
+void VehicleOccupant::__setItsVehicleOccupant_1(VehicleOccupant* p_VehicleOccupant) {
+    itsVehicleOccupant_1 = p_VehicleOccupant;
+    if(p_VehicleOccupant != NULL)
+        {
+            NOTIFY_RELATION_ITEM_ADDED("itsVehicleOccupant_1", p_VehicleOccupant, false, true);
+        }
+    else
+        {
+            NOTIFY_RELATION_CLEARED("itsVehicleOccupant_1");
+        }
+}
+
+void VehicleOccupant::_setItsVehicleOccupant_1(VehicleOccupant* p_VehicleOccupant) {
+    if(itsVehicleOccupant_1 != NULL)
+        {
+            itsVehicleOccupant_1->__setItsVehicleOccupant(NULL);
+        }
+    __setItsVehicleOccupant_1(p_VehicleOccupant);
+}
+
+void VehicleOccupant::_clearItsVehicleOccupant_1() {
+    NOTIFY_RELATION_CLEARED("itsVehicleOccupant_1");
+    itsVehicleOccupant_1 = NULL;
+}
+
 #ifdef _OMINSTRUMENT
 //#[ ignore
 void OMAnimatedVehicleOccupant::serializeRelations(AOMSRelations* aomsRelations) const {
@@ -90,6 +186,16 @@ void OMAnimatedVehicleOccupant::serializeRelations(AOMSRelations* aomsRelations)
     if(myReal->itsProvideConfortableTemperature)
         {
             aomsRelations->ADD_ITEM(myReal->itsProvideConfortableTemperature);
+        }
+    aomsRelations->addRelation("itsVehicleOccupant", false, true);
+    if(myReal->itsVehicleOccupant)
+        {
+            aomsRelations->ADD_ITEM(myReal->itsVehicleOccupant);
+        }
+    aomsRelations->addRelation("itsVehicleOccupant_1", false, true);
+    if(myReal->itsVehicleOccupant_1)
+        {
+            aomsRelations->ADD_ITEM(myReal->itsVehicleOccupant_1);
         }
 }
 //#]

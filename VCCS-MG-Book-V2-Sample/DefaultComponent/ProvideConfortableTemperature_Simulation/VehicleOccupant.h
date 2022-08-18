@@ -4,7 +4,7 @@
 	Component	: DefaultComponent 
 	Configuration 	: ProvideConfortableTemperature_Simulation
 	Model Element	: VehicleOccupant
-//!	Generated Date	: Fri, 12, Aug 2022  
+//!	Generated Date	: Mon, 15, Aug 2022  
 	File Path	: DefaultComponent/ProvideConfortableTemperature_Simulation/VehicleOccupant.h
 *********************************************************************/
 
@@ -49,6 +49,18 @@ public :
     
     //## auto_generated
     void setItsProvideConfortableTemperature(ProvideConfortableTemperature* p_ProvideConfortableTemperature);
+    
+    //## auto_generated
+    VehicleOccupant* getItsVehicleOccupant() const;
+    
+    //## auto_generated
+    void setItsVehicleOccupant(VehicleOccupant* p_VehicleOccupant);
+    
+    //## auto_generated
+    VehicleOccupant* getItsVehicleOccupant_1() const;
+    
+    //## auto_generated
+    void setItsVehicleOccupant_1(VehicleOccupant* p_VehicleOccupant);
 
 protected :
 
@@ -58,6 +70,10 @@ protected :
     ////    Relations and components    ////
     
     ProvideConfortableTemperature* itsProvideConfortableTemperature;		//## link itsProvideConfortableTemperature
+    
+    VehicleOccupant* itsVehicleOccupant;		//## link itsVehicleOccupant
+    
+    VehicleOccupant* itsVehicleOccupant_1;		//## link itsVehicleOccupant_1
     
     ////    Framework operations    ////
 
@@ -71,6 +87,24 @@ public :
     
     //## auto_generated
     void _clearItsProvideConfortableTemperature();
+    
+    //## auto_generated
+    void __setItsVehicleOccupant(VehicleOccupant* p_VehicleOccupant);
+    
+    //## auto_generated
+    void _setItsVehicleOccupant(VehicleOccupant* p_VehicleOccupant);
+    
+    //## auto_generated
+    void _clearItsVehicleOccupant();
+    
+    //## auto_generated
+    void __setItsVehicleOccupant_1(VehicleOccupant* p_VehicleOccupant);
+    
+    //## auto_generated
+    void _setItsVehicleOccupant_1(VehicleOccupant* p_VehicleOccupant);
+    
+    //## auto_generated
+    void _clearItsVehicleOccupant_1();
 };
 
 #ifdef _OMINSTRUMENT

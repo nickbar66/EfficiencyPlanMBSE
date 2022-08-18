@@ -1,0 +1,40 @@
+I-Logix-RPY-Archive version 8.15.0 * 202006101734
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 4;
+	- value = "DefaultComponent/block_2_Simulation/Default.cpp" 8.18.2022::16:6:30
+	"DefaultComponent/block_2_Simulation/Default.h" 8.18.2022::16:41:37
+	"DefaultComponent/block_2_Simulation/block_2.cpp" 8.18.2022::17:4:54
+	"DefaultComponent/block_2_Simulation/block_2.h" 8.18.2022::17:4:54
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 117a11a6-f09a-4f2d-91d7-5a3171c89aab" "GUID 2ec118a3-141a-4452-887c-2f7447d352bd"
+	"GUID a5b39ab0-f2ad-4a21-a7b0-3c14792aa380" "GUID 2ec118a3-141a-4452-887c-2f7447d352bd"
+	
+}
+- size = 3;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\CasiPerIBM_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\block_2_Simulation";
+	- _id = GUID 5338c562-4796-4556-8003-57ad84c6b3e3;
+}
+- genTime = 8.18.2022::17:6:47;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\CasiPerIBM_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "block_2";
+	- _id = GUID 863a1a57-17e6-40f6-96b6-22f2d31e07f8;
+}
+- genTime = 8.18.2022::17:4:54;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\CasiPerIBM_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID a5b39ab0-f2ad-4a21-a7b0-3c14792aa380;
+}
+- genTime = 8.18.2022::17:0:6;
+

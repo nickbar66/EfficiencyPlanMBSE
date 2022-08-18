@@ -1,15 +1,17 @@
 I-Logix-RPY-Archive version 8.15.0 * 202006101734
 
 - m_fileModifyTime = { IRPYRawContainer 
-	- size = 8;
-	- value = "DefaultComponent/ProvideConfortableTemperature_Simulation/P_2_System_Context.cpp" 8.12.2022::15:45:24
-	"DefaultComponent/ProvideConfortableTemperature_Simulation/P_2_System_Context.h" 8.12.2022::15:45:24
-	"DefaultComponent/ProvideConfortableTemperature_Simulation/P_3_Use_Cases.cpp" 8.12.2022::15:45:24
-	"DefaultComponent/ProvideConfortableTemperature_Simulation/P_3_Use_Cases.h" 8.12.2022::15:45:24
-	"DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.cpp" 8.14.2022::15:42:34
-	"DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.h" 8.14.2022::15:40:40
-	"DefaultComponent/ProvideConfortableTemperature_Simulation/VehicleOccupant.cpp" 8.12.2022::15:45:24
-	"DefaultComponent/ProvideConfortableTemperature_Simulation/VehicleOccupant.h" 8.12.2022::15:45:24
+	- size = 10;
+	- value = "DefaultComponent/ProvideConfortableTemperature_Simulation/P_2_System_Context.cpp" 8.16.2022::16:0:29
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/P_2_System_Context.h" 8.16.2022::16:0:29
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/P_3_Exchange_Items.cpp" 8.18.2022::17:32:36
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/P_3_Exchange_Items.h" 8.18.2022::17:41:36
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/P_3_Use_Cases.cpp" 8.16.2022::16:30:35
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/P_3_Use_Cases.h" 8.16.2022::16:30:35
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.cpp" 8.18.2022::17:47:48
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.h" 8.18.2022::17:31:34
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/VehicleOccupant.cpp" 8.15.2022::18:25:13
+	"DefaultComponent/ProvideConfortableTemperature_Simulation/VehicleOccupant.h" 8.15.2022::18:25:13
 	
 }
 - m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
@@ -18,7 +20,7 @@ I-Logix-RPY-Archive version 8.15.0 * 202006101734
 	"GUID c2894c11-bf3c-423f-b55d-a5e6a6c795f9" "GUID 81497051-4ccd-4ab6-83a9-46b5f3a52966"
 	
 }
-- size = 5;
+- size = 6;
 - hElement = { IHandle 
 	- _m2Class = "ISubsystem";
 	- _filename = ".\\..\\..\\VCCS-MG-Book-V2-Sample_rpy\\Model.sbsx";
@@ -26,7 +28,15 @@ I-Logix-RPY-Archive version 8.15.0 * 202006101734
 	- _name = "P_3_Use_Cases";
 	- _id = GUID 93318d83-c895-4804-b5a2-b2281530abcd;
 }
-- genTime = 8.14.2022::15:40:41;
+- genTime = 8.18.2022::17:47:48;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\VCCS-MG-Book-V2-Sample_rpy\\Model.sbsx";
+	- _subsystem = "Model::P_1_Problem_Domain";
+	- _name = "P_3_Exchange_Items";
+	- _id = GUID d4d1b978-1e42-43fd-9985-7ef66fbf2b5a;
+}
+- genTime = 8.18.2022::17:47:48;
 - hElement = { IHandle 
 	- _m2Class = "IUseCase";
 	- _filename = ".\\..\\..\\VCCS-MG-Book-V2-Sample_rpy\\Model.sbsx";
@@ -34,7 +44,7 @@ I-Logix-RPY-Archive version 8.15.0 * 202006101734
 	- _name = "ProvideConfortableTemperature";
 	- _id = GUID 25d379f7-4eab-4977-a729-7ddff7452cb9;
 }
-- genTime = 8.14.2022::15:47:57;
+- genTime = 8.18.2022::17:47:48;
 - hElement = { IHandle 
 	- _m2Class = "ISubsystem";
 	- _filename = ".\\..\\..\\VCCS-MG-Book-V2-Sample_rpy\\Model.sbsx";
@@ -42,7 +52,7 @@ I-Logix-RPY-Archive version 8.15.0 * 202006101734
 	- _name = "P_2_System_Context";
 	- _id = GUID 67fcd4d8-782a-4cc2-a6b8-a4f131563e1c;
 }
-- genTime = 8.14.2022::15:40:41;
+- genTime = 8.18.2022::17:47:48;
 - hElement = { IHandle 
 	- _m2Class = "IClass";
 	- _filename = ".\\..\\..\\VCCS-MG-Book-V2-Sample_rpy\\Model.sbsx";
@@ -50,12 +60,12 @@ I-Logix-RPY-Archive version 8.15.0 * 202006101734
 	- _name = "VehicleOccupant";
 	- _id = GUID fbe92da2-6f58-4601-b07e-c266313c12b0;
 }
-- genTime = 8.14.2022::15:40:41;
+- genTime = 8.18.2022::17:47:48;
 - hElement = { IHandle 
 	- _m2Class = "ICodeGenConfigInfo";
 	- _filename = ".\\..\\..\\VCCS-MG-Book-V2-Sample_rpy\\DefaultComponent.cmpx";
 	- _name = "DefaultComponent\\ProvideConfortableTemperature_Simulation";
-	- _id = GUID 6c57da18-3519-47c9-a9d7-f61f2ed8327b;
+	- _id = GUID 724344f0-35e0-4616-9032-5d375950849b;
 }
-- genTime = 8.14.2022::15:47:57;
+- genTime = 8.18.2022::17:47:48;
 

@@ -12,14 +12,14 @@
 			<_id type="a">GUID 21c149da-3acc-40cd-8949-a0301882bc80</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CoSimulazioneStateActivity</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::18:15:45</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::18:15:45</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.15.2022::16:39:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.15.2022::16:43:43</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">8.14.2022::18:15:45</weakCGTime>
+			<weakCGTime type="a">8.15.2022::16:39:11</weakCGTime>
 			<strongCGTime type="a">8.14.2022::15:55:44</strongCGTime>
 			<_defaultComposite type="s">GUID c2164b93-cc71-4c08-a5a6-1e30aac6e7ed</_defaultComposite>
 			<_eventsBaseID type="a">1201</_eventsBaseID>
-			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID ee113ad5-6b60-4758-9d91-ee9d513fef1c</value>
 				<value>GUID c2164b93-cc71-4c08-a5a6-1e30aac6e7ed</value>
@@ -484,7 +484,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -510,16 +510,16 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.14.2022::18:15:45</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">8.15.2022::16:43:58</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID ee113ad5-6b60-4758-9d91-ee9d513fef1c</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">8.14.2022::18:15:45</_modifiedTime>
+			<_modifiedTime type="a">8.15.2022::16:41:28</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">8.14.2022::18:15:45</weakCGTime>
+			<weakCGTime type="a">8.15.2022::16:43:58</weakCGTime>
 			<strongCGTime type="a">8.14.2022::16:19:7</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -573,8 +573,8 @@
 			<_id type="a">GUID 52682666-cc03-4dd5-9a88-4de467eeb8b8</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">printCount</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::17:5:47</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::17:5:47</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.15.2022::16:41:28</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.15.2022::16:41:28</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<_virtual type="a">1</_virtual>
 			<_returnType type="r">
@@ -592,7 +592,7 @@
 			<_static type="a">0</_static>
 			<_constant type="a">0</_constant>
 			<_itsBody type="p"><IBody type="e">
-				<_bodyData type="a">printf(&quot;Count = %25d \n&quot;, Count);%0D
+				<_bodyData type="a">printf(&quot;Count = %25d%25d%25d \n&quot;, Count);%0D
 </_bodyData>
 			</IBody>
 			</_itsBody>
@@ -659,7 +659,7 @@
 				<_classModifier type="a">Unspecified</_classModifier>
 				<_defNumber type="a">6</_defNumber>
 				<_version type="a">8.14.2022::19:32:29</_version>
-				<_baseVersion type="a">1.1.1970::1:0:0</_baseVersion>
+				<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 				<_diagram type="s">GUID 0de5d75a-fd78-468c-99aa-f7f68e70ed4e</_diagram>
 				<_AnalysisMode type="a">1</_AnalysisMode>
 				<AggregatesList type="e">
@@ -696,7 +696,7 @@
 			<ILabel type="e">
 				<_id type="a">GUID a57727d7-616d-4fe3-b9e2-913aa3843d12</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -729,7 +729,7 @@
 			<ILabel type="e">
 				<_id type="a">GUID 617f65ba-dcfe-4132-b424-b3541362fea2</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -762,7 +762,7 @@
 			<ILabel type="e">
 				<_id type="a">GUID ca4b081d-894c-4bf3-b6d7-3246721d67f3</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -795,7 +795,7 @@
 			<ILabel type="e">
 				<_id type="a">GUID ff4f9fe2-fe18-4047-8609-9f105411a558</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_itsTrigger>NULL</_itsTrigger>
 				<_itsGuard>NULL</_itsGuard>
 				<_itsAction>NULL</_itsAction>
@@ -903,7 +903,7 @@
 					<_id type="a">GUID ff4baa5a-ef7e-40d4-8f4b-6765445247eb</_id>
 					<_myState type="a">4096</_myState>
 					<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-					<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+					<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 					<_body type="a">currentCount=getCount();%0D
 </_body>
 				</IAction>
@@ -2244,7 +2244,7 @@ setCount(newCount);%0D
 			<_id type="a">GUID 07c1cfa6-c7bd-4039-84f3-58ed5a821523</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -2261,7 +2261,7 @@ setCount(newCount);%0D
 			<_id type="a">GUID b1431555-96c7-448e-8cd8-1b4c7cf94fc5</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -2291,8 +2291,8 @@ setCount(newCount);%0D
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.14.2022::15:59:4</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::15:59:4</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.15.2022::16:40:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.15.2022::16:40:9</_modifiedTime>
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
@@ -2320,10 +2320,10 @@ setCount(newCount);%0D
 			<_id type="a">GUID 3463b993-7088-4f13-b987-d03d76e2eba7</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">statechart_6</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::18:15:45</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::18:16:55</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.15.2022::16:43:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.15.2022::16:43:58</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">8.14.2022::18:15:45</weakCGTime>
+			<weakCGTime type="a">8.15.2022::16:43:58</weakCGTime>
 			<strongCGTime type="a">8.14.2022::16:19:7</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -2331,8 +2331,8 @@ setCount(newCount);%0D
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">5</_defNumber>
-			<_version type="a">8.14.2022::20:16:55</_version>
-			<_baseVersion type="a">1.1.1970::1:0:0</_baseVersion>
+			<_version type="a">8.15.2022::18:43:58</_version>
+			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID 16975163-069d-4172-b72f-023d18d15cc0</_diagram>
 			<AggregatesList type="e">
 				<value>GUID dc908cd7-01e1-4aa3-8258-65b98b996176</value>
@@ -2366,7 +2366,7 @@ setCount(newCount);%0D
 		<ILabel type="e">
 			<_id type="a">GUID 58d5adb9-e783-4428-a1c9-c8c658d75802</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2397,7 +2397,7 @@ setCount(newCount);%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 34079f78-c86d-4d7b-ba54-8737da39367a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStopCounting</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -2432,7 +2432,7 @@ setCount(newCount);%0D
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID b9fbc7c7-0aaf-471e-a25e-8158303d0a2e</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_body type="a">evStartCounting</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -2457,7 +2457,7 @@ setCount(newCount);%0D
 		<ILabel type="e">
 			<_id type="a">GUID f6fdda8e-4740-4630-8f2a-add047c1eb47</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2478,7 +2478,7 @@ setCount(newCount);%0D
 		<ILabel type="e">
 			<_id type="a">GUID f5391e3a-7883-4078-b9e7-1bba7e6af484</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2501,7 +2501,7 @@ setCount(newCount);%0D
 				<_id type="a">GUID e4c92fd3-e6de-430e-bfba-cbf09509c44e</_id>
 				<_myState type="a">4096</_myState>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">doCount();%0D
 </_body>
 			</IAction>
@@ -2509,13 +2509,13 @@ setCount(newCount);%0D
 		</IState>
 		<ITimeEvent type="e">
 			<_id type="a">GUID 59a04952-03ae-41fb-abee-a3fef8f581b6</_id>
-			<_name type="a">delay2s</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::18:5:37</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::18:5:37</_modifiedTime>
+			<_name type="a">delay5s</_name>
+			<_modifiedTimeWeak type="a">8.15.2022::16:43:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.15.2022::16:43:58</_modifiedTime>
 			<_parent type="s">GUID 7d15e94f-a2b5-4ec6-ae3c-ec424000f8cb</_parent>
 			<_stateType type="a">TimeEvent</_stateType>
 			<_defaultTrans type="s"></_defaultTrans>
-			<_durationTime type="a">2000</_durationTime>
+			<_durationTime type="a">5000</_durationTime>
 		</ITimeEvent>
 		<IState type="e">
 			<_id type="a">GUID 7d15e94f-a2b5-4ec6-ae3c-ec424000f8cb</_id>
@@ -2544,7 +2544,7 @@ setCount(newCount);%0D
 			<_exitAction type="p"><IAction type="e">
 				<_id type="a">GUID 1b097675-65a6-49b4-9986-741bdc79f815</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">printCount(Count);%0D
 </_body>
 			</IAction>
@@ -2771,9 +2771,9 @@ setCount(newCount);%0D
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">statechartdiagram_0</_name>
-			<_modifiedTimeWeak type="a">8.14.2022::18:15:45</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.14.2022::18:16:55</_modifiedTime>
-			<_lastModifiedTime type="a">8.14.2022::18:16:55</_lastModifiedTime>
+			<_modifiedTimeWeak type="a">8.15.2022::16:39:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.15.2022::16:40:9</_modifiedTime>
+			<_lastModifiedTime type="a">8.15.2022::16:43:58</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2810,7 +2810,7 @@ setCount(newCount);%0D
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<elementList type="a">13</elementList>
+			<elementList type="a">14</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -2840,6 +2840,7 @@ setCount(newCount);%0D
 				<value>GUID 64d2ae25-ade8-406b-b659-0cc2954816d8</value>
 				<value>GUID e4944067-761d-414f-89b6-9b7e62d4b28e</value>
 				<value>GUID 266ef7dc-67a5-4144-8150-e62be588b6f8</value>
+				<value>GUID 4befe0e6-6d76-42ed-9a93-79b54dd3ad6e</value>
 			</AggregatesList>
 		</CGIStateChart>
 		<CGIState type="e">
@@ -2923,7 +2924,7 @@ setCount(newCount);%0D
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">3.83796 0 0 5.00758 20 1 </m_transform>
+			<m_transform type="a">4.50463 0 0 5.00758 20 1 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3046,7 +3047,7 @@ setCount(newCount);%0D
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.551659 0 0 0.372913 271.933 619.481 </m_transform>
+			<m_transform type="a">0.427969 0 0 0.377749 271.788 619.479 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3142,7 +3143,7 @@ setCount(newCount);%0D
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">1</m_line_style>
 			<m_SourcePort type="a">634 57 </m_SourcePort>
-			<m_TargetPort type="a">644 -1 </m_TargetPort>
+			<m_TargetPort type="a">643 -1 </m_TargetPort>
 			<m_pInheritsFrom type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3203,8 +3204,8 @@ setCount(newCount);%0D
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">1</m_line_style>
-			<m_SourcePort type="a">916 0 </m_SourcePort>
-			<m_TargetPort type="a">929 1057 </m_TargetPort>
+			<m_SourcePort type="a">918 0 </m_SourcePort>
+			<m_TargetPort type="a">930 1057 </m_TargetPort>
 			<m_pInheritsFrom type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3265,7 +3266,7 @@ setCount(newCount);%0D
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">1</m_line_style>
-			<m_SourcePort type="a">263 1057 </m_SourcePort>
+			<m_SourcePort type="a">262 1057 </m_SourcePort>
 			<m_TargetPort type="a">186 0 </m_TargetPort>
 			<m_pInheritsFrom type="r">
 				<IHandle type="e">
@@ -3420,7 +3421,7 @@ setCount(newCount);%0D
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">1</m_line_style>
-			<m_SourcePort type="a">-8 930 </m_SourcePort>
+			<m_SourcePort type="a">-11 931 </m_SourcePort>
 			<m_TargetPort type="a">15 45 </m_TargetPort>
 			<m_pInheritsFrom type="r">
 				<IHandle type="e">
@@ -3482,7 +3483,7 @@ setCount(newCount);%0D
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">1</m_line_style>
 			<m_SourcePort type="a">12 0 </m_SourcePort>
-			<m_TargetPort type="a">-2 69 </m_TargetPort>
+			<m_TargetPort type="a">-1 68 </m_TargetPort>
 			<m_pInheritsFrom type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -3569,7 +3570,7 @@ setCount(newCount);%0D
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.605839 0 0 0.585849 165 21 </m_transform>
+			<m_transform type="a">0.737226 0 0 0.585849 165 21 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -3941,6 +3942,95 @@ setCount(newCount);%0D
 			</m_PartsArray>
 			<m_csButtonCaption type="a">StopCounting</m_csButtonCaption>
 		</CGIMFCCtrl>
+		<CGIActiveX type="e">
+			<_id type="a">GUID 4befe0e6-6d76-42ed-9a93-79b54dd3ad6e</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">DigitalDisplay</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ActiveXProperties@Child.ActiveXControl</_Name>
+													<_Value type="a">BackColor;16777215;DisplayedString;;Style;3;</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">ValueProperty</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">ActiveXProperties@Child.ActiveXControl</_Name>
+													<_Value type="a">BackColor;16777215;DisplayedString;;Style;3;</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<m_type type="a">221</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAttribute</_hm2Class>
+					<_hid type="a">GUID 548e7375-078b-46ed-82ba-9ebcf59fca27</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID db0db645-dad0-4724-bec1-e601eaa9b3d1</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">digitaldisplay_0</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">0.00213384 0 0 0.000476039 862.694 821.562 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_polygon type="a">4 0 -1114  0 113628  102980 113628  102980 -1114  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<m_csModelObjPath type="a">CoSimulazioneStateActivity.Counter[0].Count</m_csModelObjPath>
+			<m_csName type="a">digitaldisplay_0</m_csName>
+			<m_PartsArray type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hid type="a">GUID 186a7907-0d91-485a-ab5b-d0be42e9a201</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</m_PartsArray>
+		</CGIActiveX>
 		<IEvent type="e">
 			<_id type="a">GUID ea76eae1-26d6-42af-8c72-33f7d843d9db</_id>
 			<_myState type="a">8192</_myState>
