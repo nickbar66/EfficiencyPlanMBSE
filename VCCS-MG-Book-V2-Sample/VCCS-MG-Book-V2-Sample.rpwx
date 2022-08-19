@@ -109,8 +109,8 @@
 								<_hid type="a">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-119 426 </_UpLeft>
-						<_DownRight type="a">1201 948 </_DownRight>
+						<_UpLeft type="a">80 -52 </_UpLeft>
+						<_DownRight type="a">944 432 </_DownRight>
 						<_instanceName type="a">ProvideConfortableTemperature[0]:ProvideConfortableTemperature</_instanceName>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>

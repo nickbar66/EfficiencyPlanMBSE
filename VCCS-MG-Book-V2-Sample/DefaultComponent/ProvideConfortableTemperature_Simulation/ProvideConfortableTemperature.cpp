@@ -4,7 +4,7 @@
 	Component	: DefaultComponent 
 	Configuration 	: ProvideConfortableTemperature_Simulation
 	Model Element	: ProvideConfortableTemperature
-//!	Generated Date	: Thu, 18, Aug 2022  
+//!	Generated Date	: Fri, 19, Aug 2022  
 	File Path	: DefaultComponent/ProvideConfortableTemperature_Simulation/ProvideConfortableTemperature.cpp
 *********************************************************************/
 
@@ -28,36 +28,50 @@ ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortable
 }
 
 OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::filterPassableFlows() {
-    return mContext->delegatedFilterPassableFlowsFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommand, Status);
+    return mContext->delegatedFilterPassableFlowsFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eConfortable, eStatus, eUserCommand);
 }
 
-void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::setECommand(eCommandVT value) {
-    this->eCommand = value;
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::setEConfortable(eCommandVT value) {
+    this->eConfortable = value;
 }
 
-void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::setStatus(int value) {
-    this->Status = value;
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::setEStatus(eOkNok value) {
+    this->eStatus = value;
+}
+
+eCommandVT ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::getEUserCommand() {
+    return eUserCommand;
 }
 
 void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
-    tokens.setCount(2);
-    tokens.addAttribute("eCommand", eCommandVT2String(eCommand));
-    tokens.addAttribute("Status", x2String(Status));
+    tokens.setCount(3);
+    tokens.addAttribute("eConfortable", eCommandVT2String(eConfortable));
+    tokens.addAttribute("eStatus", eOkNok2String(eStatus));
+    tokens.addAttribute("eUserCommand", eCommandVT2String(eUserCommand));
 }
 
 void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::invokeContextMethod() {
-    mContext->delegatedInvokeContextMethodFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommand, Status);
+    mContext->delegatedInvokeContextMethodFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eConfortable, eStatus, eUserCommand);
 }
 
 ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::ActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context) : OMContextualAction(id, activity), mContext(&context) {
 }
 
 OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::filterPassableFlows() {
-    return mContext->delegatedFilterPassableFlowsFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+    return mContext->delegatedFilterPassableFlowsFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eUserCommand);
+}
+
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::setEUserCommand(eCommandVT value) {
+    this->eUserCommand = value;
+}
+
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
+    tokens.setCount(1);
+    tokens.addAttribute("eUserCommand", eCommandVT2String(eUserCommand));
 }
 
 void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::invokeContextMethod() {
-    mContext->delegatedInvokeContextMethodFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
+    mContext->delegatedInvokeContextMethodFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eUserCommand);
 }
 
 ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionStartClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::ActionStartClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context) : OMContextualAction(id, activity), mContext(&context) {
@@ -192,25 +206,25 @@ ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortable
 }
 
 OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::filterPassableFlows() {
-    return mContext->delegatedFilterPassableFlowsFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommand, Status);
+    return mContext->delegatedFilterPassableFlowsFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eConfortable, eStatus);
 }
 
-eCommandVT ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::getECommand() {
-    return eCommand;
+eCommandVT ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::getEConfortable() {
+    return eConfortable;
 }
 
-int ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::getStatus() {
-    return Status;
+eOkNok ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::getEStatus() {
+    return eStatus;
 }
 
 void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
     tokens.setCount(2);
-    tokens.addAttribute("eCommand", eCommandVT2String(eCommand));
-    tokens.addAttribute("Status", x2String(Status));
+    tokens.addAttribute("eConfortable", eCommandVT2String(eConfortable));
+    tokens.addAttribute("eStatus", eOkNok2String(eStatus));
 }
 
 void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::acceptEventData() {
-    mContext->delegatedAcceptEventDataFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommand, Status);
+    mContext->delegatedAcceptEventDataFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eConfortable, eStatus);
 }
 
 ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature::ControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& activity, ProvideConfortableTemperature& context) : OMDecisionNode(id, activity), mContext(&context) {
@@ -241,18 +255,18 @@ OMList<OMString> ProvideConfortableTemperature::ProvideConfortableTemperatureOfP
     return mContext->delegatedFilterPassableFlowsFromControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature();
 }
 
-ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& context, ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature& sourceAction, ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature& targetAction) : OMDataFlow<eCommandVT>(id, context, sourceAction, targetAction), dataSource(&sourceAction), dataTarget(&targetAction) {
+ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow17InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow17InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& context, ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature& sourceAction, ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature& targetAction) : OMDataFlow<eCommandVT>(id, context, sourceAction, targetAction), dataSource(&sourceAction), dataTarget(&targetAction) {
 }
 
-void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::giveToken() {
-    dataTarget->setECommand(dequeueToken());
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow17InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::giveToken() {
+    dataTarget->setEConfortable(dequeueToken());
 }
 
-void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::takeToken() {
-    enqueueToken(dataSource->getECommand());
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow17InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::takeToken() {
+    enqueueToken(dataSource->getEConfortable());
 }
 
-void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow17InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
     if(getTokenCount() > 0)
     {
     	tokens.setCount(getTokenCount());
@@ -265,18 +279,18 @@ void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfor
     }
 }
 
-ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow19InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow19InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& context, ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature& sourceAction, ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature& targetAction) : OMDataFlow<int>(id, context, sourceAction, targetAction), dataSource(&sourceAction), dataTarget(&targetAction) {
+ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& context, ActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature& sourceAction, ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature& targetAction) : OMDataFlow<eOkNok>(id, context, sourceAction, targetAction), dataSource(&sourceAction), dataTarget(&targetAction) {
 }
 
-void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow19InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::giveToken() {
-    dataTarget->setStatus(dequeueToken());
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::giveToken() {
+    dataTarget->setEStatus(dequeueToken());
 }
 
-void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow19InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::takeToken() {
-    enqueueToken(dataSource->getStatus());
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::takeToken() {
+    enqueueToken(dataSource->getEStatus());
 }
 
-void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow19InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
     if(getTokenCount() > 0)
     {
     	tokens.setCount(getTokenCount());
@@ -284,7 +298,31 @@ void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfor
     	{
     		char idx[10];
     		OMitoa(i, idx, 10);
-    		tokens.addAttribute(idx, x2String(mTokens.getAt(i)));
+    		tokens.addAttribute(idx, eOkNok2String(mTokens.getAt(i)));
+    	}
+    }
+}
+
+ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow21InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow21InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(const OMString& id, ProvideConfortableTemperatureOfProvideConfortableTemperature& context, ActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature& sourceAction, ActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature& targetAction) : OMDataFlow<eCommandVT>(id, context, sourceAction, targetAction), dataSource(&sourceAction), dataTarget(&targetAction) {
+}
+
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow21InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::giveToken() {
+    dataTarget->setEUserCommand(dequeueToken());
+}
+
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow21InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::takeToken() {
+    enqueueToken(dataSource->getEUserCommand());
+}
+
+void ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortableTemperature::DataFlow21InActivityProvideConfortableTemperatureOfProvideConfortableTemperature::serializeTokens(AOMSAttributes& tokens) {
+    if(getTokenCount() > 0)
+    {
+    	tokens.setCount(getTokenCount());
+    	for(int i = 0 ; i < getTokenCount() ; i++)
+    	{
+    		char idx[10];
+    		OMitoa(i, idx, 10);
+    		tokens.addAttribute(idx, eCommandVT2String(mTokens.getAt(i)));
     	}
     }
 }
@@ -310,7 +348,7 @@ ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortable
     ControlMergenode_20InActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varMergenode_20 = new ControlMergenode_20InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.mergenode_20", *this, *mContext);
     ControlMergenode_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varMergenode_31 = new ControlMergenode_31InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.mergenode_31", *this, *mContext);
     ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature* varEvalTemp = new ControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:ROOT.EvalTemp", *this, *mContext);
-    OMInitialAction* varInitialNode20 = new OMInitialAction("ProvideConfortableTemperature:20", *this);
+    OMInitialAction* varInitialNode19 = new OMInitialAction("ProvideConfortableTemperature:19", *this);
     
     // Setup flows
     new OMControlFlow("ProvideConfortableTemperature:0", *this, *varCheckSystemState, *varStartClimateControl);
@@ -330,15 +368,15 @@ ProvideConfortableTemperature::ProvideConfortableTemperatureOfProvideConfortable
     new OMControlFlow("ProvideConfortableTemperature:14", *this, *varTurnOffClimateControl, *varStopClimateControl);
     new OMControlFlow("ProvideConfortableTemperature:15", *this, *varCheckSystem, *varCheckSystemState);
     new OMControlFlow("ProvideConfortableTemperature:16", *this, *varEvaluateControl, *varEvalTemp);
-    new OMControlFlow("ProvideConfortableTemperature:17", *this, *varTurnOnClimateControl, *varCheckSystem);
+    new DataFlow17InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:17", *this, *varAccepteventaction_34, *varTurnOnClimateControl);
     new DataFlow18InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:18", *this, *varAccepteventaction_34, *varTurnOnClimateControl);
-    new DataFlow19InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:19", *this, *varAccepteventaction_34, *varTurnOnClimateControl);
-    new OMControlFlow("ProvideConfortableTemperature:20", *this, *varInitialNode20, *varTurnOnClimateControl);
-    new OMControlFlow("ProvideConfortableTemperature:21", *this, *varMergenode_20, *varActivityfinal_31);
+    new OMControlFlow("ProvideConfortableTemperature:19", *this, *varInitialNode19, *varTurnOnClimateControl);
+    new OMControlFlow("ProvideConfortableTemperature:20", *this, *varMergenode_20, *varActivityfinal_31);
+    new DataFlow21InActivityProvideConfortableTemperatureOfProvideConfortableTemperature("ProvideConfortableTemperature:21", *this, *varTurnOnClimateControl, *varCheckSystem);
 }
 //#]
 
-ProvideConfortableTemperature::ProvideConfortableTemperature() : Status(10), eConfortable(OFF) {
+ProvideConfortableTemperature::ProvideConfortableTemperature() {
     NOTIFY_ACTIVITY_CONSTRUCTOR(ProvideConfortableTemperature, ProvideConfortableTemperature(), 0, Model_P_1_Problem_Domain_P_1_Black_Box_P_3_Use_Cases_ProvideConfortableTemperature_ProvideConfortableTemperature_SERIALIZE);
     itsVehicleOccupant = NULL;
 }
@@ -358,25 +396,28 @@ void* ProvideConfortableTemperature::getMe() {
 }
 //#]
 
-OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT eCommand, int Status) {
+OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT eConfortable, eOkNok eStatus, eCommandVT& eUserCommand) {
     //#[ activity_action ProvideConfortableTemperature:ROOT.TurnOnClimateControl
     OMList<OMString> ans;
-    ans.add("ProvideConfortableTemperature:17");
+    ans.add("ProvideConfortableTemperature:21");
     return ans;
     //#]
 }
 
-void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT eCommand, int Status) {
+void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionTurnOnClimateControlInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT eConfortable, eOkNok eStatus, eCommandVT& eUserCommand) {
     //#[ activity_action ProvideConfortableTemperature:ROOT.TurnOnClimateControl
-    OK=Status;
-    eConfortable=eCommand;
+    printf("Confortable %d \n", eConfortable);
+    eOK=eStatus;
+    eUserCommand=eConfortable;
+    
+    
     
     
     
     //#]
 }
 
-OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
+OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT eUserCommand) {
     //#[ activity_action ProvideConfortableTemperature:ROOT.CheckSystem
     OMList<OMString> ans;
     ans.add("ProvideConfortableTemperature:15");
@@ -384,10 +425,10 @@ OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFrom
     //#]
 }
 
-void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
+void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionCheckSystemInActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT eUserCommand) {
     //#[ activity_action ProvideConfortableTemperature:ROOT.CheckSystem
-    OK=1;
-    
+    eOK=OK;
+    eConfortableBuf=eUserCommand;
     //#]
 }
 
@@ -492,7 +533,7 @@ OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFrom
 
 void ProvideConfortableTemperature::delegatedInvokeContextMethodFromActionReachDesiredTemperatureInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
     //#[ activity_action ProvideConfortableTemperature:ROOT.ReachDesiredTemperature
-    eConfortable=ON;
+    eConfortableBuf=Confortable;
     //#]
 }
 
@@ -542,26 +583,26 @@ OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFrom
     //#]
 }
 
-OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT& eCommand, int& Status) {
+OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT& eConfortable, eOkNok& eStatus) {
     //#[ activity_action ProvideConfortableTemperature:ROOT.accepteventaction_34
     OMList<OMString> ans;
+    ans.add("ProvideConfortableTemperature:17");
     ans.add("ProvideConfortableTemperature:18");
-    ans.add("ProvideConfortableTemperature:19");
     return ans;
     //#]
 }
 
-void ProvideConfortableTemperature::delegatedAcceptEventDataFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT& eCommand, int& Status) {
+void ProvideConfortableTemperature::delegatedAcceptEventDataFromActionAccepteventaction_34InActivityProvideConfortableTemperatureOfProvideConfortableTemperature(eCommandVT& eConfortable, eOkNok& eStatus) {
     //#[ activity_action ProvideConfortableTemperature:ROOT.accepteventaction_34
-    eCommand = ((evUserCommand*)getCurrentEvent())->eCommand;
-    Status = ((evUserCommand*)getCurrentEvent())->Status;
+    eConfortable = ((evUserCommand*)getCurrentEvent())->eConfortable;
+    eStatus = ((evUserCommand*)getCurrentEvent())->eStatus;
     //#]
 }
 
 OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromControlCheckSystemStateInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
     //#[ activity_control ProvideConfortableTemperature:ROOT.CheckSystemState
     OMList<OMString> ans;
-    if (OK) { ans.add("ProvideConfortableTemperature:0"); }
+    if (eOK==OK) { ans.add("ProvideConfortableTemperature:0"); }
     else { ans.add("ProvideConfortableTemperature:1"); }
     return ans;
     //#]
@@ -570,7 +611,7 @@ OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFrom
 OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromControlMergenode_20InActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
     //#[ activity_control ProvideConfortableTemperature:ROOT.mergenode_20
     OMList<OMString> ans;
-    ans.add("ProvideConfortableTemperature:21");
+    ans.add("ProvideConfortableTemperature:20");
     return ans;
     //#]
 }
@@ -586,38 +627,30 @@ OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFrom
 OMList<OMString> ProvideConfortableTemperature::delegatedFilterPassableFlowsFromControlEvalTempInActivityProvideConfortableTemperatureOfProvideConfortableTemperature() {
     //#[ activity_control ProvideConfortableTemperature:ROOT.EvalTemp
     OMList<OMString> ans;
-    if (eConfortable) { ans.add("ProvideConfortableTemperature:12"); }
+    if (eConfortableBuf==Confortable) { ans.add("ProvideConfortableTemperature:12"); }
     else { ans.add("ProvideConfortableTemperature:7"); }
     return ans;
     //#]
 }
 
-int ProvideConfortableTemperature::getOK() const {
-    return OK;
+evUserCommand* ProvideConfortableTemperature::getUserCommandBuf() const {
+    return (evUserCommand*) &UserCommandBuf;
 }
 
-void ProvideConfortableTemperature::setOK(int p_OK) {
-    OK = p_OK;
+eCommandVT ProvideConfortableTemperature::getEConfortableBuf() const {
+    return eConfortableBuf;
 }
 
-int ProvideConfortableTemperature::getStatus() const {
-    return Status;
+void ProvideConfortableTemperature::setEConfortableBuf(eCommandVT p_eConfortableBuf) {
+    eConfortableBuf = p_eConfortableBuf;
 }
 
-void ProvideConfortableTemperature::setStatus(int p_Status) {
-    Status = p_Status;
+eOkNok ProvideConfortableTemperature::getEOK() const {
+    return eOK;
 }
 
-evUserCommand* ProvideConfortableTemperature::getUserCommand() const {
-    return (evUserCommand*) &UserCommand;
-}
-
-eCommandVT ProvideConfortableTemperature::getEConfortable() const {
-    return eConfortable;
-}
-
-void ProvideConfortableTemperature::setEConfortable(eCommandVT p_eConfortable) {
-    eConfortable = p_eConfortable;
+void ProvideConfortableTemperature::setEOK(eOkNok p_eOK) {
+    eOK = p_eOK;
 }
 
 VehicleOccupant* ProvideConfortableTemperature::getItsVehicleOccupant() const {
@@ -679,10 +712,9 @@ void ProvideConfortableTemperature::_clearItsVehicleOccupant() {
 #ifdef _OMINSTRUMENT
 //#[ ignore
 void OMAnimatedProvideConfortableTemperature::serializeAttributes(AOMSAttributes* aomsAttributes) const {
-    aomsAttributes->addAttribute("eConfortable", eCommandVT2String(myReal->eConfortable));
-    aomsAttributes->addAttribute("OK", x2String(myReal->OK));
-    aomsAttributes->addAttribute("UserCommand", UNKNOWN2STRING(myReal->UserCommand));
-    aomsAttributes->addAttribute("Status", x2String(myReal->Status));
+    aomsAttributes->addAttribute("eConfortableBuf", eCommandVT2String(myReal->eConfortableBuf));
+    aomsAttributes->addAttribute("eOK", eOkNok2String(myReal->eOK));
+    aomsAttributes->addAttribute("UserCommandBuf", UNKNOWN2STRING(myReal->UserCommandBuf));
 }
 
 void OMAnimatedProvideConfortableTemperature::serializeRelations(AOMSRelations* aomsRelations) const {
