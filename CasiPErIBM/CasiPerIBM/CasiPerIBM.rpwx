@@ -20,8 +20,8 @@
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
 								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
@@ -44,17 +44,17 @@
 							</IHandle>
 						</_theDiagram>
 						<_UpLeft type="a">-18 0 </_UpLeft>
-						<_DownRight type="a">992 376 </_DownRight>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
+						<_DownRight type="a">784 488 </_DownRight>
+						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
 								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">2</m_nFlags>
-								<m_showCmd type="a">3</m_showCmd>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
@@ -76,10 +76,10 @@
 								<_hid type="a">GUID 3bf381bb-021f-4398-a913-14efdbbefd18</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-18 42 </_UpLeft>
-						<_DownRight type="a">1190 639 </_DownRight>
+						<_UpLeft type="a">-18 -8 </_UpLeft>
+						<_DownRight type="a">982 394 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
-						<m_bIsActiveView type="a">1</m_bIsActiveView>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">
@@ -112,7 +112,7 @@
 						<_UpLeft type="a">-1 -7 </_UpLeft>
 						<_DownRight type="a">1009 338 </_DownRight>
 						<_instanceName type="a">block_0[0]:activity_</_instanceName>
-						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
