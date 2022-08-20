@@ -1,8 +1,6 @@
 [Op Calls]
 [Events]
-block_0[0]->GEN(evCommand(3))`block_0
-block_0[0]->GEN(evCommand(1))`block_0
-block_0[0]->GEN(event_1(35))`block_0
-Counter[0]->GEN(evStartCounting())`Counter
-Counter[0]->GEN(evStopCounting())`Counter
+block_0[0]->GEN(ExitActivity())`block_0
+block_0[0]->GEN(evCommand(START))`block_0
+block_0[0]->GEN(evCommand(STOP))`block_0
 [Breakpoints]

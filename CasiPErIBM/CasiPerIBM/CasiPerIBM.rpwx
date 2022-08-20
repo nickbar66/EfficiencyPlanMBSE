@@ -26,6 +26,39 @@
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">26</m_nLeft>
+								<m_nTop type="a">26</m_nTop>
+								<m_nRight type="a">1073</m_nRight>
+								<m_nBottom type="a">462</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IActivityDiagram</_hm2Class>
+								<_hfilename type="a">.\CasiPerIBM_rpy\Default.sbsx</_hfilename>
+								<_hsubsystem type="a">Default</_hsubsystem>
+								<_hclass type="a">block_1</_hclass>
+								<_hname type="a">ActivityDiagram</_hname>
+								<_hid type="a">GUID ca0835ca-8e5c-442f-8696-335af6094579</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-18 0 </_UpLeft>
+						<_DownRight type="a">992 376 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">52</m_nLeft>
 								<m_nTop type="a">52</m_nTop>
 								<m_nRight type="a">753</m_nRight>
@@ -38,15 +71,15 @@
 								<_hm2Class type="a">IActivityDiagram</_hm2Class>
 								<_hfilename type="a">.\CasiPerIBM_rpy\Default.sbsx</_hfilename>
 								<_hsubsystem type="a">Default</_hsubsystem>
-								<_hclass type="a">block_0</_hclass>
+								<_hclass type="a">block_2</_hclass>
 								<_hname type="a">ActivityDiagram</_hname>
 								<_hid type="a">GUID 3bf381bb-021f-4398-a913-14efdbbefd18</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-18 -8 </_UpLeft>
-						<_DownRight type="a">1234 496 </_DownRight>
+						<_UpLeft type="a">-18 42 </_UpLeft>
+						<_DownRight type="a">1190 639 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">
@@ -61,8 +94,8 @@
 								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
 								<m_nLeft type="a">104</m_nLeft>
 								<m_nTop type="a">104</m_nTop>
-								<m_nRight type="a">831</m_nRight>
-								<m_nBottom type="a">426</m_nBottom>
+								<m_nRight type="a">1151</m_nRight>
+								<m_nBottom type="a">509</m_nBottom>
 							</CCommon_WINDOWPLACEMENT>
 						</_placement>
 						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
@@ -71,82 +104,15 @@
 								<_hm2Class type="a">IActivityDiagram</_hm2Class>
 								<_hfilename type="a">.\CasiPerIBM_rpy\Default.sbsx</_hfilename>
 								<_hsubsystem type="a">Default</_hsubsystem>
-								<_hclass type="a">block_0</_hclass>
+								<_hclass type="a">block_2</_hclass>
 								<_hname type="a">ActivityDiagram</_hname>
 								<_hid type="a">GUID 3bf381bb-021f-4398-a913-14efdbbefd18</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-18 -8 </_UpLeft>
-						<_DownRight type="a">672 254 </_DownRight>
-						<_instanceName type="a">block_0[0]:activity_0</_instanceName>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">2</m_nFlags>
-								<m_showCmd type="a">3</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">130</m_nLeft>
-								<m_nTop type="a">130</m_nTop>
-								<m_nRight type="a">831</m_nRight>
-								<m_nBottom type="a">457</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IActivityDiagram</_hm2Class>
-								<_hfilename type="a">.\CasiPerIBM_rpy\Default.sbsx</_hfilename>
-								<_hsubsystem type="a">Default</_hsubsystem>
-								<_hclass type="a">block_2</_hclass>
-								<_hname type="a">ActivityDiagram</_hname>
-								<_hid type="a">GUID 45c31fed-9355-4c0f-aa00-7c1da10e1324</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">864 454 </_DownRight>
+						<_UpLeft type="a">-1 -7 </_UpLeft>
+						<_DownRight type="a">1009 338 </_DownRight>
+						<_instanceName type="a">block_0[0]:activity_</_instanceName>
 						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
-						<m_bIsActiveView type="a">1</m_bIsActiveView>
-					</CGEMdiDiagramParams>
-					
-					<CGEMdiDiagramParams type="e">
-						<_placement type="p">
-							<CCommon_WINDOWPLACEMENT type="e">
-								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">2</m_nFlags>
-								<m_showCmd type="a">3</m_showCmd>
-								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
-								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
-								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
-								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
-								<m_nLeft type="a">104</m_nLeft>
-								<m_nTop type="a">104</m_nTop>
-								<m_nRight type="a">831</m_nRight>
-								<m_nBottom type="a">426</m_nBottom>
-							</CCommon_WINDOWPLACEMENT>
-						</_placement>
-						<_wasOpenedOnCloseProject type="a">0</_wasOpenedOnCloseProject>
-						<_theDiagram type="r">
-							<IHandle type="e">
-								<_hm2Class type="a">IActivityDiagram</_hm2Class>
-								<_hfilename type="a">.\CasiPerIBM_rpy\Default.sbsx</_hfilename>
-								<_hsubsystem type="a">Default</_hsubsystem>
-								<_hclass type="a">block_2</_hclass>
-								<_hname type="a">ActivityDiagram</_hname>
-								<_hid type="a">GUID 45c31fed-9355-4c0f-aa00-7c1da10e1324</_hid>
-							</IHandle>
-						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">864 606 </_DownRight>
-						<_instanceName type="a">block_2[0]:activity_0</_instanceName>
-						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					

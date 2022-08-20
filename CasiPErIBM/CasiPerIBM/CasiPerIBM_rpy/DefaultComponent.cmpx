@@ -12,13 +12,13 @@
 			<_id type="a">GUID 117a11a6-f09a-4f2d-91d7-5a3171c89aab</_id>
 			<_myState type="a">139264</_myState>
 			<_name type="a">DefaultComponent</_name>
-			<_modifiedTimeWeak type="a">8.18.2022::17:13:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.18.2022::17:13:55</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.20.2022::8:27:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.20.2022::9:50:58</_modifiedTime>
 			<m_buildType type="a">Executable</m_buildType>
 			<m_configActive type="r">
 				<ICodeGenConfigInfoHandle type="e">
 					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
-					<_hid type="a">GUID 4d3145c7-b43f-4ae5-a6d2-fd4255260901</_hid>
+					<_hid type="a">GUID bed92e83-8e79-436e-a39f-e4b29d70b741</_hid>
 				</ICodeGenConfigInfoHandle>
 			</m_configActive>
 			<HandlesInMe type="c">
@@ -57,14 +57,14 @@
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
 			</SelectedVariants>
-			<weakCGTime type="a">8.18.2022::17:13:55</weakCGTime>
+			<weakCGTime type="a">8.20.2022::8:27:56</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<AggregatesList type="e">
 				<value>GUID 75bf60eb-66ac-417c-ab19-8e36257708f3</value>
 				<value>GUID 817ee757-3ac9-4753-b0bd-f55d1629dbd7</value>
-				<value>GUID 27d2734f-b887-42db-9cd1-2e89cd910073</value>
-				<value>GUID 5338c562-4796-4556-8003-57ad84c6b3e3</value>
 				<value>GUID 4d3145c7-b43f-4ae5-a6d2-fd4255260901</value>
+				<value>GUID 775dacaf-092f-4b68-881c-d58b57bc01ed</value>
+				<value>GUID bed92e83-8e79-436e-a39f-e4b29d70b741</value>
 			</AggregatesList>
 		</IComponent>
 		<IFolder type="e">
@@ -198,354 +198,6 @@
 			</Files>
 		</IFolder>
 		<ICodeGenConfigInfo type="e">
-			<_id type="a">GUID 27d2734f-b887-42db-9cd1-2e89cd910073</_id>
-			<_myState type="a">8192</_myState>
-			<_properties type="p"><IPropertyContainer type="e">
-				<Subjects type="c">
-					<IRPYRawContainer type="e">
-						<IPropertySubject type="e">
-							<_Name type="a">CPP_CG</_Name>
-							<Metaclasses type="c">
-								<IRPYRawContainer type="e">
-									<IPropertyMetaclass type="e">
-										<_Name type="a">Configuration</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">Environment</_Name>
-													<_Value type="a">Cygwin</_Value>
-													<_Type type="a">Enum</_Type>
-													<_ExtraTypeInfo type="a">MinGW,MSVC,MSVCDLL,MSVCStandardLibrary,VxWorks_DKM,VxWorks_RTP,WorkbenchManaged_DKM,WorkbenchManaged_RTP,WorkbenchManaged653,Cygwin,Linux,QNXNeutrinoGCC, QNXNeutrinoMomentics</_ExtraTypeInfo>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-								</IRPYRawContainer>
-							</Metaclasses>
-						</IPropertySubject>
-						
-					</IRPYRawContainer>
-				</Subjects>
-			</IPropertyContainer>
-			</_properties>
-			<_name type="a">block_0_Simulation</_name>
-			<_modifiedTimeWeak type="a">8.17.2022::19:58:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.17.2022::19:58:9</_modifiedTime>
-			<_scopeType type="a">Derived</_scopeType>
-			<_instrumentation type="a">Animation</_instrumentation>
-			<_timeModel type="a">RealTime</_timeModel>
-			<m_generateActors type="a">1</m_generateActors>
-			<_statechartImplementation type="a">Flat</_statechartImplementation>
-			<_checksList type="a">0 ,</_checksList>
-			<_checksList_Default type="a">1</_checksList_Default>
-			<ScopeElements type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</ScopeElements>
-			<InitialInstances type="c">
-				<IRPYRawContainer type="e">
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IClass</_hm2Class>
-							<_hfilename type="a">.\Default.sbsx</_hfilename>
-							<_hsubsystem type="a">Default</_hsubsystem>
-							<_hname type="a">block_0</_hname>
-							<_hid type="a">GUID 63311790-be0f-4a6c-9be3-b8459b27bcbc</_hid>
-						</IHandle>
-					
-				</IRPYRawContainer>
-			</InitialInstances>
-			<weakCGTime type="a">8.17.2022::19:58:9</weakCGTime>
-			<strongCGTime type="a">8.17.2022::19:58:9</strongCGTime>
-			<AnimScopeElements type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</AnimScopeElements>
-			<m_allInAnimScope type="a">1</m_allInAnimScope>
-			<m_generateUsecases type="a">0</m_generateUsecases>
-			<AggregatesList type="e">
-				<value>GUID 21809298-f716-4427-b359-1c46263fab49</value>
-				<value>GUID 83595dd8-8e51-4229-b15f-0a45d3b8bcc0</value>
-				<value>GUID 41c746ee-8caf-42c2-9448-739fd79c5fef</value>
-				<value>GUID ee9affb0-05fa-46fb-a424-04f0271e7a7e</value>
-			</AggregatesList>
-		</ICodeGenConfigInfo>
-		<IMHyperLink type="e">
-			<_id type="a">GUID 21809298-f716-4427-b359-1c46263fab49</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.17.2022::19:57:43</_modifiedTime>
-			<_dependsOn type="r">
-				<INObjectHandle type="e">
-				</INObjectHandle>
-			</_dependsOn>
-			<_linkDispName type="a">Edit Makefile</_linkDispName>
-			<_linkType type="a">FREE</_linkType>
-			<_linkTarget type="a">DefaultComponent.mak</_linkTarget>
-			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
-		</IMHyperLink>
-		<IMHyperLink type="e">
-			<_id type="a">GUID 83595dd8-8e51-4229-b15f-0a45d3b8bcc0</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.17.2022::19:57:43</_modifiedTime>
-			<_dependsOn type="r">
-				<INObjectHandle type="e">
-				</INObjectHandle>
-			</_dependsOn>
-			<_linkDispName type="a">Edit Main File</_linkDispName>
-			<_linkType type="a">FREE</_linkType>
-			<_linkTarget type="a">MainDefaultComponent</_linkTarget>
-			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
-		</IMHyperLink>
-		<ITag type="e">
-			<_id type="a">GUID 41c746ee-8caf-42c2-9448-739fd79c5fef</_id>
-			<_myState type="a">8192</_myState>
-			<_rmmServerID type="a">-1</_rmmServerID>
-			<_name type="a">SimulateModelFragment</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">RhpString</_hname>
-					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<AggregatesList type="e">
-				<value>GUID c96e9223-7959-499f-9552-92892461bf5e</value>
-				<value>GUID b5cf297a-c91d-4050-83e0-229332fe009f</value>
-			</AggregatesList>
-		</ITag>
-		<IInstanceValue type="e">
-			<_id type="a">GUID c96e9223-7959-499f-9552-92892461bf5e</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<_value type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IActivityGraph</_hm2Class>
-					<_hfilename type="a">.\Default.sbsx</_hfilename>
-					<_hsubsystem type="a">Default</_hsubsystem>
-					<_hclass type="a">block_0</_hclass>
-					<_hname type="a">activity_0</_hname>
-					<_hid type="a">GUID 7f894954-3f5b-419f-ae6f-f5bd975323ba</_hid>
-				</IHandle>
-			</_value>
-		</IInstanceValue>
-		<IInstanceValue type="e">
-			<_id type="a">GUID b5cf297a-c91d-4050-83e0-229332fe009f</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<_value type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IActivityGraph</_hm2Class>
-					<_hfilename type="a">.\Default.sbsx</_hfilename>
-					<_hsubsystem type="a">Default</_hsubsystem>
-					<_hclass type="a">block_0</_hclass>
-					<_hname type="a">activity_0</_hname>
-					<_hid type="a">GUID 7f894954-3f5b-419f-ae6f-f5bd975323ba</_hid>
-				</IHandle>
-			</_value>
-		</IInstanceValue>
-		<IFolder type="e">
-			<_id type="a">GUID ee9affb0-05fa-46fb-a424-04f0271e7a7e</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">block_0_Simulation</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.17.2022::19:53:20</_modifiedTime>
-			<Elements type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Elements>
-			<Files type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Files>
-		</IFolder>
-		<ICodeGenConfigInfo type="e">
-			<_id type="a">GUID 5338c562-4796-4556-8003-57ad84c6b3e3</_id>
-			<_myState type="a">8192</_myState>
-			<_properties type="p"><IPropertyContainer type="e">
-				<Subjects type="c">
-					<IRPYRawContainer type="e">
-						<IPropertySubject type="e">
-							<_Name type="a">CPP_CG</_Name>
-							<Metaclasses type="c">
-								<IRPYRawContainer type="e">
-									<IPropertyMetaclass type="e">
-										<_Name type="a">Configuration</_Name>
-										<Properties type="c">
-											<IRPYRawContainer type="e">
-												<IProperty type="e">
-													<_Name type="a">Environment</_Name>
-													<_Value type="a">Cygwin</_Value>
-													<_Type type="a">Enum</_Type>
-													<_ExtraTypeInfo type="a">MinGW,MSVC,MSVCDLL,MSVCStandardLibrary,VxWorks_DKM,VxWorks_RTP,WorkbenchManaged_DKM,WorkbenchManaged_RTP,WorkbenchManaged653,Cygwin,Linux,QNXNeutrinoGCC, QNXNeutrinoMomentics</_ExtraTypeInfo>
-												</IProperty>
-												
-											</IRPYRawContainer>
-										</Properties>
-									</IPropertyMetaclass>
-									
-								</IRPYRawContainer>
-							</Metaclasses>
-						</IPropertySubject>
-						
-					</IRPYRawContainer>
-				</Subjects>
-			</IPropertyContainer>
-			</_properties>
-			<_name type="a">block_2_Simulation</_name>
-			<_modifiedTimeWeak type="a">8.17.2022::19:58:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.17.2022::19:58:9</_modifiedTime>
-			<_scopeType type="a">Derived</_scopeType>
-			<_instrumentation type="a">Animation</_instrumentation>
-			<_timeModel type="a">RealTime</_timeModel>
-			<m_generateActors type="a">1</m_generateActors>
-			<_statechartImplementation type="a">Flat</_statechartImplementation>
-			<_checksList type="a">0 ,</_checksList>
-			<_checksList_Default type="a">1</_checksList_Default>
-			<ScopeElements type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</ScopeElements>
-			<InitialInstances type="c">
-				<IRPYRawContainer type="e">
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IClass</_hm2Class>
-							<_hfilename type="a">.\Default.sbsx</_hfilename>
-							<_hsubsystem type="a">Default</_hsubsystem>
-							<_hname type="a">block_2</_hname>
-							<_hid type="a">GUID 863a1a57-17e6-40f6-96b6-22f2d31e07f8</_hid>
-						</IHandle>
-					
-				</IRPYRawContainer>
-			</InitialInstances>
-			<weakCGTime type="a">8.17.2022::19:58:9</weakCGTime>
-			<strongCGTime type="a">8.17.2022::19:58:9</strongCGTime>
-			<AnimScopeElements type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</AnimScopeElements>
-			<m_allInAnimScope type="a">1</m_allInAnimScope>
-			<m_generateUsecases type="a">0</m_generateUsecases>
-			<AggregatesList type="e">
-				<value>GUID aa6bbc84-3d22-468f-93e6-5a7368cb2932</value>
-				<value>GUID 3a69a6e6-cd3c-403e-beba-163f728c5dfc</value>
-				<value>GUID d1553686-5130-4cbd-a1b7-f9344604c1bd</value>
-				<value>GUID 0e5ed1a7-0d69-4993-a0a3-bd99a6dd3b3a</value>
-			</AggregatesList>
-		</ICodeGenConfigInfo>
-		<IMHyperLink type="e">
-			<_id type="a">GUID aa6bbc84-3d22-468f-93e6-5a7368cb2932</_id>
-			<_rmmServerID type="a">-1</_rmmServerID>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.17.2022::19:57:43</_modifiedTime>
-			<_dependsOn type="r">
-				<INObjectHandle type="e">
-				</INObjectHandle>
-			</_dependsOn>
-			<_linkDispName type="a">Edit Makefile</_linkDispName>
-			<_linkType type="a">FREE</_linkType>
-			<_linkTarget type="a">DefaultComponent.mak</_linkTarget>
-			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
-		</IMHyperLink>
-		<IMHyperLink type="e">
-			<_id type="a">GUID 3a69a6e6-cd3c-403e-beba-163f728c5dfc</_id>
-			<_rmmServerID type="a">-1</_rmmServerID>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.17.2022::19:57:43</_modifiedTime>
-			<_dependsOn type="r">
-				<INObjectHandle type="e">
-				</INObjectHandle>
-			</_dependsOn>
-			<_linkDispName type="a">Edit Main File</_linkDispName>
-			<_linkType type="a">FREE</_linkType>
-			<_linkTarget type="a">MainDefaultComponent</_linkTarget>
-			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
-		</IMHyperLink>
-		<ITag type="e">
-			<_id type="a">GUID d1553686-5130-4cbd-a1b7-f9344604c1bd</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">SimulateModelFragment</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-					<_hname type="a">RhpString</_hname>
-					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
-				</IHandle>
-			</_typeOf>
-			<_isOrdered type="a">0</_isOrdered>
-			<AggregatesList type="e">
-				<value>GUID a0648c8e-79e2-4e23-a49c-c45b28b49fcf</value>
-				<value>GUID 9ce02886-7b18-4310-99f6-bb893d4bfe26</value>
-				<value>GUID e5ed774b-9b49-4c31-889b-71167eb6f854</value>
-			</AggregatesList>
-		</ITag>
-		<IInstanceValue type="e">
-			<_id type="a">GUID a0648c8e-79e2-4e23-a49c-c45b28b49fcf</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<_value type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
-					<_hid type="a">GUID 5338c562-4796-4556-8003-57ad84c6b3e3</_hid>
-				</IHandle>
-			</_value>
-		</IInstanceValue>
-		<IInstanceValue type="e">
-			<_id type="a">GUID 9ce02886-7b18-4310-99f6-bb893d4bfe26</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<_value type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IActivityGraph</_hm2Class>
-					<_hfilename type="a">.\Default.sbsx</_hfilename>
-					<_hsubsystem type="a">Default</_hsubsystem>
-					<_hclass type="a">block_2</_hclass>
-					<_hname type="a">activity_0</_hname>
-					<_hid type="a">GUID a0d2d616-8783-4912-9b31-2de2be0a5b73</_hid>
-				</IHandle>
-			</_value>
-		</IInstanceValue>
-		<IInstanceValue type="e">
-			<_id type="a">GUID e5ed774b-9b49-4c31-889b-71167eb6f854</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<_value type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IActivityGraph</_hm2Class>
-					<_hfilename type="a">.\Default.sbsx</_hfilename>
-					<_hsubsystem type="a">Default</_hsubsystem>
-					<_hclass type="a">block_2</_hclass>
-					<_hname type="a">activity_0</_hname>
-					<_hid type="a">GUID a0d2d616-8783-4912-9b31-2de2be0a5b73</_hid>
-				</IHandle>
-			</_value>
-		</IInstanceValue>
-		<IFolder type="e">
-			<_id type="a">GUID 0e5ed1a7-0d69-4993-a0a3-bd99a6dd3b3a</_id>
-			<_myState type="a">8192</_myState>
-			<_rmmServerID type="a">-1</_rmmServerID>
-			<_name type="a">block_2_Simulation</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.17.2022::19:53:20</_modifiedTime>
-			<Elements type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Elements>
-			<Files type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</Files>
-		</IFolder>
-		<ICodeGenConfigInfo type="e">
 			<_id type="a">GUID 4d3145c7-b43f-4ae5-a6d2-fd4255260901</_id>
 			<_myState type="a">8192</_myState>
 			<_properties type="p"><IPropertyContainer type="e">
@@ -664,7 +316,7 @@
 		<IInstanceValue type="e">
 			<_id type="a">GUID d8f101a0-c460-4cc4-93e1-7858ee5b0275</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_value type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
@@ -676,6 +328,366 @@
 			<_id type="a">GUID b4dadda2-6d65-4f1a-ab1f-d31b7f475669</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">block_7_Simulation</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2022::19:53:20</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 775dacaf-092f-4b68-881c-d58b57bc01ed</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Configuration</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Environment</_Name>
+													<_Value type="a">Cygwin</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">MinGW,MSVC,MSVCDLL,MSVCStandardLibrary,VxWorks_DKM,VxWorks_RTP,WorkbenchManaged_DKM,WorkbenchManaged_RTP,WorkbenchManaged653,Cygwin,Linux,QNXNeutrinoGCC, QNXNeutrinoMomentics</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">block_2_Simulation</_name>
+			<_modifiedTimeWeak type="a">8.17.2022::19:58:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2022::19:58:9</_modifiedTime>
+			<_scopeType type="a">Derived</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\Default.sbsx</_hfilename>
+							<_hsubsystem type="a">Default</_hsubsystem>
+							<_hname type="a">block_2</_hname>
+							<_hid type="a">GUID 863a1a57-17e6-40f6-96b6-22f2d31e07f8</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">8.17.2022::19:58:9</weakCGTime>
+			<strongCGTime type="a">8.17.2022::19:58:9</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 93b57da6-0f59-43f5-ba70-09c24b8f6cea</value>
+				<value>GUID f41ccbf3-e4e9-4b01-889d-bcb8df4c8592</value>
+				<value>GUID 79d39336-0c0c-429e-95f9-a155ac8c97f8</value>
+				<value>GUID cadcb38e-8708-4b83-9031-e3d6df7475e3</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IMHyperLink type="e">
+			<_id type="a">GUID 93b57da6-0f59-43f5-ba70-09c24b8f6cea</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2022::19:57:43</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Makefile</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">DefaultComponent.mak</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IMHyperLink type="e">
+			<_id type="a">GUID f41ccbf3-e4e9-4b01-889d-bcb8df4c8592</_id>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2022::19:57:43</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Main File</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">MainDefaultComponent</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<ITag type="e">
+			<_id type="a">GUID 79d39336-0c0c-429e-95f9-a155ac8c97f8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SimulateModelFragment</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID d2dee896-e56d-4483-838b-8149f94e0518</value>
+				<value>GUID 878106ff-9727-42b1-9b73-8fba4f947293</value>
+				<value>GUID f1303404-3927-4f39-9122-803ee210eed8</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID d2dee896-e56d-4483-838b-8149f94e0518</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 817ee757-3ac9-4753-b0bd-f55d1629dbd7</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 878106ff-9727-42b1-9b73-8fba4f947293</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActivityGraph</_hm2Class>
+					<_hfilename type="a">.\Default.sbsx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">block_2</_hclass>
+					<_hname type="a">activity_1</_hname>
+					<_hid type="a">GUID 3fbd3062-b809-49b3-9fa3-10dd4f5e8159</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IInstanceValue type="e">
+			<_id type="a">GUID f1303404-3927-4f39-9122-803ee210eed8</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActivityGraph</_hm2Class>
+					<_hfilename type="a">.\Default.sbsx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">block_2</_hclass>
+					<_hname type="a">activity_1</_hname>
+					<_hid type="a">GUID 3fbd3062-b809-49b3-9fa3-10dd4f5e8159</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IFolder type="e">
+			<_id type="a">GUID cadcb38e-8708-4b83-9031-e3d6df7475e3</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">block_2_Simulation</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2022::19:53:20</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID bed92e83-8e79-436e-a39f-e4b29d70b741</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Configuration</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Environment</_Name>
+													<_Value type="a">Cygwin</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">MinGW,MSVC,MSVCDLL,MSVCStandardLibrary,VxWorks_DKM,VxWorks_RTP,WorkbenchManaged_DKM,WorkbenchManaged_RTP,WorkbenchManaged653,Cygwin,Linux,QNXNeutrinoGCC, QNXNeutrinoMomentics</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">block_0_Simulation</_name>
+			<_modifiedTimeWeak type="a">8.17.2022::19:58:9</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2022::19:58:9</_modifiedTime>
+			<_scopeType type="a">Derived</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\Default.sbsx</_hfilename>
+							<_hsubsystem type="a">Default</_hsubsystem>
+							<_hname type="a">block_0</_hname>
+							<_hid type="a">GUID 63311790-be0f-4a6c-9be3-b8459b27bcbc</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">8.17.2022::19:58:9</weakCGTime>
+			<strongCGTime type="a">8.17.2022::19:58:9</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID ec8bd755-8f54-40f6-8924-486603dcb2c4</value>
+				<value>GUID fba3d1a6-1a03-44b9-80af-97cc12d8732d</value>
+				<value>GUID 27b52811-051a-406a-a42b-5c850e9b7a7a</value>
+				<value>GUID 535380ca-58de-4d89-8bf9-cfe21b6153ab</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IMHyperLink type="e">
+			<_id type="a">GUID ec8bd755-8f54-40f6-8924-486603dcb2c4</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2022::19:57:43</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Makefile</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">DefaultComponent.mak</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IMHyperLink type="e">
+			<_id type="a">GUID fba3d1a6-1a03-44b9-80af-97cc12d8732d</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.17.2022::19:57:43</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Main File</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">MainDefaultComponent</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<ITag type="e">
+			<_id type="a">GUID 27b52811-051a-406a-a42b-5c850e9b7a7a</_id>
+			<_myState type="a">8192</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">SimulateModelFragment</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 2f4bee1c-174d-420e-8008-05c83d93923d</value>
+				<value>GUID 601eac69-9802-4e3d-81f9-866deb7b3999</value>
+				<value>GUID d9b61c5c-34e4-4498-bf25-4076515b5e2f</value>
+			</AggregatesList>
+		</ITag>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 2f4bee1c-174d-420e-8008-05c83d93923d</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID bed92e83-8e79-436e-a39f-e4b29d70b741</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IInstanceValue type="e">
+			<_id type="a">GUID 601eac69-9802-4e3d-81f9-866deb7b3999</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActivityGraph</_hm2Class>
+					<_hfilename type="a">.\Default.sbsx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">block_0</_hclass>
+					<_hname type="a">activity_</_hname>
+					<_hid type="a">GUID 7f894954-3f5b-419f-ae6f-f5bd975323ba</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IInstanceValue type="e">
+			<_id type="a">GUID d9b61c5c-34e4-4498-bf25-4076515b5e2f</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<_value type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IActivityGraph</_hm2Class>
+					<_hfilename type="a">.\Default.sbsx</_hfilename>
+					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hclass type="a">block_0</_hclass>
+					<_hname type="a">activity_</_hname>
+					<_hid type="a">GUID 7f894954-3f5b-419f-ae6f-f5bd975323ba</_hid>
+				</IHandle>
+			</_value>
+		</IInstanceValue>
+		<IFolder type="e">
+			<_id type="a">GUID 535380ca-58de-4d89-8bf9-cfe21b6153ab</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">block_0_Simulation</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">8.17.2022::19:53:20</_modifiedTime>
 			<Elements type="c">

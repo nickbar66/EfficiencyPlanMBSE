@@ -37,6 +37,29 @@
 							</Metaclasses>
 						</IPropertySubject>
 						
+						<IPropertySubject type="e">
+							<_Name type="a">CPP_CG</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Type</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">GenerateSerializationFunctions</_Name>
+													<_Value type="a">SerializationAndUnserialization</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">SerializationAndUnserialization,SerializationOnly,None</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
 					</IRPYRawContainer>
 				</Subjects>
 			</IPropertyContainer>
@@ -54,8 +77,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">8.16.2022::22:0:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.16.2022::22:39:36</_modifiedTime>
+			<_modifiedTimeWeak type="a">8.20.2022::11:0:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.20.2022::11:0:55</_modifiedTime>
 			<_lastID type="a">6</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
