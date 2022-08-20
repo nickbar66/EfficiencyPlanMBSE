@@ -76,8 +76,8 @@
 								<_hid type="a">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-140 -70 </_UpLeft>
-						<_DownRight type="a">343 165 </_DownRight>
+						<_UpLeft type="a">-136 -92 </_UpLeft>
+						<_DownRight type="a">592 263 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -109,8 +109,8 @@
 								<_hid type="a">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">-140 232 </_UpLeft>
-						<_DownRight type="a">1626 1020 </_DownRight>
+						<_UpLeft type="a">-123 328 </_UpLeft>
+						<_DownRight type="a">1086 995 </_DownRight>
 						<_instanceName type="a">ProvideConfortableTemperature[0]:ProvideConfortableTemperature</_instanceName>
 						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
