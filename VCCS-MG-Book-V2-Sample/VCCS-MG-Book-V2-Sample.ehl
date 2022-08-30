@@ -1,6 +1,6 @@
 [Op Calls]
 [Events]
-ProvideConfortableTemperature[0]->GEN(evUserCommand(NotConfortable,NOK))`ProvideConfortableTemperature
-ProvideConfortableTemperature[0]->GEN(evUserCommand(NotConfortable,OK))`ProvideConfortableTemperature
 ProvideConfortableTemperature[0]->GEN(evUserCommand(Confortable,OK))`ProvideConfortableTemperature
+ProvideConfortableTemperature[0]->GEN(evUserCommand(NotConfortable,OK))`ProvideConfortableTemperature
+ProvideConfortableTemperature[0]->GEN(evUserCommand(NotConfortable,NOK))`ProvideConfortableTemperature
 [Breakpoints]
