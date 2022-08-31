@@ -43,8 +43,8 @@
 								<_hid type="a">GUID ca0835ca-8e5c-442f-8696-335af6094579</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">167 290 </_UpLeft>
-						<_DownRight type="a">1177 666 </_DownRight>
+						<_UpLeft type="a">-1 290 </_UpLeft>
+						<_DownRight type="a">1009 666 </_DownRight>
 						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -87,8 +87,8 @@
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
 								<m_nLength type="a">44</m_nLength>
-								<m_nFlags type="a">0</m_nFlags>
-								<m_showCmd type="a">1</m_showCmd>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
 								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
 								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
 								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
@@ -110,10 +110,10 @@
 								<_hid type="a">GUID 3bf381bb-021f-4398-a913-14efdbbefd18</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 0 </_UpLeft>
-						<_DownRight type="a">813 292 </_DownRight>
+						<_UpLeft type="a">-18 0 </_UpLeft>
+						<_DownRight type="a">1175 614 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
-						<m_bIsActiveView type="a">0</m_bIsActiveView>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 					<CGEMdiDiagramParams type="e">

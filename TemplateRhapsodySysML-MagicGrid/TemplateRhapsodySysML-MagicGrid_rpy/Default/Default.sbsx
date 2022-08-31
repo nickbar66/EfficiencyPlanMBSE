@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202006101734</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 005e5985-f519-4e59-b9b9-77c0eba43869</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Default</_name>
+			<_modifiedTimeWeak type="a">8.30.2022::14:2:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.30.2022::14:0:41</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">8.30.2022::14:2:10</weakCGTime>
+			<strongCGTime type="a">8.30.2022::14:2:10</strongCGTime>
+			<_defaultComposite type="s">GUID f673146b-ed6e-41c0-8914-cc7c6e65a744</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID a462fb52-a7a5-4e06-89ea-8edc97f2ac4f</value>
+				<value>GUID 8e6b4fec-447a-42e2-b135-c3561e38bb99</value>
+				<value>GUID 23eb0293-4b2b-478b-b00c-538172daa835</value>
+				<value>GUID 876863b3-9c33-47f7-b58a-86ba8caaf7c5</value>
+				<value>GUID f673146b-ed6e-41c0-8914-cc7c6e65a744</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IStereotype type="e">
+			<_id type="a">GUID a462fb52-a7a5-4e06-89ea-8edc97f2ac4f</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Import</_name>
+			<_modifiedTimeWeak type="a">8.30.2022::14:2:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+					<value>Dependency</value>
+				</IRPYRawContainer>
+			</_m2Classes>
+		</IStereotype>
+		<IStereotype type="e">
+			<_id type="a">GUID 8e6b4fec-447a-42e2-b135-c3561e38bb99</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FunctionalReq</_name>
+			<_modifiedTimeWeak type="a">8.30.2022::14:2:10</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">FunctionalRequirement</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">7.14.2022::14:28:41</_modifiedTime>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+					<value>Requirement</value>
+				</IRPYRawContainer>
+			</_m2Classes>
+			<AggregatesList type="e">
+				<value>GUID 4d171388-ba3d-4392-beaa-8df49d3a3328</value>
+			</AggregatesList>
+		</IStereotype>
+		<ITag type="e">
+			<_id type="a">GUID 4d171388-ba3d-4392-beaa-8df49d3a3328</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">FR</_name>
+			<_modifiedTimeWeak type="a">7.14.2022::14:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.14.2022::14:28:41</_modifiedTime>
+			<_typeOf type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IType</_hm2Class>
+					<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+					<_hname type="a">RhpString</_hname>
+					<_hid type="a">GUID ae5e3720-4e3e-40f1-9346-9a8b4e501f35</_hid>
+				</IHandle>
+			</_typeOf>
+			<_isOrdered type="a">0</_isOrdered>
+			<AggregatesList type="e">
+				<value>GUID 21ee4c0e-5e2d-4211-b81a-3c0ba93ad21c</value>
+			</AggregatesList>
+		</ITag>
+		<ILiteralSpecification type="e">
+			<_id type="a">GUID 21ee4c0e-5e2d-4211-b81a-3c0ba93ad21c</_id>
+			<_modifiedTimeWeak type="a">7.14.2022::14:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.14.2022::14:28:41</_modifiedTime>
+			<_value type="a">FR</_value>
+		</ILiteralSpecification>
+		<IStereotype type="e">
+			<_id type="a">GUID 23eb0293-4b2b-478b-b00c-538172daa835</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Allocate</_name>
+			<_modifiedTimeWeak type="a">8.30.2022::14:2:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.26.2022::14:31:56</_modifiedTime>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+					<value>ActivityDiagram</value>
+					<value>SequenceDiagram</value>
+					<value>Statechart</value>
+					<value>Swimlane</value>
+				</IRPYRawContainer>
+			</_m2Classes>
+		</IStereotype>
+		<IStereotype type="e">
+			<_id type="a">GUID 876863b3-9c33-47f7-b58a-86ba8caaf7c5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">MoE</_name>
+			<_modifiedTimeWeak type="a">8.30.2022::14:2:10</_modifiedTimeWeak>
+			<_description type="p"><IDescription type="e">
+				<_text type="a">Measure of Effectiveness per PArametric Diagrams</_text>
+			</IDescription>
+			</_description>
+			<_modifiedTime type="a">8.21.2022::13:43:52</_modifiedTime>
+			<_m2Classes type="c">
+				<IRPYRawContainer type="e">
+					<value>Attribute</value>
+				</IRPYRawContainer>
+			</_m2Classes>
+		</IStereotype>
+		<IClass type="e">
+			<_id type="a">GUID f673146b-ed6e-41c0-8914-cc7c6e65a744</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">8.30.2022::14:2:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">8.30.2022::14:2:10</weakCGTime>
+			<strongCGTime type="a">8.30.2022::14:2:10</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

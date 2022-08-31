@@ -9,35 +9,22 @@
 	
 	<RHAPSODY-MODEL>
 	<ISubsystem type="e">
-			<_id type="a">GUID 005e5985-f519-4e59-b9b9-77c0eba43869</_id>
+			<_id type="a">GUID e4765465-f519-4bb5-979f-676e2aefd651</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Default</_name>
-			<_modifiedTimeWeak type="a">6.24.2022::14:47:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.24.2022::14:48:36</_modifiedTime>
-			<weakCGTime type="a">6.24.2022::14:47:18</weakCGTime>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_defaultComposite type="s">GUID f673146b-ed6e-41c0-8914-cc7c6e65a744</_defaultComposite>
+			<_defaultComposite type="s">GUID 8f7a7620-ec38-4cc0-942d-8f1e7a40aef2</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
-				<value>GUID a462fb52-a7a5-4e06-89ea-8edc97f2ac4f</value>
-				<value>GUID f673146b-ed6e-41c0-8914-cc7c6e65a744</value>
+				<value>GUID 8f7a7620-ec38-4cc0-942d-8f1e7a40aef2</value>
 			</AggregatesList>
 		</ISubsystem>
-		<IStereotype type="e">
-			<_id type="a">GUID a462fb52-a7a5-4e06-89ea-8edc97f2ac4f</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">Import</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
-			<_m2Classes type="c">
-				<IRPYRawContainer type="e">
-					<value>Dependency</value>
-				</IRPYRawContainer>
-			</_m2Classes>
-		</IStereotype>
 		<IClass type="e">
-			<_id type="a">GUID f673146b-ed6e-41c0-8914-cc7c6e65a744</_id>
+			<_id type="a">GUID 8f7a7620-ec38-4cc0-942d-8f1e7a40aef2</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
