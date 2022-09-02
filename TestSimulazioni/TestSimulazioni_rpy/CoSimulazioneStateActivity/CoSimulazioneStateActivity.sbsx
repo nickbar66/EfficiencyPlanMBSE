@@ -12,16 +12,17 @@
 			<_id type="a">GUID 21c149da-3acc-40cd-8949-a0301882bc80</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CoSimulazioneStateActivity</_name>
-			<_modifiedTimeWeak type="a">8.15.2022::16:39:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.15.2022::16:43:43</_modifiedTime>
-			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">8.15.2022::16:39:11</weakCGTime>
+			<_modifiedTimeWeak type="a">9.1.2022::18:24:8</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.1.2022::18:43:38</_modifiedTime>
+			<_lastID type="a">7</_lastID>
+			<weakCGTime type="a">9.1.2022::18:24:8</weakCGTime>
 			<strongCGTime type="a">8.14.2022::15:55:44</strongCGTime>
 			<_defaultComposite type="s">GUID c2164b93-cc71-4c08-a5a6-1e30aac6e7ed</_defaultComposite>
 			<_eventsBaseID type="a">1201</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID ee113ad5-6b60-4758-9d91-ee9d513fef1c</value>
+				<value>GUID 517ef00b-159b-4758-9cbd-4aa836ab1a1f</value>
 				<value>GUID c2164b93-cc71-4c08-a5a6-1e30aac6e7ed</value>
 				<value>GUID 186a7907-0d91-485a-ab5b-d0be42e9a201</value>
 				<value>GUID ea76eae1-26d6-42af-8c72-33f7d843d9db</value>
@@ -479,6 +480,367 @@
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 			<_fontPropValues type="a">Tahoma 8 400 0 0 0 0</_fontPropValues>
 		</CGICompartment>
+		<IMSC type="e">
+			<_id type="a">GUID 517ef00b-159b-4758-9cbd-4aa836ab1a1f</_id>
+			<_myState type="a">10240</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">DiagramFrame</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">20,20,590,500</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">247,247,247</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">194,192,192</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">InstanceLine</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,96,437</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">sequencediagram_6</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.1.2022::13:14:38</_modifiedTime>
+			<_lastModifiedTime type="a">9.1.2022::13:14:38</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 21c149da-3acc-40cd-8949-a0301882bc80</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<m_pICollaboration type="p"><ICollaboration type="e">
+				<_id type="a">GUID e1b51dc1-4785-4b48-ab81-e74942eccd5c</_id>
+				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+				<_modifiedTime type="a">9.1.2022::13:14:38</_modifiedTime>
+				<AggregatesList type="e">
+					<value>GUID b05a5a3b-bdcb-4ffa-b736-faabf6bb95b4</value>
+				</AggregatesList>
+			</ICollaboration>
+			<IClassifierRole type="e">
+				<_id type="a">GUID b05a5a3b-bdcb-4ffa-b736-faabf6bb95b4</_id>
+				<_myState type="a">2048</_myState>
+				<Stereotypes type="c">
+					<IRPYRawContainer type="e">
+						
+							<IHandle type="e">
+								<_hm2Class type="a">IStereotype</_hm2Class>
+								<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+								<_hname type="a">Lifeline</_hname>
+								<_hid type="a">GUID 752f4249-6420-4c48-9754-8bf7b94585ed</_hid>
+							</IHandle>
+						
+					</IRPYRawContainer>
+				</Stereotypes>
+				<_modifiedTimeWeak type="a">9.1.2022::13:14:38</_modifiedTimeWeak>
+				<_modifiedTime type="a">9.1.2022::13:14:38</_modifiedTime>
+				<m_eRoleType type="a">CLASS</m_eRoleType>
+				<m_pBase type="r">
+					<IHandle type="e">
+						<_hm2Class type="a">IClass</_hm2Class>
+						<_hid type="a">GUID 186a7907-0d91-485a-ab5b-d0be42e9a201</_hid>
+					</IHandle>
+				</m_pBase>
+				<m_instance type="r">
+					<IHandle type="e">
+					</IHandle>
+				</m_instance>
+			</IClassifierRole>
+			</m_pICollaboration>
+			<AggregatesList type="e">
+				<value>GUID 7672da33-2e37-45dd-a9c4-8b72b3ddd16e</value>
+			</AggregatesList>
+		</IMSC>
+		<CGIMscChart type="e">
+			<vLadderMargin type="a">20</vLadderMargin>
+			<m_usingActivationBar type="a">0</m_usingActivationBar>
+			<_id type="a">GUID 7672da33-2e37-45dd-a9c4-8b72b3ddd16e</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IMSC</_hm2Class>
+					<_hid type="a">GUID 517ef00b-159b-4758-9cbd-4aa836ab1a1f</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">3</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID bff3e57a-6496-415a-b642-0e5bb20c92b3</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID bff3e57a-6496-415a-b642-0e5bb20c92b3</value>
+				<value>GUID 5543c5a1-1393-401b-a86a-94fa177440a6</value>
+				<value>GUID 6f9be192-5cdb-468d-ab23-2a29a1b7f427</value>
+			</AggregatesList>
+		</CGIMscChart>
+		<CGIBox type="e">
+			<_id type="a">GUID bff3e57a-6496-415a-b642-0e5bb20c92b3</_id>
+			<m_type type="a">108</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ICollaboration</_hm2Class>
+					<_hid type="a">GUID e1b51dc1-4785-4b48-ab81-e74942eccd5c</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBox>
+		<CGIDiagramFrame type="e">
+			<_id type="a">GUID 5543c5a1-1393-401b-a86a-94fa177440a6</_id>
+			<m_type type="a">203</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID bff3e57a-6496-415a-b642-0e5bb20c92b3</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_transform type="a">2.63889 0 0 3.68939 20 20 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 132  216 132  216 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIDiagramFrame>
+		<CGIMscColumnCR type="e">
+			<_id type="a">GUID 6f9be192-5cdb-468d-ab23-2a29a1b7f427</_id>
+			<m_type type="a">109</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClassifierRole</_hm2Class>
+					<_hid type="a">GUID b05a5a3b-bdcb-4ffa-b736-faabf6bb95b4</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID bff3e57a-6496-415a-b642-0e5bb20c92b3</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">:Counter</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_transform type="a">1 0 0 0.00876015 102 50 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_position type="a">4 0 0  0 49885  96 49885  96 0  </m_position>
+			<m_pInheritsFrom type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pInheritsFrom>
+			<m_nInheritanceMask type="a">0</m_nInheritanceMask>
+			<m_SubType type="a">0</m_SubType>
+		</CGIMscColumnCR>
 		<IClass type="e">
 			<_id type="a">GUID c2164b93-cc71-4c08-a5a6-1e30aac6e7ed</_id>
 			<_myState type="a">40960</_myState>

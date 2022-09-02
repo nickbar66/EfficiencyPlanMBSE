@@ -1,5 +1,7 @@
 [Op Calls]
 [Events]
+MultipleExeExitOnConditionOrEvent[0]->GEN(evCommand(START))`MultipleExeExitOnConditionOrEvent
+MultipleExeExitOnConditionOrEvent[0]->GEN(ExitActivity())`MultipleExeExitOnConditionOrEvent
 block_0[0]->GEN(ExitActivity())`block_0
 block_0[0]->GEN(evCommand(START))`block_0
 block_0[0]->GEN(evCommand(STOP))`block_0
