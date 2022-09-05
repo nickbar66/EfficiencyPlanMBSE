@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>C++</lang>
+	<BuildNo>202203291341</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<IWorkspace type="e">
+			<m_SavedActiveProjectsName type="a">VCCS-MG-Book-V2-Sample</m_SavedActiveProjectsName>
+			<_id type="a">GUID ce7dd1b1-2549-4ecd-bdd8-18e760a44207</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Projects</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.2.2022::8:42:43</_modifiedTime>
+			<AggregatesList type="e">
+				<value>GUID 9a104136-8e00-4925-bdc9-a3086bca476d</value>
+			</AggregatesList>
+		</IWorkspace>
+		<IProject type="e">
+			<fileName type="a">VCCS-MG-Book-V2-Sample</fileName>
+			<_persistAs type="a">I:\NBaEfficiencyPlanMBSE\EfficiencyPlanMBSE-TechnTests Workspace\VCCS-MG-Book-V2-Sample</_persistAs>
+			<_id type="a">GUID 9a104136-8e00-4925-bdc9-a3086bca476d</_id>
+			<_rmmServerID type="a">1016324_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
+		</IProject>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

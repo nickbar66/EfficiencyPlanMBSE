@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RhapsodyArchive>
-	<MagicNumber></MagicNumber>
+	<MagicNumber>_EpON4ioAEe2DXLrcUTKCqg</MagicNumber>
 	<CODE-PAGE>1252</CODE-PAGE>
 	<version>109.0.1</version>
+	<RMMIndexVersion>109.1</RMMIndexVersion>
 	<lang>C++</lang>
-	<BuildNo>202006101734</BuildNo>
+	<BuildNo>202203291341</BuildNo>
 	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
 	
 	<RHAPSODY-MODEL>
@@ -83,10 +84,34 @@
 							</Metaclasses>
 						</IPropertySubject>
 						
+						<IPropertySubject type="e">
+							<_Name type="a">ConfigurationManagement</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">EngineeringWorkflowManagement</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">UnitAutomaticOperationOnSave</_Name>
+													<_Value type="a">CheckIn</_Value>
+													<_Type type="a">Enum</_Type>
+													<_ExtraTypeInfo type="a">None, CheckIn, CheckInAndDeliver</_ExtraTypeInfo>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
 					</IRPYRawContainer>
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
+			<_rmmServerID type="a">1016324_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 			<_name type="a">VCCS-MG-Book-V2-Sample</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
@@ -100,8 +125,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.1.2022::13:4:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.1.2022::13:5:17</_modifiedTime>
+			<_modifiedTimeWeak type="a">9.2.2022::17:23:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.2.2022::17:23:51</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -168,6 +193,8 @@
 			</Diagrams>
 			<mapOslcAddedCollections type="c">
 				<IRPYRawContainer type="e">
+					<value>$$$KEYhttps://tempest-rational.davinci1.leonardo.com/rm/process/project-areas/_vAxxMNqfEeyM4-Ffvfg8pA$$$VALUEhttps://tempest-rational.davinci1.leonardo.com/rm/resources/CO_RVUs0CqfEe2eZ-dlKD5MpQ</value>
+					
 				</IRPYRawContainer>
 			</mapOslcAddedCollections>
 			<mapAssociationsToRemove type="c">
@@ -175,6 +202,7 @@
 				</IRPYRawContainer>
 			</mapAssociationsToRemove>
 			<AggregatesList type="e">
+				<value>GUID dc21324f-d803-466a-aec4-c5bcc76018b7</value>
 				<value>GUID d9689b73-885e-44c4-896b-de43defa0a33</value>
 				<value>GUID ab285915-0966-4322-a029-ffac3e6ef3df</value>
 				<value>GUID 9e195709-e32b-49eb-9e4b-c52eccc50582</value>
@@ -182,6 +210,12 @@
 				<value>GUID 69553d5f-b28d-4805-89f1-c79588d450b2</value>
 			</AggregatesList>
 		</IProject>
+		<IProfile type="e">
+			<fileName type="a">RhapsodyModelManager</fileName>
+			<_persistAs type="a">$OMROOT\Profiles\RhapsodyModelManager</_persistAs>
+			<_id type="a">GUID dc21324f-d803-466a-aec4-c5bcc76018b7</_id>
+			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
+		</IProfile>
 		<IProfile type="e">
 			<fileName type="a">SysML</fileName>
 			<_persistAs type="a">$OMROOT\Profiles\SysML\SysMLProfile_rpy</_persistAs>
@@ -198,23 +232,58 @@
 			<fileName type="a">Model</fileName>
 			<_persistAs type="a">Model</_persistAs>
 			<_id type="a">GUID 9e195709-e32b-49eb-9e4b-c52eccc50582</_id>
+			<_rmmServerID type="a">1017284_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 		</ISubsystem>
 		<ISubsystem type="e">
 			<fileName type="a">Default</fileName>
 			<_persistAs type="a">Default</_persistAs>
 			<_id type="a">GUID 005e5985-f519-4e59-b9b9-77c0eba43869</_id>
+			<_rmmServerID type="a">1017399_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 		</ISubsystem>
 		<IComponent type="e">
 			<fileName type="a">DefaultComponent</fileName>
 			<_id type="a">GUID 69553d5f-b28d-4805-89f1-c79588d450b2</_id>
+			<_rmmServerID type="a">1017405_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 		</IComponent>
 		
 	</RHAPSODY-MODEL>
+	<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>1016324_DhYeEs-VEeygP8uJYiD7wA</ID>
+			<RHP-ID>GUID 9a104136-8e00-4925-bdc9-a3086bca476d</RHP-ID>
+			<NAME>VCCS-MG-Book-V2-Sample</NAME>
+			<TYPE>Project</TYPE>
+			<DISPLAY-TYPE>SysML</DISPLAY-TYPE>
+			<DISPLAY-GROUP>SysMLS</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 052b8171-a32b-4f45-a829-5585f79f9deb~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 052b8171-a32b-4f45-a829-5585f79f9deb~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>true</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/2 17:23:51</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>R:Profiles%7FRhapsodyModelManager | R:Profiles%7FSysML | R:Settings%7FSysMLPerspectives | L:1017284_DhYeEs-VEeygP8uJYiD7wA | L:1017399_DhYeEs-VEeygP8uJYiD7wA | R:Packages%7FPredefinedTypes | R:Packages%7FPredefinedTypesCpp | L:1017405_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
+			<REFERENCES>
+				<APPLIED-STEREOTYPES>
+					<FIRST-IS-NEW-TERM>TRUE</FIRST-IS-NEW-TERM>
+					<VALUE-REFERENCES>
+						<VALUE-ELEMENT>
+							<NAME>SysML</NAME>
+						</VALUE-ELEMENT>
+					</VALUE-REFERENCES>
+				</APPLIED-STEREOTYPES>
+			</REFERENCES>
+		</ELEMENT>
+	</RHAPSODY-INDEX>
+
 	<OslcLinks type="c">
 		<IRPYRawContainer type="e">
 		</IRPYRawContainer>
 	</OslcLinks>
 
-<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+<RHAPSODY-INDEX-START>8902</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>10091</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>10092</OSLC-LINKS-START>
+<OSLC-LINKS-END>10181</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
 </RhapsodyArchive>
 
