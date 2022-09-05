@@ -4,7 +4,7 @@
 	<CODE-PAGE>1252</CODE-PAGE>
 	<version>109.0.1</version>
 	<lang>*</lang>
-	<BuildNo>202203291341</BuildNo>
+	<BuildNo>202006101734</BuildNo>
 	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
 	
 	<RHAPSODY-MODEL>
@@ -16,9 +16,42 @@
 			<isLoadOnDemand type="a">0</isLoadOnDemand>
 			<myViewsWithID type="c">
 				<IRPYRawContainer type="e">
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">2</m_nFlags>
+								<m_showCmd type="a">3</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">78</m_nLeft>
+								<m_nTop type="a">78</m_nTop>
+								<m_nRight type="a">1210</m_nRight>
+								<m_nBottom type="a">539</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IActivityDiagram</_hm2Class>
+								<_hfilename type="a">.\VCCS-MG-Book-V2-Sample_rpy\Model\Model.sbsx</_hfilename>
+								<_hsubsystem type="a">Model::P_1_Problem_Domain::P_1_Black_Box::P_3_Use_Cases</_hsubsystem>
+								<_hclass type="a">ProvideConfortableTemperature</_hclass>
+								<_hname type="a">ActivityDiagram</_hname>
+								<_hid type="a">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">-140 -90 </_UpLeft>
+						<_DownRight type="a">1179 538 </_DownRight>
+						<m_nDiagramIndex type="a">0</m_nDiagramIndex>
+						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">I:\NBaEfficiencyPlanMBSE\EfficiencyPlanMBSE-TechnTests Workspace\VCCS-MG-Book-V2-Sample_rpy\VCCS-MG-Book-V2-Sample</_fullName>
+			<_fullName type="a">C:\Temp\EfficiencyPlanMBSE\VCCS-MG-Book-V2-Sample\VCCS-MG-Book-V2-Sample</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">
@@ -53,6 +86,15 @@
 					<value>GUID fffa81a3-0bb7-4927-8472-32e131a84ba9</value>
 				</IRPYRawContainer>
 			</diagramsToPublish>
+			<unitsSavedInOfflineMode type="c">
+				<IRPYRawContainer type="e">
+					<value>$$$KEYGUID 005e5985-f519-4e59-b9b9-77c0eba43869$$$VALUEGUID 005e5985-f519-4e59-b9b9-77c0eba43869</value>
+					
+					<value>$$$KEYGUID 9e195709-e32b-49eb-9e4b-c52eccc50582$$$VALUEGUID 9e195709-e32b-49eb-9e4b-c52eccc50582</value>
+					
+				</IRPYRawContainer>
+			</unitsSavedInOfflineMode>
+			<rmmOfflineMode type="a">True</rmmOfflineMode>
 			<favoritesItem type="e">
 				<generation type="a">0</generation>
 				<name type="a">Favorites</name>

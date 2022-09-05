@@ -5,7 +5,7 @@
 	<version>109.0.1</version>
 	<RMMIndexVersion>109.1</RMMIndexVersion>
 	<lang>C++</lang>
-	<BuildNo>202203291341</BuildNo>
+	<BuildNo>202006101734</BuildNo>
 	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
 	
 	<RHAPSODY-MODEL>
@@ -44,10 +44,10 @@
 			</_properties>
 			<_rmmServerID type="a">1017284_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 			<_name type="a">Model</_name>
-			<_modifiedTimeWeak type="a">9.2.2022::16:56:2</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.2.2022::17:23:51</_modifiedTime>
+			<_modifiedTimeWeak type="a">9.5.2022::8:17:5</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.5.2022::8:17:7</_modifiedTime>
 			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">9.2.2022::16:56:2</weakCGTime>
+			<weakCGTime type="a">9.5.2022::8:17:5</weakCGTime>
 			<strongCGTime type="a">8.30.2022::13:49:17</strongCGTime>
 			<_defaultComposite type="s">GUID 590222c8-c55c-48b7-ba57-688eaa06ff0c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -101,10 +101,10 @@
 			</_properties>
 			<_rmmServerID type="a">1017056_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 			<_name type="a">P_1_Problem_Domain</_name>
-			<_modifiedTimeWeak type="a">9.2.2022::16:56:2</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.5.2022::8:17:5</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.2.2022::17:23:51</_modifiedTime>
 			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">9.2.2022::16:56:2</weakCGTime>
+			<weakCGTime type="a">9.5.2022::8:17:5</weakCGTime>
 			<strongCGTime type="a">8.30.2022::13:49:17</strongCGTime>
 			<_defaultComposite type="s">GUID 534f60ee-456f-4623-ad15-91ca88b35dc8</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -199,10 +199,10 @@ Please do not remove.</_text>
 			</_properties>
 			<_rmmServerID type="a">1017342_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 			<_name type="a">P_1_Black_Box</_name>
-			<_modifiedTimeWeak type="a">9.2.2022::16:56:2</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.5.2022::8:17:5</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.2.2022::17:23:51</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">9.2.2022::16:56:2</weakCGTime>
+			<weakCGTime type="a">9.5.2022::8:17:5</weakCGTime>
 			<strongCGTime type="a">8.30.2022::13:49:17</strongCGTime>
 			<_defaultComposite type="s">GUID d30c2b91-bbd9-4530-8b03-60e5fdc30fff</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -297,10 +297,10 @@ Please do not remove.</_text>
 			</_properties>
 			<_rmmServerID type="a">1017328_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 			<_name type="a">P_3_Use_Cases</_name>
-			<_modifiedTimeWeak type="a">9.2.2022::16:56:2</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.5.2022::8:17:5</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.2.2022::17:23:51</_modifiedTime>
 			<_lastID type="a">8</_lastID>
-			<weakCGTime type="a">9.2.2022::16:56:2</weakCGTime>
+			<weakCGTime type="a">9.5.2022::8:17:5</weakCGTime>
 			<strongCGTime type="a">8.30.2022::13:49:17</strongCGTime>
 			<_defaultComposite type="s">GUID f7106303-6b95-4e97-a68c-e6068a102bab</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -1399,7 +1399,7 @@ Please do not remove.</_text>
 			<_modifiedTimeWeak type="a">9.2.2022::16:56:2</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.2.2022::17:23:51</_modifiedTime>
 			<_lastID type="a">20</_lastID>
-			<weakCGTime type="a">9.2.2022::16:56:2</weakCGTime>
+			<weakCGTime type="a">9.5.2022::8:17:5</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1516,10 +1516,10 @@ Please do not remove.</_text>
 			<_myState type="a">8192</_myState>
 			<_rmmServerID type="a">1017072_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 			<_name type="a">ProvideConfortableTemperature</_name>
-			<_modifiedTimeWeak type="a">9.2.2022::16:56:2</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.5.2022::8:17:5</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.2.2022::17:23:51</_modifiedTime>
 			<_lastID type="a">213</_lastID>
-			<weakCGTime type="a">9.2.2022::16:56:2</weakCGTime>
+			<weakCGTime type="a">9.5.2022::8:17:5</weakCGTime>
 			<strongCGTime type="a">8.15.2022::17:45:57</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1527,7 +1527,7 @@ Please do not remove.</_text>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<_defNumber type="a">44</_defNumber>
-			<_version type="a">9.2.2022::18:56:2</_version>
+			<_version type="a">9.5.2022::10:17:5</_version>
 			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</_diagram>
 			<_AnalysisMode type="a">1</_AnalysisMode>
@@ -4892,9 +4892,9 @@ eOK=UserCommand.Status;</_body>
 			</_properties>
 			<_rmmServerID type="a">1017208_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 			<_name type="a">activitydiagram_0</_name>
-			<_modifiedTimeWeak type="a">9.2.2022::16:56:2</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.5.2022::8:17:5</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.2.2022::8:46:47</_modifiedTime>
-			<_lastModifiedTime type="a">9.2.2022::16:56:2</_lastModifiedTime>
+			<_lastModifiedTime type="a">9.5.2022::8:17:5</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -5581,7 +5581,7 @@ eOK=UserCommand.Status;</_body>
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_transform type="a">0.0444072 0 0 0.0330554 186.413 75.7634 </m_transform>
+			<m_transform type="a">0.0444072 0 0 0.0330554 191.489 75.7634 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -7708,7 +7708,7 @@ eOK=UserCommand.Status;</_body>
 					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 531 86  465 86  </m_arrow>
+			<m_arrow type="a">2 544 90  465 90  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -8491,7 +8491,7 @@ eOK=UserCommand.Status;</_body>
 					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 407 134  407 62  </m_arrow>
+			<m_arrow type="a">2 420 134  420 62  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -28701,7 +28701,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 		</IMatrixInstance>
 		
 	</RHAPSODY-MODEL>
-	<RHAPSODY-INDEX>
+<RHAPSODY-INDEX>
 		<ELEMENT>
 			<ID>1017284_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 9e195709-e32b-49eb-9e4b-c52eccc50582</RHP-ID>
@@ -28712,12 +28712,11 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<BROWSER-ICON>Package~ALL~BrowserIcon</BROWSER-ICON>
 			<GROUP-ICON>Package~ALL~GroupIcon</GROUP-ICON>
 			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
-			<MODIFIED-TIME-UTC>2022/9/2 17:23:51</MODIFIED-TIME-UTC>
+			<MODIFIED-TIME-UTC>2022/9/5 8:17:7</MODIFIED-TIME-UTC>
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017183_DhYeEs-VEeygP8uJYiD7wA | I:1017101_DhYeEs-VEeygP8uJYiD7wA | I:1017056_DhYeEs-VEeygP8uJYiD7wA | I:1017312_DhYeEs-VEeygP8uJYiD7wA | I:1017244_DhYeEs-VEeygP8uJYiD7wA | I:1017343_DhYeEs-VEeygP8uJYiD7wA | I:1017355_DhYeEs-VEeygP8uJYiD7wA | I:1017252_DhYeEs-VEeygP8uJYiD7wA | I:1017288_DhYeEs-VEeygP8uJYiD7wA | I:1017322_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017056_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 26ea7a33-8371-4bd5-bb4c-a12df3e91764</RHP-ID>
@@ -28740,8 +28739,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183923_121874_17407</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017342_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 571774f3-f6e7-4044-a301-93771939c793</RHP-ID>
@@ -28764,8 +28762,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183945_306155_17605</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017328_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 93318d83-c895-4804-b5a2-b2281530abcd</RHP-ID>
@@ -28788,8 +28785,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_984764_17656</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017024_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID cf70e1a4-e9db-4c9f-8a59-072aff14792d</RHP-ID>
@@ -28805,8 +28801,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
 			<REFERENCES></REFERENCES>
-			<PRESENTATION-TYPE>D:1017024_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>D:1017024_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 		<ELEMENT>
 			<ID>1017243_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 25d379f7-4eab-4977-a729-7ddff7452cb9</RHP-ID>
@@ -28821,8 +28816,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017242_DhYeEs-VEeygP8uJYiD7wA | I:1017093_DhYeEs-VEeygP8uJYiD7wA | I:1017050_DhYeEs-VEeygP8uJYiD7wA | I:1017072_DhYeEs-VEeygP8uJYiD7wA | I:1017364_DhYeEs-VEeygP8uJYiD7wA | L:1017012_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017364_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c670daa1-6e7f-4658-a747-1e51951cbdb7</RHP-ID>
@@ -28842,8 +28836,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017076_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017093_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 30995d47-1013-49c4-8e29-13efb39b1708</RHP-ID>
@@ -28871,8 +28864,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017348_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017050_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID bafc0c73-3daf-4ee6-8d03-5098d0a81f97</RHP-ID>
@@ -28900,8 +28892,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017130_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017072_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3c50ce20-2dd2-48c0-81c5-6994d3cb0443</RHP-ID>
@@ -28917,8 +28908,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017178_DhYeEs-VEeygP8uJYiD7wA | I:1017372_DhYeEs-VEeygP8uJYiD7wA | I:1017156_DhYeEs-VEeygP8uJYiD7wA | I:1017061_DhYeEs-VEeygP8uJYiD7wA | I:1017172_DhYeEs-VEeygP8uJYiD7wA | I:1017365_DhYeEs-VEeygP8uJYiD7wA | I:1017103_DhYeEs-VEeygP8uJYiD7wA | I:1017100_DhYeEs-VEeygP8uJYiD7wA | I:1017304_DhYeEs-VEeygP8uJYiD7wA | I:1017078_DhYeEs-VEeygP8uJYiD7wA | I:1017248_DhYeEs-VEeygP8uJYiD7wA | I:1017201_DhYeEs-VEeygP8uJYiD7wA | I:1017179_DhYeEs-VEeygP8uJYiD7wA | I:1017227_DhYeEs-VEeygP8uJYiD7wA | I:1017246_DhYeEs-VEeygP8uJYiD7wA | I:1017225_DhYeEs-VEeygP8uJYiD7wA | I:1017233_DhYeEs-VEeygP8uJYiD7wA | I:1017110_DhYeEs-VEeygP8uJYiD7wA | I:1017105_DhYeEs-VEeygP8uJYiD7wA | I:1017187_DhYeEs-VEeygP8uJYiD7wA | I:1017074_DhYeEs-VEeygP8uJYiD7wA | I:1017176_DhYeEs-VEeygP8uJYiD7wA | I:1017221_DhYeEs-VEeygP8uJYiD7wA | I:1017300_DhYeEs-VEeygP8uJYiD7wA | I:1017275_DhYeEs-VEeygP8uJYiD7wA | I:1017299_DhYeEs-VEeygP8uJYiD7wA | I:1017117_DhYeEs-VEeygP8uJYiD7wA | I:1017190_DhYeEs-VEeygP8uJYiD7wA | I:1017324_DhYeEs-VEeygP8uJYiD7wA | I:1017111_DhYeEs-VEeygP8uJYiD7wA | I:1017276_DhYeEs-VEeygP8uJYiD7wA | I:1017097_DhYeEs-VEeygP8uJYiD7wA | I:1017023_DhYeEs-VEeygP8uJYiD7wA | I:1017177_DhYeEs-VEeygP8uJYiD7wA | I:1017368_DhYeEs-VEeygP8uJYiD7wA | I:1017170_DhYeEs-VEeygP8uJYiD7wA | I:1017058_DhYeEs-VEeygP8uJYiD7wA | I:1017064_DhYeEs-VEeygP8uJYiD7wA | I:1017297_DhYeEs-VEeygP8uJYiD7wA | I:1017169_DhYeEs-VEeygP8uJYiD7wA | I:1017234_DhYeEs-VEeygP8uJYiD7wA | I:1017344_DhYeEs-VEeygP8uJYiD7wA | I:1017360_DhYeEs-VEeygP8uJYiD7wA | I:1017381_DhYeEs-VEeygP8uJYiD7wA | I:1017210_DhYeEs-VEeygP8uJYiD7wA | I:1017134_DhYeEs-VEeygP8uJYiD7wA | I:1017081_DhYeEs-VEeygP8uJYiD7wA | I:1017039_DhYeEs-VEeygP8uJYiD7wA | I:1017126_DhYeEs-VEeygP8uJYiD7wA | I:1017377_DhYeEs-VEeygP8uJYiD7wA | I:1017034_DhYeEs-VEeygP8uJYiD7wA | I:1017042_DhYeEs-VEeygP8uJYiD7wA | I:1017020_DhYeEs-VEeygP8uJYiD7wA | I:1017087_DhYeEs-VEeygP8uJYiD7wA | I:1017191_DhYeEs-VEeygP8uJYiD7wA | I:1017198_DhYeEs-VEeygP8uJYiD7wA | I:1017231_DhYeEs-VEeygP8uJYiD7wA | I:1017026_DhYeEs-VEeygP8uJYiD7wA | I:1017273_DhYeEs-VEeygP8uJYiD7wA | I:1017166_DhYeEs-VEeygP8uJYiD7wA | I:1017378_DhYeEs-VEeygP8uJYiD7wA | I:1017222_DhYeEs-VEeygP8uJYiD7wA | I:1017213_DhYeEs-VEeygP8uJYiD7wA | I:1017308_DhYeEs-VEeygP8uJYiD7wA | I:1017321_DhYeEs-VEeygP8uJYiD7wA | I:1017204_DhYeEs-VEeygP8uJYiD7wA | I:1017140_DhYeEs-VEeygP8uJYiD7wA | I:1017211_DhYeEs-VEeygP8uJYiD7wA | I:1017174_DhYeEs-VEeygP8uJYiD7wA | I:1017124_DhYeEs-VEeygP8uJYiD7wA | I:1017389_DhYeEs-VEeygP8uJYiD7wA | I:1017080_DhYeEs-VEeygP8uJYiD7wA | I:1017055_DhYeEs-VEeygP8uJYiD7wA | I:1017208_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
 			<REFERENCES></REFERENCES>
-			<PRESENTATION-TYPE>D:1017072_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>D:1017072_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 		<ELEMENT>
 			<ID>1017074_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 542a577f-3f9d-4c6a-b3bf-061b24d55d66</RHP-ID>
@@ -28942,8 +28932,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017176_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 40f71be8-1a87-45f7-b480-2b3f5932015b</RHP-ID>
@@ -28967,8 +28956,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017221_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5069d87d-a374-43b7-8112-74e6ff606eaa</RHP-ID>
@@ -28992,8 +28980,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017300_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d63a547b-387c-4c11-90c6-6057fe35e6b4</RHP-ID>
@@ -29017,8 +29004,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017275_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7364ff75-2e85-4add-8b1e-727e8ca0e54a</RHP-ID>
@@ -29042,8 +29028,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017299_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 42e20133-29e4-4466-ab5b-55d4037419a1</RHP-ID>
@@ -29067,8 +29052,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017117_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d87a2a8e-0698-492c-a2a0-c56c882584b9</RHP-ID>
@@ -29092,8 +29076,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017190_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3e3fdb7c-32a5-4493-95ad-20e065100cbe</RHP-ID>
@@ -29117,8 +29100,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017324_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e64a9b2e-853b-49f6-9002-03732eb43212</RHP-ID>
@@ -29142,8 +29124,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017111_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d489ccc6-6873-458d-81d7-9bcfdfa3cb5f</RHP-ID>
@@ -29167,8 +29148,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017276_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 03ab3bdf-fab3-411a-be2c-eb5840650c21</RHP-ID>
@@ -29192,8 +29172,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017097_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 4604268e-cd44-4630-9119-b1057d56925e</RHP-ID>
@@ -29217,8 +29196,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017023_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e287bdc1-0031-4b55-80ef-7ef1df07406d</RHP-ID>
@@ -29242,8 +29220,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017177_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5a7392f8-49c6-4e5c-b90f-45099ca43f2d</RHP-ID>
@@ -29267,8 +29244,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017368_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 48a40d9d-16aa-4e4f-99b5-9660141a1b25</RHP-ID>
@@ -29292,8 +29268,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017170_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 24a1e8de-fe33-4205-bbf0-78eeb4d3c3bc</RHP-ID>
@@ -29308,8 +29283,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017058_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 51fe6c2c-453e-4bf0-b5fe-a5601d306b92</RHP-ID>
@@ -29333,8 +29307,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017064_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 52709a07-6894-439f-8f0e-4688395eaa3c</RHP-ID>
@@ -29358,8 +29331,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017297_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1a0cfdb9-bc83-45a2-a597-0019e8321d7b</RHP-ID>
@@ -29383,8 +29355,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017169_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b7e3ab66-5600-47e5-b3d1-b2da49e19fc8</RHP-ID>
@@ -29408,8 +29379,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017234_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7c811788-642d-4448-9fbe-57e13c629c70</RHP-ID>
@@ -29433,8 +29403,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017344_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 92dbdc50-ea6f-405e-b643-57be0636f0e0</RHP-ID>
@@ -29458,8 +29427,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017360_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID a27aadee-bc9d-4800-a140-f87e98fa2e2f</RHP-ID>
@@ -29483,8 +29451,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017381_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 48625116-95f1-494d-974d-b921eaf72233</RHP-ID>
@@ -29508,8 +29475,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017210_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 44c94c64-64ed-4bf1-8022-39d7b8180985</RHP-ID>
@@ -29533,8 +29499,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017134_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 08047fa7-8560-4533-a752-aa28bb93ba3b</RHP-ID>
@@ -29558,8 +29523,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017081_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e1393223-1a65-441e-8146-64012273257b</RHP-ID>
@@ -29583,8 +29547,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017039_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2f05be9e-06d7-44fa-b6f5-cdc39e029b77</RHP-ID>
@@ -29608,8 +29571,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017126_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 07eb4170-0c49-485b-a44b-54596455d2e0</RHP-ID>
@@ -29633,8 +29595,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017377_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2fa9a66c-52fb-4f08-93f1-c3b60860b43e</RHP-ID>
@@ -29658,8 +29619,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017034_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 054a7c4f-bd9e-47e3-8d31-de257aa833c2</RHP-ID>
@@ -29683,8 +29643,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017042_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 93ba51f4-30fa-4132-9b5a-2f14af03d063</RHP-ID>
@@ -29708,8 +29667,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017020_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d227b88f-3944-4a82-a365-763c2d80f974</RHP-ID>
@@ -29724,8 +29682,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017087_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c20827e3-783b-44eb-a54d-86b4ffd2ea91</RHP-ID>
@@ -29740,8 +29697,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017191_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3b25930d-2b7f-44ed-b086-e9f3faa4d2b9</RHP-ID>
@@ -29756,8 +29712,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017198_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 39696d4f-66c4-4de0-9a4f-13aedfed15be</RHP-ID>
@@ -29772,8 +29727,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017231_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e519c63b-979d-4744-93c5-5156ae049c9d</RHP-ID>
@@ -29788,8 +29742,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017026_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID dae86b66-9d78-4f27-aa8d-cf5d0babb2a5</RHP-ID>
@@ -29804,8 +29757,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017273_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3ec5e8fe-f8d9-4b14-8c77-6237d77fc379</RHP-ID>
@@ -29829,8 +29781,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017166_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f3f6d3d4-9275-4d5a-839d-d7d43f783c7c</RHP-ID>
@@ -29854,8 +29805,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017378_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 11b0215a-398b-40d4-b501-367c7783fa41</RHP-ID>
@@ -29879,8 +29829,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017222_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 14097d67-3494-4344-b99d-09eca6ab3349</RHP-ID>
@@ -29895,8 +29844,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017213_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 613d2b71-5a69-4e45-98e0-351c240d3880</RHP-ID>
@@ -29911,8 +29859,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017308_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1ee7d3e9-0426-4c1e-a1c6-8d95266976bd</RHP-ID>
@@ -29927,8 +29874,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017321_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 439f8e01-31f2-4117-b200-a65a93dd35fb</RHP-ID>
@@ -29943,8 +29889,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017204_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5190eccf-d964-4ae6-9d16-41377d1fb5f0</RHP-ID>
@@ -29959,8 +29904,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017140_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 73bfdbdf-6541-45b0-8f41-9ef3b87adf8a</RHP-ID>
@@ -29975,8 +29919,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017211_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1627137f-d5d1-47fc-a6ff-19d2a7f1b664</RHP-ID>
@@ -29991,8 +29934,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017174_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5b6d3565-1cb5-4607-8187-1e7e0de1fc69</RHP-ID>
@@ -30007,8 +29949,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017124_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 38a36a52-d1af-45b7-b1dd-6ca668923b11</RHP-ID>
@@ -30023,8 +29964,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017389_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d14632c7-d40a-447c-98af-082ace51902b</RHP-ID>
@@ -30039,8 +29979,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017080_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3c6c2199-822f-41d9-8968-174aa5c02f29</RHP-ID>
@@ -30055,8 +29994,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017055_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c861c511-823a-4492-94d0-afca0374b949</RHP-ID>
@@ -30071,8 +30009,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017172_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 285aabc9-3af9-48e0-8d51-d9c7780b5aea</RHP-ID>
@@ -30087,8 +30024,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017159_DhYeEs-VEeygP8uJYiD7wA | I:1017391_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017159_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 34234836-8cd0-4921-b967-5acc9addb08f</RHP-ID>
@@ -30103,8 +30039,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017391_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f356e5e6-c53a-4a73-a9d0-7cbc9e59fcbd</RHP-ID>
@@ -30138,8 +30073,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017236_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017365_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID bc35e31b-76aa-4bfb-9289-a77bac6254c7</RHP-ID>
@@ -30154,8 +30088,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017330_DhYeEs-VEeygP8uJYiD7wA | I:1017334_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017330_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 462508f3-0449-4bbe-8f07-b67f7c29d74b</RHP-ID>
@@ -30170,8 +30103,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017334_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 356a3b17-2dd9-40ab-8b76-a0206073e8c2</RHP-ID>
@@ -30205,8 +30137,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017091_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017103_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 8054056e-fa83-4420-a6f7-008069c07936</RHP-ID>
@@ -30221,8 +30152,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017331_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017331_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID fe40aced-3716-4946-9023-fe4b47e542bf</RHP-ID>
@@ -30256,8 +30186,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017091_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017100_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7be6ef38-148b-4194-8521-3e8f3aa4b1ba</RHP-ID>
@@ -30272,8 +30201,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017237_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017237_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 76d978f3-2ccc-4530-9e44-58ad05174bf6</RHP-ID>
@@ -30307,8 +30235,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017091_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017304_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 4043eb7b-44b5-40e2-9d64-bfda41e8640b</RHP-ID>
@@ -30323,8 +30250,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017152_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017152_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 33e098e2-0489-4523-81bc-1e649f42e888</RHP-ID>
@@ -30358,8 +30284,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017287_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017078_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID cb18ebd1-a1c1-40b0-8e5d-cc1db2e52a28</RHP-ID>
@@ -30374,8 +30299,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017259_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017259_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID dc31b44a-7572-4d13-b430-3195b44cd90f</RHP-ID>
@@ -30409,8 +30333,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017236_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017248_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b6f8db2d-96c8-41b3-9076-55a85f32eb33</RHP-ID>
@@ -30425,8 +30348,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017122_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017122_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7798eab0-ca23-4d73-bd07-6d0e56771341</RHP-ID>
@@ -30460,8 +30382,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017091_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017201_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d0e23851-bb35-4aac-aa44-fbfe096a01f2</RHP-ID>
@@ -30476,8 +30397,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017283_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017283_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d6f72052-e776-43e4-809f-84660ce53e65</RHP-ID>
@@ -30511,8 +30431,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017236_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017179_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 612d5646-b676-44e3-b84a-24542d5f905b</RHP-ID>
@@ -30527,8 +30446,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017048_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017048_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5cea5535-63be-4862-87f1-64188a1cbfa3</RHP-ID>
@@ -30562,8 +30480,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017035_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017227_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 21a656da-b3e5-4803-a7ea-77fdbc2f13a4</RHP-ID>
@@ -30578,8 +30495,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017180_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017180_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ffd36d8a-6f7e-42ca-b90c-0310ba733160</RHP-ID>
@@ -30613,8 +30529,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017091_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017246_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 14e94ba4-bfc9-49af-9a8d-687f7003db12</RHP-ID>
@@ -30629,8 +30544,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017197_DhYeEs-VEeygP8uJYiD7wA | I:1017226_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017197_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e3733c26-9a22-49c7-9fe7-16d774aa7814</RHP-ID>
@@ -30645,8 +30559,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017226_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7dd1157b-4cf2-45a8-b7e6-259da4591830</RHP-ID>
@@ -30680,8 +30593,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017035_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017225_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e979ccc0-edd5-46a0-bc40-bb011ca04034</RHP-ID>
@@ -30696,8 +30608,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017329_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017329_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 67cbbf60-3fed-45b7-89e9-ee455284e271</RHP-ID>
@@ -30731,8 +30642,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017236_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017233_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 67671a1c-fc5a-48cd-b264-9d176d9ead46</RHP-ID>
@@ -30747,8 +30657,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017305_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017305_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d491f29f-e240-4526-99b7-efef1240d427</RHP-ID>
@@ -30782,8 +30691,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017236_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017110_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d970675b-ec01-4b02-b683-16f93313eccd</RHP-ID>
@@ -30798,8 +30706,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017105_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7136e3b7-a54e-4a40-8924-f90b0e31bae2</RHP-ID>
@@ -30823,8 +30730,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017187_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 365e79a7-bfc0-4d46-96eb-56b848f5a164</RHP-ID>
@@ -30839,8 +30745,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017390_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017390_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ec738d1f-da5e-46bd-a73f-9b44732fc57a</RHP-ID>
@@ -30874,8 +30779,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017236_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017208_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID eb04b23d-61a3-441a-9465-674e80eb3fbf</RHP-ID>
@@ -30891,8 +30795,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
 			<REFERENCES></REFERENCES>
-			<PRESENTATION-TYPE>D:1017072_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>D:1017072_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 		<ELEMENT>
 			<ID>1017178_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID fc6254ad-f517-4418-bc36-f942003269d1</RHP-ID>
@@ -30913,8 +30816,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<VALUE-ID>1017398_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017255_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 10496d4a-5991-4c20-b653-4b09c81c45f1</RHP-ID>
@@ -30948,8 +30850,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017236_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017372_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 46e42f91-4ee9-49ab-99ac-d656528fba07</RHP-ID>
@@ -30973,8 +30874,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<DESCRIPTION>
 				<PLAIN-TEXT>Prova</PLAIN-TEXT>
-			</DESCRIPTION>
-		</ELEMENT>
+			</DESCRIPTION></ELEMENT>
 		<ELEMENT>
 			<ID>1017114_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d5a2944a-4138-4033-808d-d8acc8a9472e</RHP-ID>
@@ -31008,8 +30908,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017091_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017028_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b9352360-3a9f-455c-a1e5-b232b67a6071</RHP-ID>
@@ -31033,8 +30932,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017156_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5c715bb9-ba58-47d2-9c4f-0622cd148129</RHP-ID>
@@ -31055,8 +30953,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<VALUE-ID>1017398_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017131_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ca38cf6d-5ed9-4ed7-9ecd-b69cb4787890</RHP-ID>
@@ -31090,8 +30987,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017035_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017061_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b516760f-2a1c-464b-873c-88053bb0d55e</RHP-ID>
@@ -31112,8 +31008,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<VALUE-ID>1017398_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017280_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f6956c45-eb2a-4a49-ad6b-78fb01403676</RHP-ID>
@@ -31147,8 +31042,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017287_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017242_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 92da366c-a18a-43ef-9508-c7c8be38212d</RHP-ID>
@@ -31173,8 +31067,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<AGGREGATION-KIND>Association</AGGREGATION-KIND>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017207_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3ff0ff74-f32f-4a66-9e9f-c2bb4610cc14</RHP-ID>
@@ -31189,8 +31082,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017220_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3c852a5b-4486-4151-92f7-fd7553687e13</RHP-ID>
@@ -31213,8 +31105,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_172314_17651</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017232_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 379c33a8-0887-45f0-b90c-4ceb55bf4f3a</RHP-ID>
@@ -31239,8 +31130,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
 			</REFERENCES>
-			<PRESENTATION-TYPE>D:1017232_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>D:1017232_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 		<ELEMENT>
 			<ID>1017336_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c2fef07b-3856-4a03-8013-34492cb3bbcd</RHP-ID>
@@ -31264,8 +31154,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017104_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c332edae-620e-4ec9-afcb-d379373b8a9f</RHP-ID>
@@ -31294,8 +31183,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017037_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017303_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 80f791a4-cfb5-46b2-94f8-f82bac1242b8</RHP-ID>
@@ -31327,8 +31215,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<DESCRIPTION>
 				<PLAIN-TEXT>in Kilograms</PLAIN-TEXT>
-			</DESCRIPTION>
-		</ELEMENT>
+			</DESCRIPTION></ELEMENT>
 		<ELEMENT>
 			<ID>1017295_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID af67c2d9-2602-4575-ac9b-e61a04b20939</RHP-ID>
@@ -31360,8 +31247,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<TYPE>Unit</TYPE>
 					</VALUE-ELEMENT>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017317_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 259274f8-b4aa-4e7f-a62c-6ccf5a242e0a</RHP-ID>
@@ -31384,8 +31270,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183923_779904_17395</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017217_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e737b732-a826-4ab7-bc1f-e92efb75ce29</RHP-ID>
@@ -31400,8 +31285,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017038_DhYeEs-VEeygP8uJYiD7wA | I:1017224_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017038_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 33db03d2-7ce6-449a-b76b-b13ff27eeaf2</RHP-ID>
@@ -31416,8 +31300,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017164_DhYeEs-VEeygP8uJYiD7wA | I:1017278_DhYeEs-VEeygP8uJYiD7wA | I:1017085_DhYeEs-VEeygP8uJYiD7wA | I:1017314_DhYeEs-VEeygP8uJYiD7wA | I:1017158_DhYeEs-VEeygP8uJYiD7wA | I:1017362_DhYeEs-VEeygP8uJYiD7wA | I:1017184_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017164_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID a33783bf-a028-4a48-bb34-ad0f3d57d415</RHP-ID>
@@ -31438,8 +31321,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<VALUE-ID>1017400_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017278_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1f7d0a96-f715-4429-89fd-f8c421b81789</RHP-ID>
@@ -31460,8 +31342,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<VALUE-ID>1017400_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017085_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID a849d41e-9327-4fcf-9ec3-5d9f3e0d840e</RHP-ID>
@@ -31482,8 +31363,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<VALUE-ID>1017400_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017314_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 47f071c4-fd57-41a4-9c53-9e19ceb9c255</RHP-ID>
@@ -31504,8 +31384,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<VALUE-ID>1017400_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017158_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 96a6acb0-28b5-4077-9b64-2e1a1a59d9a4</RHP-ID>
@@ -31526,8 +31405,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<VALUE-ID>1017400_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017362_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 03ce2d0d-7830-45f3-ba7a-4561ebf9efa3</RHP-ID>
@@ -31542,8 +31420,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017184_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2b96cac4-5331-4e0d-9a12-d80e448efdaa</RHP-ID>
@@ -31558,8 +31435,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017224_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 35175c10-929e-4a05-a074-26ee46fe3af3</RHP-ID>
@@ -31574,8 +31450,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017320_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017320_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7fd80665-b1f6-4754-929c-75956f801292</RHP-ID>
@@ -31594,8 +31469,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<DESCRIPTION>
 				<PLAIN-TEXT>%0D
 </PLAIN-TEXT>
-			</DESCRIPTION>
-		</ELEMENT>
+			</DESCRIPTION></ELEMENT>
 		<ELEMENT>
 			<ID>1017277_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d393e591-cfe3-419b-b259-a1ff30d5654e</RHP-ID>
@@ -31620,8 +31494,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<DESCRIPTION>
 				<PLAIN-TEXT>Documento di specifica/Repoer di modellazione dell'esempio originale DASSAULT/CAMEO</PLAIN-TEXT>
-			</DESCRIPTION>
-		</ELEMENT>
+			</DESCRIPTION></ELEMENT>
 		<ELEMENT>
 			<ID>1017017_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID fffa81a3-0bb7-4927-8472-32e131a84ba9</RHP-ID>
@@ -31646,8 +31519,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
 			</REFERENCES>
-			<PRESENTATION-TYPE>D:1017017_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>D:1017017_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 		<ELEMENT>
 			<ID>1017057_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 700c0fdb-a527-4a8c-bf7a-2d42c349bd39</RHP-ID>
@@ -31672,8 +31544,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
 			</REFERENCES>
-			<PRESENTATION-TYPE>T:1017057_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>T:1017057_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 		<ELEMENT>
 			<ID>1017123_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 67fcd4d8-782a-4cc2-a6b8-a4f131563e1c</RHP-ID>
@@ -31696,8 +31567,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183943_462958_17591</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017263_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e21b5f41-ee96-4690-b1cc-21fd468e9e4b</RHP-ID>
@@ -31720,8 +31590,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183948_712765_17702</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017239_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b444b60d-bc5f-41ae-9f73-1d8f5bc780a1</RHP-ID>
@@ -31745,8 +31614,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017084_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 34e9feeb-ce00-43c4-8068-54f690c20d54</RHP-ID>
@@ -31771,8 +31639,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
 			</REFERENCES>
-			<PRESENTATION-TYPE>D:1017084_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>D:1017084_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 		<ELEMENT>
 			<ID>1017091_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ae830bea-f3d6-401b-8fd3-ab5c5d36bacf</RHP-ID>
@@ -31791,8 +31658,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017125_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017035_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 11bca48b-d54b-4edb-8713-19c4097239aa</RHP-ID>
@@ -31811,8 +31677,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017370_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017287_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 06ca679e-752d-4310-9ba4-ebc60350ad4c</RHP-ID>
@@ -31831,8 +31696,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017385_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017236_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 4e71dd7d-eb21-4322-92b2-2919ccdcf5e2</RHP-ID>
@@ -31851,8 +31715,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017121_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017086_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1297725a-b329-4770-981f-20b3fc1fecbb</RHP-ID>
@@ -31876,8 +31739,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017125_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 9fe2c16e-e7c4-402c-9c47-f6b23dc25534</RHP-ID>
@@ -31901,8 +31763,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017323_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 332e6e0c-61d6-4bed-a278-eded34ccc1a5</RHP-ID>
@@ -31924,8 +31785,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<RELATION-TARGET>
 					<VALUE-ID>1017336_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</RELATION-TARGET>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017385_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 433ded35-3643-4bbe-8f26-59007ecaaf7f</RHP-ID>
@@ -31949,8 +31809,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017370_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 139c48de-85d9-4141-abfe-c8e92c8c5d73</RHP-ID>
@@ -31974,8 +31833,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017121_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID fbe92da2-6f58-4601-b07e-c266313c12b0</RHP-ID>
@@ -31999,8 +31857,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017335_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 0d0bab3e-0971-4f8b-88b9-ded3441efd18</RHP-ID>
@@ -32025,8 +31882,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<AGGREGATION-KIND>Association</AGGREGATION-KIND>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017162_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID a554c4d5-3623-4781-b787-5ffecaf2adf2</RHP-ID>
@@ -32051,8 +31907,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<AGGREGATION-KIND>Association</AGGREGATION-KIND>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017356_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID a117794c-1552-400c-9b9d-1951a3560375</RHP-ID>
@@ -32077,8 +31932,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<AGGREGATION-KIND>Association</AGGREGATION-KIND>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017099_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 6579af8d-d5f3-45c8-866d-abfc0ee06385</RHP-ID>
@@ -32101,8 +31955,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183935_904586_17439</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017139_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 9569e7ad-8a2d-411a-acf7-e6bed189327a</RHP-ID>
@@ -32125,8 +31978,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183948_607244_17697</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017309_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 70d777af-77a7-4c90-99ac-636367c4ee0f</RHP-ID>
@@ -32149,8 +32001,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183936_189403_17462</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017290_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b8aa1fb5-ed89-43a3-9bbd-7772ae8990b0</RHP-ID>
@@ -32173,8 +32024,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_646219_17510</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017258_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2a22e808-8569-4be0-8804-123c6b095916</RHP-ID>
@@ -32197,8 +32047,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_312898_17636</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017315_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3cff1fa1-46b8-45de-93ab-4b122e247cde</RHP-ID>
@@ -32221,8 +32070,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_860489_17488</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017040_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 6054df97-bb26-4385-b6fb-63449530d813</RHP-ID>
@@ -32245,8 +32093,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183941_119286_17581</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017358_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2fc5fefd-fe7f-485e-9ca5-dd89440ecc52</RHP-ID>
@@ -32269,8 +32116,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_288893_17499</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017310_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e3bc53b4-ee76-4735-ae7c-8ec9e2d9d3c1</RHP-ID>
@@ -32293,8 +32139,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_471652_17521</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017109_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 35fe8195-efb7-4f09-afe6-3fe03bb075a9</RHP-ID>
@@ -32317,8 +32162,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183948_446710_17687</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017371_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 619af939-8451-40b1-abc7-f89e11d61234</RHP-ID>
@@ -32341,8 +32185,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183936_815977_17456</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017302_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b58041a5-f6f2-4803-9607-f39197f45a05</RHP-ID>
@@ -32365,8 +32208,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183936_174514_17454</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017247_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d4d1b978-1e42-43fd-9985-7ef66fbf2b5a</RHP-ID>
@@ -32389,8 +32231,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_352876_17626</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017384_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 20bd55c4-e30d-4370-b610-9fc921c50fa2</RHP-ID>
@@ -32417,8 +32258,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<FLOW-DIRECTION>Directed</FLOW-DIRECTION>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017241_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d5a93144-59d1-4ef2-97d6-78c2ac47e74f</RHP-ID>
@@ -32445,8 +32285,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<FLOW-DIRECTION>Directed</FLOW-DIRECTION>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017373_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 45f7be0a-2a38-4903-bc77-f8a979525855</RHP-ID>
@@ -32473,8 +32312,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<FLOW-DIRECTION>Directed</FLOW-DIRECTION>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017291_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 143b136b-650e-4b08-b09d-3379b05196aa</RHP-ID>
@@ -32501,8 +32339,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<FLOW-DIRECTION>Directed</FLOW-DIRECTION>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017367_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2df83305-5195-4b1f-a910-6011c1eab031</RHP-ID>
@@ -32529,8 +32366,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<FLOW-DIRECTION>Directed</FLOW-DIRECTION>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017380_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 00dbbeca-a7f8-498e-b125-85bec042a0ac</RHP-ID>
@@ -32557,8 +32393,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<FLOW-DIRECTION>Directed</FLOW-DIRECTION>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017071_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2dcc2b62-f7e7-4e78-9e45-afe4913b84be</RHP-ID>
@@ -32585,8 +32420,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<FLOW-DIRECTION>Directed</FLOW-DIRECTION>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017383_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 701c6d3f-44d8-48db-93df-392043fb05b6</RHP-ID>
@@ -32613,8 +32447,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			</REFERENCES>
 			<ADDITIONAL-PROPERTIES>
 				<FLOW-DIRECTION>Directed</FLOW-DIRECTION>
-			</ADDITIONAL-PROPERTIES>
-		</ELEMENT>
+			</ADDITIONAL-PROPERTIES></ELEMENT>
 		<ELEMENT>
 			<ID>1017128_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d3432338-7d5e-4948-a6ff-569a18b01e5a</RHP-ID>
@@ -32642,8 +32475,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017115_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017345_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 6d8fabf5-0e5d-4753-9034-1c26f98808c8</RHP-ID>
@@ -32674,8 +32506,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<TYPE>Type</TYPE>
 					</VALUE-ELEMENT>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017350_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 68158bcd-ade1-4eb3-b3df-29fb8d2fc490</RHP-ID>
@@ -32706,8 +32537,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<TYPE>Type</TYPE>
 					</VALUE-ELEMENT>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017269_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 99070624-e1ea-47c9-9218-2babe1e5c367</RHP-ID>
@@ -32738,8 +32568,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<TYPE>Type</TYPE>
 					</VALUE-ELEMENT>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017264_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 9273e9d9-0034-4cc4-91d0-bad1b08dce0a</RHP-ID>
@@ -32770,8 +32599,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						<TYPE>Type</TYPE>
 					</VALUE-ELEMENT>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017256_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 76443685-8615-442d-8667-a8755130eebd</RHP-ID>
@@ -32787,8 +32615,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017192_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c822e51b-71c9-47ef-beed-768d41e63de1</RHP-ID>
@@ -32804,8 +32631,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017151_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b0eb8d6f-cd8b-4751-8979-3f9e5da4d362</RHP-ID>
@@ -32821,8 +32647,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017285_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 83e953fc-ae9e-41db-b7bd-6a5f6b136c2f</RHP-ID>
@@ -32838,8 +32663,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017054_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c44f1352-fb8a-4818-a04a-4a645fb5d150</RHP-ID>
@@ -32855,8 +32679,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017014_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 6fc732f7-9b58-435f-b1f4-14cd95df2af4</RHP-ID>
@@ -32872,8 +32695,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017076_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d9aa4c23-149d-406b-ace4-8fdcef17bad9</RHP-ID>
@@ -32889,8 +32711,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES>I:1017326_DhYeEs-VEeygP8uJYiD7wA | I:1017282_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017326_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 322a27d4-59c0-4640-9afd-06684cf09c41</RHP-ID>
@@ -32905,8 +32726,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017282_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7740e3c0-bd0e-407b-ac98-8d59190105ee</RHP-ID>
@@ -32921,8 +32741,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017160_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 694d15f3-8126-4d40-8e72-46d88291629a</RHP-ID>
@@ -32938,8 +32757,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017348_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d854df54-0f58-4e91-bae6-448b6c95807a</RHP-ID>
@@ -32963,8 +32781,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017068_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e3362441-46d3-4513-b66d-3ace5663284a</RHP-ID>
@@ -32979,8 +32796,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017051_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 0bd4ca6c-1ff0-46d5-bcb9-766b0ca296bb</RHP-ID>
@@ -32995,8 +32811,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017130_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID eed3193c-126c-49ba-ad4c-cacd01cb80b4</RHP-ID>
@@ -33020,8 +32835,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017388_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 213b7217-884d-49e3-b10f-d795fb5daf78</RHP-ID>
@@ -33036,8 +32850,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017150_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ced7d5a0-7b10-41e9-837e-bc97af49a1a0</RHP-ID>
@@ -33052,8 +32865,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017115_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID dd169574-dc50-4fae-a516-9bee072ff12c</RHP-ID>
@@ -33077,8 +32889,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017333_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c7b39fff-cfaa-4009-8324-089f36ca3a11</RHP-ID>
@@ -33106,8 +32917,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017348_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017205_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 19288bd6-5a0c-48fb-8b6e-423776c4b461</RHP-ID>
@@ -33135,8 +32945,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 				<OF-TYPE>
 					<VALUE-ID>1017130_DhYeEs-VEeygP8uJYiD7wA</VALUE-ID>
 				</OF-TYPE>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017265_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 7e1cf2eb-0b46-4333-89f8-f2537edfd3a8</RHP-ID>
@@ -33181,8 +32990,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<BASE-TAG>GUID a917d01d-ef68-4da5-9550-ff96ae3934dc</BASE-TAG>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017037_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 25eec38e-d37f-4c95-a15a-8950a66b9544</RHP-ID>
@@ -33206,8 +33014,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 						</VALUE-ELEMENT>
 					</VALUE-REFERENCES>
 				</APPLIED-STEREOTYPES>
-			</REFERENCES>
-		</ELEMENT>
+			</REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017138_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ebf96a1b-a3f7-4702-a4f8-9bfc020e2605</RHP-ID>
@@ -33246,8 +33053,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<BASE-TAG>GUID 263b461c-b2bb-456d-8375-cf6698033598</BASE-TAG>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017070_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 4011562f-8246-4219-8e1b-8b43f7025316</RHP-ID>
@@ -33270,8 +33076,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183922_265702_17375</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017312_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 8922b049-4cce-4090-8b1b-fa83be6d4dd3</RHP-ID>
@@ -33294,8 +33099,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_736398_17668</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017029_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b47503b6-5bba-4296-bfcf-281d858c07c2</RHP-ID>
@@ -33318,8 +33122,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183942_403817_17585</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017095_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b04e7c73-6f31-49f0-ad62-072957c45c11</RHP-ID>
@@ -33342,8 +33145,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183945_278970_17604</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017137_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 22916fc2-8e13-4c5c-9824-dd33013ade0c</RHP-ID>
@@ -33366,8 +33168,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183924_33620_17412</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017016_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 21ee80e3-2981-42ba-a407-95e128d17801</RHP-ID>
@@ -33390,8 +33191,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_414401_17477</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017219_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 0ac25a4f-81f9-434f-84a4-4e023ec5bb3e</RHP-ID>
@@ -33414,8 +33214,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183939_530783_17533</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017251_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 462b03e3-8b15-4688-ac68-36dbad1ed5d8</RHP-ID>
@@ -33438,8 +33237,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183935_394212_17446</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017033_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b60a858c-edff-4350-8ccd-d5645e012f0a</RHP-ID>
@@ -33462,8 +33260,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_720904_17671</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017267_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d96e8ca1-b1bd-4836-9897-0c713e90061c</RHP-ID>
@@ -33486,8 +33283,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_639482_17685</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017392_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 271a04fc-b4b7-4afb-8394-461e6d65fe8c</RHP-ID>
@@ -33510,8 +33306,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183935_796170_17435</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017271_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 716f6e9a-87d5-442c-b361-1702b99d371c</RHP-ID>
@@ -33534,8 +33329,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183923_460856_17384</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017366_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5073414d-6139-4e25-bd17-8191bf22bd6f</RHP-ID>
@@ -33558,8 +33352,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183941_238032_17574</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017181_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f2493e9f-1a5c-4b36-94c9-730d77bcd6e8</RHP-ID>
@@ -33582,8 +33375,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_459962_17645</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017173_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID dbfacdfb-a02b-4c02-abe5-de44fdb7cc62</RHP-ID>
@@ -33606,8 +33398,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_932441_17610</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017216_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 07e3f5f8-8462-4754-8845-abfe322d0f2a</RHP-ID>
@@ -33630,8 +33421,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183936_688103_17470</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017223_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3ba7b2fd-67bd-417c-bfcf-d3b7e51e9a07</RHP-ID>
@@ -33654,8 +33444,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_475826_17653</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017340_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c5619f0b-4c3e-4256-88bb-97a878f1b6c0</RHP-ID>
@@ -33678,8 +33467,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183940_350373_17552</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017171_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID e4498d06-5d5f-4884-ba02-a9b230ea1e02</RHP-ID>
@@ -33702,8 +33490,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183934_787231_17433</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017244_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID fcd5c799-1548-464b-825b-9ebdf2693311</RHP-ID>
@@ -33726,8 +33513,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183923_373393_17382</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017318_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 9060cae2-4a5c-4568-b5ce-cb1dba9763c4</RHP-ID>
@@ -33750,8 +33536,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183941_782520_17578</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017307_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 61265786-97b0-4851-8d52-28295ea11001</RHP-ID>
@@ -33774,8 +33559,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183935_873009_17442</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017235_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2fe6238d-d963-4e1d-9883-202171eb7427</RHP-ID>
@@ -33798,8 +33582,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183921_936573_17351</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017157_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 4e8d5ca9-3e94-4dcf-81e0-c60c5ad97039</RHP-ID>
@@ -33822,8 +33605,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183944_116223_17596</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017059_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ea9fcc6c-c332-4a4f-85a8-a14403aad327</RHP-ID>
@@ -33846,8 +33628,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_216267_17682</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017154_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 50d94b74-0b00-4ccf-b3f4-3ca7185db255</RHP-ID>
@@ -33870,8 +33651,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_162948_17615</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017032_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b3445d6e-6254-4fd6-9afd-0878477dd0d0</RHP-ID>
@@ -33894,8 +33674,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183943_16605_17593</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017163_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d7241154-167d-4a91-acf0-146ea95ab9ea</RHP-ID>
@@ -33918,8 +33697,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_662917_17630</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017245_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID a5c94b7c-3abb-4adf-9776-9eaa435b8edf</RHP-ID>
@@ -33942,8 +33720,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183939_530678_17546</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017343_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 8cdb0aa4-99c7-4a5c-a527-c96aba955b1a</RHP-ID>
@@ -33966,8 +33743,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183939_631270_17528</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017266_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID af9f3a28-05f5-428a-af3b-f78f4ac225f1</RHP-ID>
@@ -33990,8 +33766,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_278668_17494</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017354_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 0bf5749b-1435-413f-b932-bb348d0b6628</RHP-ID>
@@ -34014,8 +33789,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183939_293697_17534</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017021_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 4821430a-b311-4120-b0b0-c50d2e3c6050</RHP-ID>
@@ -34038,8 +33812,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_130228_17646</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017066_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ceca92af-403e-496f-867b-09eb9b917008</RHP-ID>
@@ -34062,8 +33835,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183924_222855_17417</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017212_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2f049529-9b51-4cf4-a251-28b0d6c9b209</RHP-ID>
@@ -34086,8 +33858,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183936_106075_17453</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017296_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1c13c458-ca6d-4bbb-bac1-b733a672200d</RHP-ID>
@@ -34110,8 +33881,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183923_613314_17378</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017089_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2717ef0b-b133-44ec-9efa-344bc9c22d37</RHP-ID>
@@ -34134,8 +33904,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183940_799072_17567</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017382_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID fe5ed21d-f75f-4f64-aac8-b8d21649d492</RHP-ID>
@@ -34158,8 +33927,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_186124_17650</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017292_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID bc0be9c7-0621-4665-9313-988a7ebc6249</RHP-ID>
@@ -34182,8 +33950,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_395898_17483</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017272_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c0a52088-10d3-4f5c-b62d-8fc598aa01bb</RHP-ID>
@@ -34206,8 +33973,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183948_462283_17703</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017294_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 55dab142-ecc4-4403-aad4-f87e9ed7941e</RHP-ID>
@@ -34230,8 +33996,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_230090_17476</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017341_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ed984429-4605-4cca-9be9-068e6aa6f0ef</RHP-ID>
@@ -34254,8 +34019,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183935_34954_17437</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017260_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID db968fc8-a8ec-47d3-adb1-2565b72a600c</RHP-ID>
@@ -34278,8 +34042,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_92231_17522</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017046_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ce7a7fc9-b55b-4805-9f63-cf016f058209</RHP-ID>
@@ -34302,8 +34065,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_15761_17524</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017120_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2371b875-351d-4719-9cac-d279622e4328</RHP-ID>
@@ -34326,8 +34088,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183948_598171_17686</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017027_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 56a3acfa-b068-4a2c-8024-031b29a82aae</RHP-ID>
@@ -34350,8 +34111,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183942_956395_17586</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017167_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 05630d81-4d0e-41c8-b318-f64dcca3e107</RHP-ID>
@@ -34374,8 +34134,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183948_686938_17698</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017199_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1e6a1a27-48cc-4793-b805-befac12e2ffc</RHP-ID>
@@ -34398,8 +34157,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183941_869146_17576</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017393_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID a203e994-981a-4ae7-8669-1a9ed1c67971</RHP-ID>
@@ -34422,8 +34180,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_519576_17514</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017387_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID b466493e-a5b3-4920-a72c-1df3fa784582</RHP-ID>
@@ -34446,8 +34203,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183923_772107_17387</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017031_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2be2a34e-4bd8-44bd-a9a2-ec3290c6b523</RHP-ID>
@@ -34470,8 +34226,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183939_136751_17547</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017135_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 98afd4c8-a176-41e3-8fbe-a14d8a779724</RHP-ID>
@@ -34494,8 +34249,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183935_438813_17448</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017355_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f60284ab-9178-47fb-9ee7-592900117174</RHP-ID>
@@ -34518,8 +34272,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183922_199009_17357</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017049_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 0c94a1e4-2ec0-41fb-b01c-b5faa500b31d</RHP-ID>
@@ -34542,8 +34295,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_438632_17489</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017301_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID daa0f7bd-6429-49f9-8225-766e420ff890</RHP-ID>
@@ -34566,8 +34318,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183922_381122_17364</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017079_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 62447cef-fb74-4d53-a09f-67c67a8e4408</RHP-ID>
@@ -34590,8 +34341,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183922_639793_17361</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017313_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID c69a9327-4f95-4a65-a401-3c87632161ac</RHP-ID>
@@ -34614,8 +34364,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183923_668281_17389</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017194_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f98b4334-2373-40d6-aa7c-7484552ed5e9</RHP-ID>
@@ -34638,8 +34387,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183924_15525_17428</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017119_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1ae3f3c5-5452-4391-847c-2c69f001656d</RHP-ID>
@@ -34662,8 +34410,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183939_713328_17550</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017214_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 3d399a35-4b18-4729-b1b5-d02f6df90f55</RHP-ID>
@@ -34686,8 +34433,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_292480_17659</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017352_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f8dbcb38-8b75-48a3-a085-a63ad1b52890</RHP-ID>
@@ -34710,8 +34456,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_254331_17672</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017077_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 33bb5f93-97a6-43b7-9ff5-f3f02677d966</RHP-ID>
@@ -34734,8 +34479,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183924_601206_17415</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017188_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 46b5d27b-c119-45fe-b6ab-83f6858a46e4</RHP-ID>
@@ -34758,8 +34502,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183922_491354_17360</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017359_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID d64d85c0-a4d7-4d74-ad58-9fc1c48d25f8</RHP-ID>
@@ -34782,8 +34525,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_89517_17496</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017041_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 29d85b58-0702-4d73-aa80-78aee5101b46</RHP-ID>
@@ -34806,8 +34548,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_525133_17475</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017257_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 90a3fb51-2b20-4080-88de-f6b20cb69b0e</RHP-ID>
@@ -34830,8 +34571,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_992389_17624</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017254_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID aa85ec5b-0cc4-494e-9fbf-c2da5bddba26</RHP-ID>
@@ -34854,8 +34594,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183946_689463_17638</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017044_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 710558e5-9151-407b-a938-f55508b039ef</RHP-ID>
@@ -34878,8 +34617,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_874193_17525</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017073_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID db3489d2-9913-4c52-b216-bd7ce926b279</RHP-ID>
@@ -34902,8 +34640,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183940_381559_17553</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017133_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 96cc5395-a5de-422d-a15a-5f73ea3f1b8a</RHP-ID>
@@ -34926,8 +34663,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_295292_17485</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017193_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ea1fdad6-07aa-41ee-991a-b5eb2b46e435</RHP-ID>
@@ -34950,8 +34686,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183922_281935_17366</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017369_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f30860a7-6ea5-45a4-b789-04c72a1a258e</RHP-ID>
@@ -34974,8 +34709,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183940_110878_17569</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017361_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2ae42b89-eb49-4ca2-a94e-28dade7d764b</RHP-ID>
@@ -34998,8 +34732,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183935_489860_17438</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017147_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID a7cb9f98-52a3-4773-88d6-96ab0f76bc0c</RHP-ID>
@@ -35022,8 +34755,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183924_154672_17419</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017252_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5353fe4e-e383-49ce-89e0-9815336e83c8</RHP-ID>
@@ -35046,8 +34778,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183938_942346_17520</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017349_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID ee053ef8-ea17-4f45-a91b-279b5f2d62a4</RHP-ID>
@@ -35070,8 +34801,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183947_39773_17665</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017094_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID cf73caa6-4b2e-452e-b608-abc376c7efee</RHP-ID>
@@ -35094,8 +34824,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183941_699322_17579</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017022_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 9820e70d-57b9-4ad2-b845-32b9394f0926</RHP-ID>
@@ -35118,8 +34847,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183935_879643_17449</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017261_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 41da63af-f546-40a0-883d-4641db50e303</RHP-ID>
@@ -35142,8 +34870,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183945_313726_17606</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017319_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 1f7002d7-31ff-4435-ac0c-4900242594a9</RHP-ID>
@@ -35166,8 +34893,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183939_512970_17529</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017288_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 755ea2b3-1b07-4fab-8dc1-ee06a86a1019</RHP-ID>
@@ -35190,8 +34916,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183941_867142_17571</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017306_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID f97d085d-090f-4208-ba97-199cc2dcfaf2</RHP-ID>
@@ -35214,8 +34939,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183918_271789_17346</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017052_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 06baec8d-afcc-4fd4-b9fe-90e38e8ae11d</RHP-ID>
@@ -35238,8 +34962,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 					<VALUE-STRING>MAGCIG~1.MDX#_2021x_1_29be058a_1653308183937_30030_17471</VALUE-STRING>
 				</TAG>
 			</TAGS>
-			
-		</ELEMENT>
+			</ELEMENT>
 		<ELEMENT>
 			<ID>1017322_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 5f00fb41-0183-4405-93ea-33c22abebc13</RHP-ID>
@@ -35255,8 +34978,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
 			<REFERENCES></REFERENCES>
-			<PRESENTATION-TYPE>D:1017322_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>D:1017322_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 		<ELEMENT>
 			<ID>1017183_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID bcb5322e-cbdb-41f3-8a1b-9e38d5e22bb7</RHP-ID>
@@ -35271,8 +34993,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
-			<REFERENCES></REFERENCES>
-		</ELEMENT>
+			<REFERENCES></REFERENCES></ELEMENT>
 		<ELEMENT>
 			<ID>1017101_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 2922d187-6819-43cc-a771-1ca6ccbee12c</RHP-ID>
@@ -35288,8 +35009,7 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 			<VIEW-CHILDREN></VIEW-CHILDREN>
 			<AGGREGATES></AGGREGATES>
 			<REFERENCES></REFERENCES>
-			<PRESENTATION-TYPE>M:1017101_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE>
-		</ELEMENT>
+			<PRESENTATION-TYPE>M:1017101_DhYeEs-VEeygP8uJYiD7wA</PRESENTATION-TYPE></ELEMENT>
 	</RHAPSODY-INDEX>
 
 	<OslcLinks type="c">
@@ -35297,10 +35017,10 @@ Before creating your own MagicGrid project, you can study the built-in samples. 
 		</IRPYRawContainer>
 	</OslcLinks>
 
-<RHAPSODY-INDEX-START>1319982</RHAPSODY-INDEX-START>
-<RHAPSODY-INDEX-END>1562988</RHAPSODY-INDEX-END>
-<OSLC-LINKS-START>1562989</OSLC-LINKS-START>
-<OSLC-LINKS-END>1563078</OSLC-LINKS-END>
+<RHAPSODY-INDEX-START>1319967</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>1562130</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>1562131</OSLC-LINKS-START>
+<OSLC-LINKS-END>1562220</OSLC-LINKS-END>
 <INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
 </RhapsodyArchive>
 
