@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RhapsodyArchive>
-	<MagicNumber>_EpON4ioAEe2DXLrcUTKCqg</MagicNumber>
+	<MagicNumber>_TiX-sC3KEe2TUqm4yqGtwg</MagicNumber>
 	<CODE-PAGE>1252</CODE-PAGE>
 	<version>109.0.1</version>
 	<RMMIndexVersion>109.1</RMMIndexVersion>
@@ -111,7 +111,7 @@
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_rmmServerID type="a">1016324_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
+			<_rmmServerID type="a">1018714_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 			<_name type="a">VCCS-MG-Book-V2-Sample</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
@@ -125,8 +125,8 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.2.2022::17:23:51</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.2.2022::17:23:51</_modifiedTime>
+			<_modifiedTimeWeak type="a">9.6.2022::12:9:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.6.2022::12:9:19</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -232,24 +232,24 @@
 			<fileName type="a">Model</fileName>
 			<_persistAs type="a">Model</_persistAs>
 			<_id type="a">GUID 9e195709-e32b-49eb-9e4b-c52eccc50582</_id>
-			<_rmmServerID type="a">1017284_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
+			<_rmmServerID type="a">1018986_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 		</ISubsystem>
 		<ISubsystem type="e">
 			<fileName type="a">Default</fileName>
 			<_persistAs type="a">Default</_persistAs>
 			<_id type="a">GUID 005e5985-f519-4e59-b9b9-77c0eba43869</_id>
-			<_rmmServerID type="a">1017399_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
+			<_rmmServerID type="a">1018704_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 		</ISubsystem>
 		<IComponent type="e">
 			<fileName type="a">DefaultComponent</fileName>
 			<_id type="a">GUID 69553d5f-b28d-4805-89f1-c79588d450b2</_id>
-			<_rmmServerID type="a">1017405_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
+			<_rmmServerID type="a">1018710_DhYeEs-VEeygP8uJYiD7wA</_rmmServerID>
 		</IComponent>
 		
 	</RHAPSODY-MODEL>
 	<RHAPSODY-INDEX>
 		<ELEMENT>
-			<ID>1016324_DhYeEs-VEeygP8uJYiD7wA</ID>
+			<ID>1018714_DhYeEs-VEeygP8uJYiD7wA</ID>
 			<RHP-ID>GUID 9a104136-8e00-4925-bdc9-a3086bca476d</RHP-ID>
 			<NAME>VCCS-MG-Book-V2-Sample</NAME>
 			<TYPE>Project</TYPE>
@@ -258,10 +258,10 @@
 			<BROWSER-ICON>GUID 052b8171-a32b-4f45-a829-5585f79f9deb~ALL~BrowserIcon</BROWSER-ICON>
 			<GROUP-ICON>GUID 052b8171-a32b-4f45-a829-5585f79f9deb~ALL~GroupIcon</GROUP-ICON>
 			<IS-TOP-LEVEL>true</IS-TOP-LEVEL>
-			<MODIFIED-TIME-UTC>2022/9/2 17:23:51</MODIFIED-TIME-UTC>
+			<MODIFIED-TIME-UTC>2022/9/6 12:9:19</MODIFIED-TIME-UTC>
 			<VIEW-PARENTS></VIEW-PARENTS>
 			<VIEW-CHILDREN></VIEW-CHILDREN>
-			<AGGREGATES>R:Profiles%7FRhapsodyModelManager | R:Profiles%7FSysML | R:Settings%7FSysMLPerspectives | L:1017284_DhYeEs-VEeygP8uJYiD7wA | L:1017399_DhYeEs-VEeygP8uJYiD7wA | R:Packages%7FPredefinedTypes | R:Packages%7FPredefinedTypesCpp | L:1017405_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
+			<AGGREGATES>R:Profiles%7FRhapsodyModelManager | R:Profiles%7FSysML | R:Settings%7FSysMLPerspectives | L:1018986_DhYeEs-VEeygP8uJYiD7wA | L:1018704_DhYeEs-VEeygP8uJYiD7wA | R:Packages%7FPredefinedTypes | R:Packages%7FPredefinedTypesCpp | L:1018710_DhYeEs-VEeygP8uJYiD7wA</AGGREGATES>
 			<REFERENCES>
 				<APPLIED-STEREOTYPES>
 					<FIRST-IS-NEW-TERM>TRUE</FIRST-IS-NEW-TERM>
@@ -280,10 +280,10 @@
 		</IRPYRawContainer>
 	</OslcLinks>
 
-<RHAPSODY-INDEX-START>8902</RHAPSODY-INDEX-START>
-<RHAPSODY-INDEX-END>10091</RHAPSODY-INDEX-END>
-<OSLC-LINKS-START>10092</OSLC-LINKS-START>
-<OSLC-LINKS-END>10181</OSLC-LINKS-END>
+<RHAPSODY-INDEX-START>8900</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>10088</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>10089</OSLC-LINKS-START>
+<OSLC-LINKS-END>10178</OSLC-LINKS-END>
 <INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
 </RhapsodyArchive>
 

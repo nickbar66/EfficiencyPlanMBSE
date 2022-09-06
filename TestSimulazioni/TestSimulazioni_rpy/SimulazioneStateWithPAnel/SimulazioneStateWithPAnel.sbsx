@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RhapsodyArchive>
-	<MagicNumber></MagicNumber>
+	<MagicNumber>NEED_RHAPSODY_CLIENT_SAVE:**NewOfflineFile**:119-9807668-1662455228</MagicNumber>
 	<CODE-PAGE>1252</CODE-PAGE>
 	<version>109.0.1</version>
+	<RMMIndexVersion>109.1</RMMIndexVersion>
 	<lang>C++</lang>
 	<BuildNo>202006101734</BuildNo>
 	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
@@ -13,7 +14,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">SimulazioneStateWithPAnel</_name>
 			<_modifiedTimeWeak type="a">9.1.2022::18:48:25</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.1.2022::18:43:38</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::11:7:8</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<weakCGTime type="a">9.1.2022::18:48:25</weakCGTime>
 			<strongCGTime type="a">8.5.2022::12:53:29</strongCGTime>
@@ -1101,7 +1102,7 @@
 			<_id type="a">GUID 4274f1b6-ee7e-4a3b-9439-60403b32d847</_id>
 			<_name type="a">////    Constructors and destructors    ////</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">////    Constructors and destructors    ////
 </m_text>
@@ -1118,7 +1119,7 @@
 			<_id type="a">GUID 714d8b38-fc86-46df-90ce-73fcab3acaa9</_id>
 			<_name type="a">////    Additional operations    ////</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">////    Additional operations    ////
 </m_text>
@@ -1135,7 +1136,7 @@
 			<_id type="a">GUID c0f25b65-02a4-465f-be11-1651e3c1d8a1</_id>
 			<_name type="a">////    Framework operations    ////</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">////    Framework operations    ////
 </m_text>
@@ -1152,7 +1153,7 @@
 			<_id type="a">GUID 3b567e7a-1967-49aa-9c0c-629d3bf78080</_id>
 			<_name type="a">// rootState:</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">// rootState:
 </m_text>
@@ -1169,7 +1170,7 @@
 			<_id type="a">GUID 34e2c114-9346-40de-a13f-63d1effd63cc</_id>
 			<_name type="a">////    Framework    ////</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<m_type type="a">textFragment</m_type>
 			<m_text type="a">////    Framework    ////
 </m_text>
@@ -1187,7 +1188,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -1787,7 +1788,7 @@
 			<m_pICollaboration type="p"><ICollaboration type="e">
 				<_id type="a">GUID e580c7de-93e5-4df6-9924-5624cfec7d4c</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+				<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 				<AggregatesList type="e">
 					<value>GUID 6a4e232b-fd9e-48d9-965a-4584557cd30e</value>
 					<value>GUID 33aef43f-6536-436a-8578-46d14f48d934</value>
@@ -2450,6 +2451,8 @@
 					<m_position type="a">1 0 0  </m_position>
 					<m_nIdent type="a">0</m_nIdent>
 					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nHorizontalSpacing type="a">-144</m_nHorizontalSpacing>
+					<m_nVerticalSpacing type="a">-50</m_nVerticalSpacing>
 					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_name>
@@ -2472,7 +2475,7 @@
 					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_AdditionalLabel>
-			<m_position type="a">1 0 0  </m_position>
+			<m_position type="a">4 -48 0  -48 437  48 437  48 0  </m_position>
 			<m_pInheritsFrom type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -2482,6 +2485,35 @@
 		</CGIMscColumnCR>
 		<CGIMscConditionMark type="e">
 			<_id type="a">GUID 698a5ed3-68bd-413d-bcae-a595710757e6</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">SequenceDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Condition_Mark</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AlignConditionMarksLeft</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">114</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2516,6 +2548,35 @@
 		</CGIMscConditionMark>
 		<CGIMscConditionMark type="e">
 			<_id type="a">GUID b0941f85-b266-4952-9cbd-fa6efd5c7aa7</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">SequenceDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Condition_Mark</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AlignConditionMarksLeft</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">114</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2550,6 +2611,35 @@
 		</CGIMscConditionMark>
 		<CGIMscConditionMark type="e">
 			<_id type="a">GUID b4d6b66c-20f2-49f1-ad15-dee19bfdc207</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">SequenceDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Condition_Mark</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AlignConditionMarksLeft</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">114</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2584,6 +2674,35 @@
 		</CGIMscConditionMark>
 		<CGIMscConditionMark type="e">
 			<_id type="a">GUID 17492374-7ac3-4a7d-b5d2-174489231bc3</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">SequenceDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Condition_Mark</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AlignConditionMarksLeft</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">114</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2618,6 +2737,35 @@
 		</CGIMscConditionMark>
 		<CGIMscConditionMark type="e">
 			<_id type="a">GUID 29a1bb69-4464-48f3-a7c5-b4d21e6421f3</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">SequenceDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Condition_Mark</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AlignConditionMarksLeft</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">114</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2652,6 +2800,35 @@
 		</CGIMscConditionMark>
 		<CGIMscConditionMark type="e">
 			<_id type="a">GUID 701ed161-fd3c-4a33-a5d6-f55894ef8001</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">SequenceDiagram</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Condition_Mark</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">AlignConditionMarksLeft</_Name>
+													<_Value type="a">True</_Value>
+													<_Type type="a">Bool</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">114</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -2688,7 +2865,7 @@
 			<_id type="a">GUID 2a2a512b-0b88-4e82-94a8-66a621556d28</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -2705,7 +2882,7 @@
 			<_id type="a">GUID 21c2726d-609c-492c-b134-dc84e23145fa</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -2722,7 +2899,7 @@
 			<_id type="a">GUID 84742b68-b8af-4fe4-a533-2fdde10a5bb7</_id>
 			<_myState type="a">8192</_myState>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -2821,7 +2998,7 @@
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID 37b02215-cfa2-4f96-9c5b-5457ab4ee090</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_body type="a">evTurnOn</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -2856,7 +3033,7 @@
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID f7f2c3c9-08cc-4b3d-8396-1277e28cd9ee</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_body type="a">evTurnOff</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -2891,7 +3068,7 @@
 		<IInterfaceItemTrigger type="e">
 			<_id type="a">GUID aab0431c-7179-499c-bb47-49327d7cdb81</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_body type="a">evOrderGiven</_body>
 			<_itsInterfaceItem type="r">
 				<IHandle type="e">
@@ -2917,7 +3094,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 39c07ed4-c220-4940-b0e1-5c311624d200</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -2939,7 +3116,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 999c25a0-77b1-4381-9834-e41bfcaeaae3</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -3922,7 +4099,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">evTurnOn</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -3934,7 +4111,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">evTurnOff</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -3946,7 +4123,7 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">evOrderGiven</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<_modifiedTime type="a">9.6.2022::8:12:1</_modifiedTime>
 			<_virtual type="a">0</_virtual>
 			<Args type="c">
 				<IRPYRawContainer type="e">
@@ -3955,11 +4132,559 @@
 		</IEvent>
 		
 	</RHAPSODY-MODEL>
+<RHAPSODY-INDEX>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 972c55cd-a06d-4741-b7a6-ea8adcda4296</RHP-ID>
+			<NAME>SimulazioneStateWithPAnel</NAME>
+			<TYPE>Package</TYPE>
+			<DISPLAY-TYPE>Package</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Packages</DISPLAY-GROUP>
+			<BROWSER-ICON>Package~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Package~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/6 11:7:8</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:0 | I:0 | I:0 | I:0 | I:0</AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID d531573a-3e1a-4cca-acbf-87e655d5306c</RHP-ID>
+			<NAME>StateStimulus</NAME>
+			<TYPE>PanelDiagram</TYPE>
+			<DISPLAY-TYPE>PanelDiagram</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Panel Diagrams</DISPLAY-GROUP>
+			<BROWSER-ICON>PanelDiagram~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>PanelDiagram~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/15 16:38:44</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES>
+			<PRESENTATION-TYPE>D:0</PRESENTATION-TYPE></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 689c861d-e56f-41fb-b0b8-aa63e5fa15ef</RHP-ID>
+			<NAME>StateChartSim</NAME>
+			<TYPE>Class</TYPE>
+			<DISPLAY-TYPE>Block</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Blocks</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID f685432f-691e-4ff1-be70-4d09d19457e1~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID f685432f-691e-4ff1-be70-4d09d19457e1~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:48:25</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:0 | I:0 | I:0 | I:0 | I:0 | I:0</AGGREGATES>
+			<REFERENCES>
+				<APPLIED-STEREOTYPES>
+					<FIRST-IS-NEW-TERM>TRUE</FIRST-IS-NEW-TERM>
+					<VALUE-REFERENCES>
+						<VALUE-ELEMENT>
+							<NAME>Block</NAME>
+						</VALUE-ELEMENT>
+					</VALUE-REFERENCES>
+				</APPLIED-STEREOTYPES>
+			</REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 05616a90-dbc3-4564-90db-ce5ee45ed198</RHP-ID>
+			<NAME>sequencediagram_2</NAME>
+			<TYPE>SequenceDiagram</TYPE>
+			<DISPLAY-TYPE>SequenceDiagram</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Sequence Diagrams</DISPLAY-GROUP>
+			<BROWSER-ICON>SequenceDiagram~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>SequenceDiagram~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:46:11</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:0</AGGREGATES>
+			<REFERENCES></REFERENCES>
+			<PRESENTATION-TYPE>D:0</PRESENTATION-TYPE></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID d9b47814-0620-4334-83e6-a7f234d2338b</RHP-ID>
+			<NAME>sequencediagram_2</NAME>
+			<TYPE>Collaboration</TYPE>
+			<DISPLAY-TYPE>Collaboration</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Collaborations</DISPLAY-GROUP>
+			<BROWSER-ICON>Collaboration~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Collaboration~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:46:11</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:0</AGGREGATES>
+			<REFERENCES></REFERENCES>
+			<PRESENTATION-TYPE>D:0</PRESENTATION-TYPE></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID e238964e-6efe-4372-b261-06f5203f76cb</RHP-ID>
+			<NAME>:StateChartSim</NAME>
+			<TYPE>ClassifierRole</TYPE>
+			<DISPLAY-TYPE>Lifeline</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Lifelines</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 752f4249-6420-4c48-9754-8bf7b94585ed~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 752f4249-6420-4c48-9754-8bf7b94585ed~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:46:11</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES>
+				<APPLIED-STEREOTYPES>
+					<FIRST-IS-NEW-TERM>TRUE</FIRST-IS-NEW-TERM>
+					<VALUE-REFERENCES>
+						<VALUE-ELEMENT>
+							<NAME>Lifeline</NAME>
+						</VALUE-ELEMENT>
+					</VALUE-REFERENCES>
+				</APPLIED-STEREOTYPES>
+			</REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 29ab6f93-bf61-484d-aba1-f9d4c8e6b1c9</RHP-ID>
+			<NAME>Animated sequencediagram_2</NAME>
+			<TYPE>SequenceDiagram</TYPE>
+			<DISPLAY-TYPE>SequenceDiagram</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Sequence Diagrams</DISPLAY-GROUP>
+			<BROWSER-ICON>SequenceDiagram~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>SequenceDiagram~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:48:25</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:0</AGGREGATES>
+			<REFERENCES></REFERENCES>
+			<PRESENTATION-TYPE>D:0</PRESENTATION-TYPE></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID e580c7de-93e5-4df6-9924-5624cfec7d4c</RHP-ID>
+			<NAME>Animated sequencediagram_2</NAME>
+			<TYPE>Collaboration</TYPE>
+			<DISPLAY-TYPE>Collaboration</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Collaborations</DISPLAY-GROUP>
+			<BROWSER-ICON>Collaboration~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Collaboration~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/6 8:12:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:0 | I:0 | I:0 | I:0 | I:0 | I:0 | I:0</AGGREGATES>
+			<REFERENCES></REFERENCES>
+			<PRESENTATION-TYPE>D:0</PRESENTATION-TYPE></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 6a4e232b-fd9e-48d9-965a-4584557cd30e</RHP-ID>
+			<NAME>:StateChartSim</NAME>
+			<TYPE>ClassifierRole</TYPE>
+			<DISPLAY-TYPE>Lifeline</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Lifelines</DISPLAY-GROUP>
+			<BROWSER-ICON>GUID 752f4249-6420-4c48-9754-8bf7b94585ed~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>GUID 752f4249-6420-4c48-9754-8bf7b94585ed~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:47:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES>
+				<APPLIED-STEREOTYPES>
+					<FIRST-IS-NEW-TERM>TRUE</FIRST-IS-NEW-TERM>
+					<VALUE-REFERENCES>
+						<VALUE-ELEMENT>
+							<NAME>Lifeline</NAME>
+						</VALUE-ELEMENT>
+					</VALUE-REFERENCES>
+				</APPLIED-STEREOTYPES>
+			</REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 33aef43f-6536-436a-8578-46d14f48d934</RHP-ID>
+			<NAME>conditionmark_0</NAME>
+			<TYPE>ConditionMark</TYPE>
+			<DISPLAY-TYPE>ConditionMark</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Condition Marks</DISPLAY-GROUP>
+			<BROWSER-ICON>ConditionMark~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>ConditionMark~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:47:14</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 67943827-2a46-4a1f-b553-f40d50e700e5</RHP-ID>
+			<NAME>conditionmark_1</NAME>
+			<TYPE>ConditionMark</TYPE>
+			<DISPLAY-TYPE>ConditionMark</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Condition Marks</DISPLAY-GROUP>
+			<BROWSER-ICON>ConditionMark~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>ConditionMark~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:47:34</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 44127ea2-8035-4645-837b-3f93100dc070</RHP-ID>
+			<NAME>conditionmark_2</NAME>
+			<TYPE>ConditionMark</TYPE>
+			<DISPLAY-TYPE>ConditionMark</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Condition Marks</DISPLAY-GROUP>
+			<BROWSER-ICON>ConditionMark~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>ConditionMark~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:47:42</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 96b4b9ef-ac9e-4595-856f-e15b92d8362f</RHP-ID>
+			<NAME>conditionmark_3</NAME>
+			<TYPE>ConditionMark</TYPE>
+			<DISPLAY-TYPE>ConditionMark</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Condition Marks</DISPLAY-GROUP>
+			<BROWSER-ICON>ConditionMark~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>ConditionMark~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:47:51</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID a74a2e2a-f284-46e5-9dbc-3967ae753c1a</RHP-ID>
+			<NAME>conditionmark_4</NAME>
+			<TYPE>ConditionMark</TYPE>
+			<DISPLAY-TYPE>ConditionMark</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Condition Marks</DISPLAY-GROUP>
+			<BROWSER-ICON>ConditionMark~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>ConditionMark~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:47:57</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID df9d8b55-eca2-4418-b2ab-b927421ac471</RHP-ID>
+			<NAME>conditionmark_5</NAME>
+			<TYPE>ConditionMark</TYPE>
+			<DISPLAY-TYPE>ConditionMark</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Condition Marks</DISPLAY-GROUP>
+			<BROWSER-ICON>ConditionMark~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>ConditionMark~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/1 18:48:0</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 2a2a512b-0b88-4e82-94a8-66a621556d28</RHP-ID>
+			<NAME>evTurnOn()</NAME>
+			<LABEL>evTurnOn</LABEL>
+			<TYPE>Reception</TYPE>
+			<DISPLAY-TYPE>Reception</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Receptions</DISPLAY-GROUP>
+			<BROWSER-ICON>Reception~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Reception~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/6 8:12:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES>
+				<OF-TYPE>
+					<VALUE-ELEMENT>
+						<NAME>evTurnOn</NAME>
+						<TYPE>Event</TYPE>
+					</VALUE-ELEMENT>
+				</OF-TYPE>
+			</REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 21c2726d-609c-492c-b134-dc84e23145fa</RHP-ID>
+			<NAME>evTurnOff()</NAME>
+			<LABEL>evTurnOff</LABEL>
+			<TYPE>Reception</TYPE>
+			<DISPLAY-TYPE>Reception</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Receptions</DISPLAY-GROUP>
+			<BROWSER-ICON>Reception~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Reception~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/6 8:12:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES>
+				<OF-TYPE>
+					<VALUE-ELEMENT>
+						<NAME>evTurnOff</NAME>
+						<TYPE>Event</TYPE>
+					</VALUE-ELEMENT>
+				</OF-TYPE>
+			</REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 84742b68-b8af-4fe4-a533-2fdde10a5bb7</RHP-ID>
+			<NAME>evOrderGiven()</NAME>
+			<LABEL>evOrderGiven</LABEL>
+			<TYPE>Reception</TYPE>
+			<DISPLAY-TYPE>Reception</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Receptions</DISPLAY-GROUP>
+			<BROWSER-ICON>Reception~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Reception~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/6 8:12:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES>
+				<OF-TYPE>
+					<VALUE-ELEMENT>
+						<NAME>evOrderGiven</NAME>
+						<TYPE>Event</TYPE>
+					</VALUE-ELEMENT>
+				</OF-TYPE>
+			</REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID c012ad03-6f78-4336-aea2-00e48692e1c1</RHP-ID>
+			<NAME>statechart_0</NAME>
+			<TYPE>Statechart</TYPE>
+			<DISPLAY-TYPE>Statechart</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Statecharts</DISPLAY-GROUP>
+			<BROWSER-ICON>Statechart~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Statechart~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:49:49</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES>I:0 | I:0 | I:0 | I:0 | I:0 | I:0 | I:0 | I:0 | I:0 | I:0</AGGREGATES>
+			<REFERENCES></REFERENCES>
+			<PRESENTATION-TYPE>D:0</PRESENTATION-TYPE></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID e5ea0753-9ca1-4941-9c30-35a1e6d885e6</RHP-ID>
+			<NAME>evTurnOn</NAME>
+			<TYPE>Transition</TYPE>
+			<DISPLAY-TYPE>Transition</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Transitions</DISPLAY-GROUP>
+			<BROWSER-ICON>Transition~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Transition~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:46:22</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 9f28f772-4c99-4687-87f6-cf3c86e3ab73</RHP-ID>
+			<NAME>evTurnOff</NAME>
+			<TYPE>Transition</TYPE>
+			<DISPLAY-TYPE>Transition</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Transitions</DISPLAY-GROUP>
+			<BROWSER-ICON>Transition~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Transition~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:47:2</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID d95e2e49-bed5-4d25-8293-9966c26ba989</RHP-ID>
+			<NAME>evOrderGiven</NAME>
+			<TYPE>Transition</TYPE>
+			<DISPLAY-TYPE>Transition</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Transitions</DISPLAY-GROUP>
+			<BROWSER-ICON>Transition~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Transition~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:48:54</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID caf74ba3-2684-43cf-930d-0d49dd5a77b5</RHP-ID>
+			<NAME>defaulttransition_6</NAME>
+			<TYPE>DefaultTransition</TYPE>
+			<DISPLAY-TYPE>DefaultTransition</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Default Transitions</DISPLAY-GROUP>
+			<BROWSER-ICON>DefaultTransition~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>DefaultTransition~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:49:41</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 9acb3567-6554-41af-b275-5eb696686b89</RHP-ID>
+			<NAME>defaulttransition_7</NAME>
+			<TYPE>DefaultTransition</TYPE>
+			<DISPLAY-TYPE>DefaultTransition</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Default Transitions</DISPLAY-GROUP>
+			<BROWSER-ICON>DefaultTransition~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>DefaultTransition~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:49:49</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 874a2d81-d8e7-41fd-aa73-02a94c736b42</RHP-ID>
+			<NAME>On</NAME>
+			<TYPE>State</TYPE>
+			<DISPLAY-TYPE>State</DISPLAY-TYPE>
+			<DISPLAY-GROUP>States</DISPLAY-GROUP>
+			<BROWSER-ICON>State~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>State~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:49:49</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID eeef3db1-c41e-457b-9c5c-432fa5386de7</RHP-ID>
+			<NAME>Off</NAME>
+			<TYPE>State</TYPE>
+			<DISPLAY-TYPE>State</DISPLAY-TYPE>
+			<DISPLAY-GROUP>States</DISPLAY-GROUP>
+			<BROWSER-ICON>State~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>State~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:49:41</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 80a9d8d1-d25b-4868-8261-ae13c9b44d81</RHP-ID>
+			<NAME>WaitingForOrder</NAME>
+			<TYPE>State</TYPE>
+			<DISPLAY-TYPE>State</DISPLAY-TYPE>
+			<DISPLAY-GROUP>States</DISPLAY-GROUP>
+			<BROWSER-ICON>State~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>State~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:49:49</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 8c3053b8-9730-4666-ad35-b7f3085fba14</RHP-ID>
+			<NAME>OrderTaken</NAME>
+			<TYPE>State</TYPE>
+			<DISPLAY-TYPE>State</DISPLAY-TYPE>
+			<DISPLAY-GROUP>States</DISPLAY-GROUP>
+			<BROWSER-ICON>State~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>State~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:48:45</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID a1c2a1d7-f022-459a-b4a5-051fd0fa494e</RHP-ID>
+			<NAME>StatechartDiagram</NAME>
+			<TYPE>StatechartDiagram</TYPE>
+			<DISPLAY-TYPE>StatechartDiagram</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Statechart Diagrams</DISPLAY-GROUP>
+			<BROWSER-ICON>StatechartDiagram~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>StatechartDiagram~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/8/5 10:49:49</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES>
+			<PRESENTATION-TYPE>D:0</PRESENTATION-TYPE></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 31bf6cfc-135b-41f2-b3e6-69320fb01d50</RHP-ID>
+			<NAME>evTurnOn()</NAME>
+			<LABEL>evTurnOn</LABEL>
+			<TYPE>Event</TYPE>
+			<DISPLAY-TYPE>Event</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Events</DISPLAY-GROUP>
+			<BROWSER-ICON>Event~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Event~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/6 8:12:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 0e00d6ea-de13-4e87-a461-fecfb04ebd3f</RHP-ID>
+			<NAME>evTurnOff()</NAME>
+			<LABEL>evTurnOff</LABEL>
+			<TYPE>Event</TYPE>
+			<DISPLAY-TYPE>Event</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Events</DISPLAY-GROUP>
+			<BROWSER-ICON>Event~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Event~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/6 8:12:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+		<ELEMENT>
+			<ID>0</ID>
+			<RHP-ID>GUID 691a1f42-11a8-4c6d-b946-bf624ba2f051</RHP-ID>
+			<NAME>evOrderGiven()</NAME>
+			<LABEL>evOrderGiven</LABEL>
+			<TYPE>Event</TYPE>
+			<DISPLAY-TYPE>Event</DISPLAY-TYPE>
+			<DISPLAY-GROUP>Events</DISPLAY-GROUP>
+			<BROWSER-ICON>Event~ALL~BrowserIcon</BROWSER-ICON>
+			<GROUP-ICON>Event~ALL~GroupIcon</GROUP-ICON>
+			<IS-TOP-LEVEL>false</IS-TOP-LEVEL>
+			<MODIFIED-TIME-UTC>2022/9/6 8:12:1</MODIFIED-TIME-UTC>
+			<VIEW-PARENTS></VIEW-PARENTS>
+			<VIEW-CHILDREN></VIEW-CHILDREN>
+			<AGGREGATES></AGGREGATES>
+			<REFERENCES></REFERENCES></ELEMENT>
+	</RHAPSODY-INDEX>
+
 	<OslcLinks type="c">
 		<IRPYRawContainer type="e">
 		</IRPYRawContainer>
 	</OslcLinks>
 
-<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+<RHAPSODY-INDEX-START>152977</RHAPSODY-INDEX-START>
+<RHAPSODY-INDEX-END>173588</RHAPSODY-INDEX-END>
+<OSLC-LINKS-START>173589</OSLC-LINKS-START>
+<OSLC-LINKS-END>173678</OSLC-LINKS-END>
+<INCLUDES-RHAPSODY-INDEX>true</INCLUDES-RHAPSODY-INDEX>
 </RhapsodyArchive>
 
